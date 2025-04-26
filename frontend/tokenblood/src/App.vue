@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
+import AppLayout from './components/layout/AppLayout.vue'
 </script>
 
 <template>
-  <RouterView />
+  <AppLayout>
+    <RouterView />
+  </AppLayout>
 </template>
 
 <style>
@@ -15,5 +18,7 @@ import { RouterView } from 'vue-router'
 
 body {
   font-family: Arial, sans-serif;
+  background-color: var(--background-color);
+  color: white;
 }
 </style>

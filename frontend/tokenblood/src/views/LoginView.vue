@@ -3,30 +3,20 @@ import LoginForm from '@/components/LoginForm.vue'
 </script>
 
 <template>
-  <div class="login-container">
-    <div class="login-window">
-      <LoginForm />
-    </div>
+  <div class="login-view">
+    <LoginForm />
   </div>
 </template>
 
 <style scoped>
-.login-container {
+.login-view {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: flex;
-  justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  background-color: #f5f5f5;
-}
-
-.login-window {
-  width: 300px;
-  height: 300px;
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  display: flex;
   justify-content: center;
-  align-items: center;
 }
 </style> 

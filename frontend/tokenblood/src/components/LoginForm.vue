@@ -40,6 +40,7 @@ const handleSubmit = async () => {
         type="text"
         placeholder="username"
         :disabled="authStore.isLoading"
+        class="auth-input"
       />
       <span v-if="errors.username" class="error">{{ errors.username }}</span>
     </div>
@@ -50,11 +51,12 @@ const handleSubmit = async () => {
         type="email"
         placeholder="(optional) e-mail"
         :disabled="authStore.isLoading"
+        class="auth-input"
       />
       <span v-if="errors.email" class="error">{{ errors.email }}</span>
     </div>
     
-    <button type="submit" :disabled="authStore.isLoading">
+    <button type="submit" :disabled="authStore.isLoading" class="auth-button">
       {{ authStore.isLoading ? 'Loading...' : 'Enter' }}
     </button>
   </form>
@@ -64,42 +66,62 @@ const handleSubmit = async () => {
 .login-form {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  width: 300px;
+  gap: 1rem;
+  width: 350px;
+  align-items: center;
 }
 
 .input-group {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  width: 100%;
 }
 
-input {
+.auth-input {
   width: 100%;
   height: 50px;
   padding: 0 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  background: transparent;
+  border: 2px solid var(--accent-color);
+  border-radius: 10px;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
 }
 
-button {
-  width: 100px;
+.auth-input:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 2px rgba(220, 20, 60, 0.2);
+}
+
+.auth-button {
+  width: fit-content;
+  min-width: 100px;
   height: 42px;
-  align-self: center;
-  background: #4CAF50;
+  padding: 0 20px;
+  background: var(--accent-color);
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 10px;
   cursor: pointer;
+  transition: opacity 0.3s;
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
 }
 
-button:disabled {
+.auth-button:hover:not(:disabled) {
+  opacity: 0.9;
+}
+
+.auth-button:disabled {
   background: #cccccc;
   cursor: not-allowed;
 }
 
 .error {
-  color: red;
+  color: var(--accent-color);
   font-size: 12px;
 }
 </style> 
