@@ -1,7 +1,7 @@
 <template>
   <div class="app-layout">
     <nav class="nav-bar">
-      <!-- Navigation content will be added later -->
+      <img src="@/assets/logo.png" alt="TokenBlood Logo" class="logo" />
     </nav>
     <main class="main-content">
       <slot></slot>
@@ -22,11 +22,19 @@
 }
 
 .nav-bar {
-  height: 60px;
+  height: 86px;
   background-color: var(--background-color);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   width: 100%;
   flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  padding: 20px 0 0 27px;
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+  filter: brightness(0) saturate(100%) invert(20%) sepia(100%) saturate(10000%) hue-rotate(340deg);
 }
 
 .main-content {
