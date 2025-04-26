@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <div class="container mx-auto p-4">
+      <h1 class="text-2xl font-bold">Welcome to TokenBlood</h1>
+    </div>
   </main>
 </template>

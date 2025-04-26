@@ -4,6 +4,8 @@
 :root {
   --background-color: #0B0B0F;
   --accent-color: #DC143C;
+  --card-background: #1C1C22;
+  --prompt-text: #D0D0D0;
 }
 
 html, body {

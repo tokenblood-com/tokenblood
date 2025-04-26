@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { useAuthStore } from '@/stores/auth'
+import { useRouter } from 'vue-router'
 
 const authStore = useAuthStore()
+const router = useRouter()
 const username = ref('')
 const email = ref('')
 const errors = ref<{ username?: string; email?: string }>({})
@@ -25,10 +27,14 @@ const validateForm = () => {
 const handleSubmit = async () => {
   if (!validateForm()) return
   
-  await authStore.auth({
+  const user = await authStore.auth({
     username: username.value,
     email: email.value || undefined
   })
+  
+  if (user) {
+    await router.push('/tasks/names_extraction')
+  }
 }
 </script>
 
