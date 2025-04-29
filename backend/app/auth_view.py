@@ -28,7 +28,7 @@ def authenticate_user(auth_data: AuthRequest, db: Session = Depends(get_db)):
         return {"user_id": str(new_user.id)}
     except IntegrityError as e:
         db.rollback()
-        return _raise_http_exception(str(e.orig))
+        _raise_http_exception(str(e.orig))
 
 
 def _raise_http_exception(error_message: str):
