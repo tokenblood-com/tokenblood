@@ -12,7 +12,7 @@ app = FastAPI(
     openapi_url="/openapi.json",
 )
 
-app.include_router(auth_router, prefix="/api/", tags=["auth"])
+app.include_router(auth_router, prefix="/api", tags=["auth"])
 
 
 @app.get("/health")
