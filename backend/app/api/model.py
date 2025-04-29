@@ -22,5 +22,5 @@ def evaluate(request: EvaluateRequest):
     """
     if request.task not in SUPPORTED_TASKS:
         raise HTTPException(status_code=400, detail=f"Task {request.task} is not supported")
-    # Pass both task and prompt from the request body to the evaluation function
+
     return _evaluate_fn(task=request.task, prompt=request.prompt)
