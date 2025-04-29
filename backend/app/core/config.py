@@ -2,6 +2,7 @@
 
 import secrets
 
+from dotenv import load_dotenv
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -16,6 +17,10 @@ class Settings(BaseSettings):
 
     PROJECT_NAME: str = "tokenblood"
     SQLITE_LOCATION: str = "../db.sqlite"
+    OPENAI_MODEL_NAME: str
+    OPENAI_API_KEY: str
 
 
 settings = Settings()  # type: ignore
+
+assert load_dotenv(verbose=True)  # required for ai/ package

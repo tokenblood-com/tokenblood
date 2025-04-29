@@ -5,27 +5,27 @@ description = ""
 authors = [
     {name = "Shamil Arslanov",email = "sh.arslanov.work@gmail.com"}
 ]
-packages = [
-    {include = "src"}
-]
 readme = "README.md"
 requires-python = ">=3.11,<4.0"
 dependencies = [
-    "datasets (>=3.5.0,<4.0.0)",
-    "transformers (>=4.51.3,<5.0.0)",
     "python-dotenv (>=1.1.0,<2.0.0)",
     "pyrootutils (>=1.0.4,<2.0.0)",
     "openai (>=1.76.0,<2.0.0)",
-    "loguru (>=0.7.3,<0.8.0)"
+    "loguru (>=0.7.3,<0.8.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "numpy (>=2.2.5,<3.0.0)"
 ]
 
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.poetry.group.research.dependencies]
+datasets = "^3.5.0"
+transformers = "^4.51.3"
 
 [tool.poetry.group.jupyter.dependencies]
 jupyter = "^1.1.1"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.11.6"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

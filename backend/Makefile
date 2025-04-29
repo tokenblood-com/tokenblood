@@ -1,5 +1,7 @@
 
-
+# run the fastapi app locally
+run:
+	poetry run fastapi run
 
 check: 	
 	poetry run ruff format --line-length 120 .
