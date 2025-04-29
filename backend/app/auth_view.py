@@ -32,8 +32,7 @@ def authenticate_user(auth_data: AuthRequest, db: Session = Depends(get_db)):
 def _raise_http_exception(error_message: str):
     if "UNIQUE constraint failed: users.email" in error_message:
         raise HTTPException(status_code=400, detail="Username already exists")
-    elif "UNIQUE constraint failed: users.username" in error_message:
+    if "UNIQUE constraint failed: users.username" in error_message:
         raise HTTPException(status_code=400, detail="Email already exists")
-    else:
-        logging.error(f"Internal error: {error_message}")
-        raise HTTPException(status_code=500, detail="Internal error")
+    logging.error(f"Internal error: {error_message}")
+    raise HTTPException(status_code=500, detail="Internal error")
