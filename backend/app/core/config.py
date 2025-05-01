@@ -15,7 +15,9 @@ class Settings(BaseSettings):
     SECRET_KEY: str = secrets.token_urlsafe(32)
 
     PROJECT_NAME: str = "tokenblood"
+
     SQLITE_LOCATION: str = "../db.sqlite"
+    SQLALCHEMY_DATABASE_URL: str = f"sqlite:///{SQLITE_LOCATION}"
 
 
 settings = Settings()  # type: ignore
