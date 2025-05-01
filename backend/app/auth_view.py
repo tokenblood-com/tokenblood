@@ -1,4 +1,4 @@
-import logging
+from loguru import logger
 from fastapi import APIRouter, Depends
 from fastapi import HTTPException
 from pydantic import BaseModel
@@ -34,5 +34,5 @@ def _raise_http_exception(error_message: str):
         raise HTTPException(status_code=400, detail="Username already exists")
     if "UNIQUE constraint failed: users.username" in error_message:
         raise HTTPException(status_code=400, detail="Email already exists")
-    logging.error(f"Internal error: {error_message}")
+    logger.error(f"Internal error: {error_message}")
     raise HTTPException(status_code=500, detail="Internal error")
