@@ -1,27 +1,42 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import type { LeaderboardEntry } from '@/types/leaderboard'
-import { fetchLeaderboard } from '@/api/leaderboard'
+import { fetchLeaderboard, type LeaderboardResponse } from '@/api/leaderboard'
+import { PropType } from 'vue'
+import { useAuthStore } from '@/stores/auth'
 
 const leaderboard = ref<LeaderboardEntry[]>([])
 const isLoading = ref(true)
 const error = ref<string | null>(null)
-const currentUser = 'maxikadze'
+const { currentUser } = useAuthStore()
 
-async function loadLeaderboard() {
-  try {
-    isLoading.value = true
-    error.value = null
-    leaderboard.value = await fetchLeaderboard()
-  } catch (e) {
-    error.value = e instanceof Error ? e.message : 'Failed to load leaderboard'
-  } finally {
-    isLoading.value = false
+const LeaderboardEntry = {
+  props: {
+    entry: {
+      type: Object as PropType<LeaderboardEntry>,
+      required: true
+    },
+    isCurrentUser: {
+      type: Boolean,
+      default: false
+    }
   }
 }
 
 onMounted(() => {
-  loadLeaderboard()
+  isLoading.value = true
+  error.value = null
+  
+  fetchLeaderboard()
+    .then((response) => {
+      leaderboard.value = response.data
+    })
+    .catch((e) => {
+      error.value = e instanceof Error ? e.message : 'Failed to load leaderboard'
+    })
+    .finally(() => {
+      isLoading.value = false
+    })
 })
 </script>
 

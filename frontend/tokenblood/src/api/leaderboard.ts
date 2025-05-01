@@ -1,5 +1,9 @@
 import type { LeaderboardEntry } from '@/types/leaderboard'
 
+export interface LeaderboardResponse {
+  data: LeaderboardEntry[];
+}
+
 const MOCK_DATA: LeaderboardEntry[] = [
   { rank: 1, username: 'homomorphism', score: 0.98 },
   { rank: 2, username: 'maxikadze', score: 0.91 },
@@ -16,8 +20,10 @@ const MOCK_DATA: LeaderboardEntry[] = [
   { rank: 13, username: 'dumbest', score: 0.24 }
 ]
 
-export async function fetchLeaderboard(): Promise<LeaderboardEntry[]> {
+export async function fetchLeaderboard(): Promise<LeaderboardResponse> {
   // Simulate network delay
   await new Promise(resolve => setTimeout(resolve, 500))
-  return MOCK_DATA
+  return {
+    data: MOCK_DATA,
+  }
 } 
