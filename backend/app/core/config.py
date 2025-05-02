@@ -8,8 +8,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        # Use top level .env file (one level above ./backend/)
-        env_file="../.env",
+        env_file="./.env",
         env_ignore_empty=True,
         extra="ignore",
     )
@@ -23,4 +22,4 @@ class Settings(BaseSettings):
 
 settings = Settings()  # type: ignore
 
-assert load_dotenv(verbose=True)  # required for ai/ package
+assert load_dotenv(verbose=True, dotenv_path="./.env")  # required for ai/ package
