@@ -13,7 +13,7 @@ dependencies = [
     "pyrootutils (>=1.0.4,<2.0.0)",
     "pydantic-settings (>=2.9.1,<3.0.0)",
     "sqlalchemy (>=2.0.40,<3.0.0)",
-    "src @ file:///Users/shamilarslanov/Projects/MaximLLMArena/tokenblood/ai",
+    "src @ ../ai",
 ]
 
 
