@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 
 from app.core.config import settings
+from app.api.model import model_router
 from app.core.database import engine
 from app.models.user import User
 from app.auth_view import router as auth_router
@@ -13,6 +14,9 @@ app = FastAPI(
 )
 
 app.include_router(auth_router, prefix="/api", tags=["auth"])
+
+
+app.include_router(model_router)
 
 
 @app.get("/health")

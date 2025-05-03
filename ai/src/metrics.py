@@ -51,7 +51,7 @@ def calculate_metrics_personal_info_extraction(pred_df: pd.DataFrame, debug: boo
 
 
 def calculate_metrics(task: str, predictions: pd.DataFrame, debug: bool = False) -> EvaluationResult:
-    if task == "personal_info_extraction":
+    if "personal_info_extraction" in task:
         return calculate_metrics_personal_info_extraction(predictions, debug)
     else:
         raise ValueError(f"Task {task} not supported")
