@@ -1,0 +1,1051 @@
+text,masked_text,names
+"The PalindromesGroup chat includes Salomée, Qéndresa Adrina, and Vithursan.","The PalindromesGroup chat includes [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Salomée', 'Qéndresa Adrina', 'Vithursan']"
+"Narcis and Aiza visited the Princes Risborough art gallery on 09/09/1959. They spent 20 hours admiring the artwork, including pieces by Patrick-Marc Faverjon.","[GIVENNAME_3] and [GIVENNAME_2] visited the [CITY_1] art gallery on [DATE_1]. They spent [AGE_1] hours admiring the artwork, including pieces by [GIVENNAME_1] [SURNAME_1].","['Narcis', 'Aiza', 'Faverjon Patrick-Marc']"
+"07:51:08 Menelaos Iouri to Chayanne: 'Hey, I need some help with designing a custom piece of jewelry for Sivalogini. I want it to represent our shared love of music.'","[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'Hey, I need some help with designing a custom piece of jewelry for [GIVENNAME_1]. I want it to represent our shared love of music.'","['Menelaos Iouri', 'Chayanne', 'Sivalogini']"
+"The following people are attending the Stourbridge Belbroughton Food Festival: Norell, Visanu, and Eduard-Ionut Tancev.","The following people are attending the [CITY_1] Food Festival: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Norell', 'Visanu', 'Tancev Eduard-Ionut']"
+Thevanesan: Hey Saliba! I need your help in drafting a plus-size pattern for Dionisa Magbule's birthday gift.,[GIVENNAME_3]: Hey [GIVENNAME_2]! I need your help in drafting a plus-size pattern for [GIVENNAME_1]'s birthday gift.,"['Thevanesan', 'Saliba', 'Dionisa Magbule']"
+The garden bench memorial for Yushan Marie-Edith Zaharievska was dedicated on 2018-09-10T00:00:00 with a ceremony attended by Kely Borde and Mayar Karunaharan Cammarosano.,The garden bench memorial for [GIVENNAME_3] [SURNAME_3] was dedicated on [DATE_1] with a ceremony attended by [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Zaharievska Yushan Marie-Edith', 'Borde Kely', 'Cammarosano Mayar Karunaharan']"
+"Event attendees list: Tanea, Leondrit Olivier, and Baschir Radomir","Event attendees list: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1]","['Tanea', 'Leondrit Olivier', 'Baschir Radomir']"
+"Blue Planet volunteer list: Pathmajothy, Mohsine Nouriel, Miao.","Blue Planet volunteer list: [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1].","['Pathmajothy', 'Mohsine Nouriel', 'Miao']"
+"The following individuals have contributed to this project: Blenda Stoia, Elycia Kirchmayr Losmaz, and Gasser Ethanaël Dutranoy.","The following individuals have contributed to this project: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Stoia Blenda', 'Kirchmayr Losmaz Elycia', 'Dutranoy Gasser Ethanaël']"
+"From: Aberash Bajrishe Cosmadopoulos
+To: Sulayman Lorenzon
+Subject: Historical Import and Export via Rails
+Hi Renu, I hope you're doing well. I've been going through some historical documents and I found some interesting information on the import and export via rails for Roosevelt. Would you like to take a look?","From: [GIVENNAME_3] [SURNAME_2]
+To: [GIVENNAME_2] [SURNAME_1]
+Subject: Historical Import and Export via Rails
+Hi [GIVENNAME_1], I hope you're doing well. I've been going through some historical documents and I found some interesting information on the import and export via rails for [CITY_1]. Would you like to take a look?","['Aberash Bajrishe', 'Cosmadopoulos Sulayman', 'Lorenzon Renu']"
+"BL@tutanota.com received an invitation to the game night with a list of attending family members: Athisan, Priyanka Heline, Havishe, and Iasmina Lorcan.","[EMAIL_1] received an invitation to the game night with a list of attending family members: [GIVENNAME_4], [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Athisan', 'Priyanka Heline', 'Havishe', 'Iasmina Lorcan']"
+"5:55:43 PM San: 'I'm looking for a unique mosaic design for my vegetable archway, can you help me?';
+9:24 Necip Klucker: 'Yes, I'd be happy to help! What kind of design are you thinking of?';
+4:44 +50-69-700-6734: 'I was thinking of something with R0A flowers and Route Marie-Victorin leaves. What do you think?';
+7:37 Clif Lutz Voci Mechkour: 'That sounds beautiful! I can send you some PMG@tutanota.com examples. Would you like that?';
+2:25 PM Patcharin Nilany Tosin Karapsias: 'Yes, please! My KY6512660 is QF5825367.';
+1:36 Fady Willame: 'Got it! I'll send you the designs. By the way, have you seen my 2577 mosaic piece? ';","[TIME_6] [GIVENNAME_5]: 'I'm looking for a unique mosaic design for my vegetable archway, can you help me?';
+[TIME_5] [GIVENNAME_4] [SURNAME_4]: 'Yes, I'd be happy to help! What kind of design are you thinking of?';
+[TIME_4] [TELEPHONENUM_1]: 'I was thinking of something with [ZIPCODE_1] flowers and [STREET_1] leaves. What do you think?';
+[TIME_3] [GIVENNAME_3] [SURNAME_3]: 'That sounds beautiful! I can send you some [EMAIL_1] examples. Would you like that?';
+[TIME_2] [GIVENNAME_2] [SURNAME_2]: 'Yes, please! My [PASSPORTNUM_2] is [PASSPORTNUM_1].';
+[TIME_1] [GIVENNAME_1] [SURNAME_1]: 'Got it! I'll send you the designs. By the way, have you seen my [BUILDINGNUM_1] mosaic piece? ';","['San', 'Klucker Necip', 'Voci Mechkour Clif Lutz', 'Tosin Karapsias Patcharin Nilany', 'Willame Fady']"
+"The Ilgar family tree shows a F ancestor, Tarja, who was born on 16th January 1997 and married Joaquina on July 25th, 2004.","The [GIVENNAME_3] family tree shows a [SEX_1] ancestor, [GIVENNAME_2], who was born on [DATE_2] and married [GIVENNAME_1] on [DATE_1].","['Ilgar', 'Tarja', 'Joaquina']"
+Liutauras wants to make a concertina fold book with Zillah and Emiljo about their favorite Elk Grove.,[GIVENNAME_3] wants to make a concertina fold book with [GIVENNAME_2] and [GIVENNAME_1] about their favorite [CITY_1].,"['Liutauras', 'Zillah', 'Emiljo']"
+2:53 PM Burhanedin: Can you investigate a coincidence involving Maltina and Jacques-Albert?,[TIME_1] [GIVENNAME_3]: Can you investigate a coincidence involving [GIVENNAME_2] and [GIVENNAME_1]?,"['Burhanedin', 'Maltina', 'Jacques-Albert']"
+"From: Kimeta Trémel
+Subject: Art Collection Records Request
+Dear Mrs Oneri,
+I am requesting a copy of the art collection records for Tsedal Bargiglione. Could you please provide the SMB68C72QB and Khed Piwali?","From: [GIVENNAME_2] [SURNAME_3]
+Subject: Art Collection Records Request
+Dear [TITLE_1] [SURNAME_2],
+I am requesting a copy of the art collection records for [GIVENNAME_1] [SURNAME_1]. Could you please provide the [IDCARDNUM_1] and [CITY_1]?","['Oneri Kimeta', 'Trémel', 'Bargiglione Tsedal']"
+"To: Brayn Pujara Sicard, From: Wedase Habs, Subject: Request for Assistance with Genealogy Research. Please assist Ivalina Tinsae Bulfer in researching the ancestry of Yoshiaki Iervolino.","To: [GIVENNAME_4] [SURNAME_4], From: [GIVENNAME_3] [SURNAME_3], Subject: Request for Assistance with Genealogy Research. Please assist [GIVENNAME_2] [SURNAME_2] in researching the ancestry of [GIVENNAME_1] [SURNAME_1].","['Pujara Sicard Brayn', 'Habs Wedase', 'Bulfer Ivalina Tinsae', 'Iervolino Yoshiaki']"
+"To: Miss Ansumane Kuska
+From: Madame Maëla Moréno
+Subject: Eagle Scout Badge Application
+
+Dear Marylore Ade,
+
+Please review and sign the attached application for Sudharshini to receive their Eagle Scout badge.
+
+Sincerely,
+Farchonda Estervan","To: [TITLE_2] [GIVENNAME_5] [SURNAME_2]
+From: [TITLE_1] [GIVENNAME_4] [SURNAME_1]
+Subject: Eagle Scout Badge Application
+
+Dear [GIVENNAME_3],
+
+Please review and sign the attached application for [GIVENNAME_2] to receive their Eagle Scout badge.
+
+Sincerely,
+[GIVENNAME_1]","['Ansumane', 'Kuska Sudharshini', 'Maëla', 'Moréno Farchonda Estervan', 'Marylore Ade']"
+"To: Anite Zouine 
+From: Dzavit Princi 
+Subject: Historical Railroad Exploration Notes 
+
+Dear President Rolli, 
+I hope this message finds you well. I am writing to request documents related to the historical import and export of goods via rails for the fiscal year 1950-12-18T00:00:00. Could you please provide me with the relevant information? 
+
+Best regards, 
+Neelu Wasf Rigmi","To: [GIVENNAME_3] [SURNAME_4] 
+From: [GIVENNAME_2] [SURNAME_3] 
+Subject: Historical Railroad Exploration Notes 
+
+Dear [TITLE_1] [SURNAME_2], 
+I hope this message finds you well. I am writing to request documents related to the historical import and export of goods via rails for the fiscal year [DATE_1]. Could you please provide me with the relevant information? 
+
+Best regards, 
+[GIVENNAME_1] [SURNAME_1]","['Princi Anite', 'Zouine', 'Rolli Dzavit', 'Wasf Rigmi Neelu']"
+"To: Madame Reah Grava
+From: Beglie Kayane Lüönd
+Subject: Fiscal Year Planning for Historical Railroad Exploration
+
+Dear Ensieh Lucile,
+
+Please find attached the planning documents for the upcoming fiscal year.
+
+Best regards,
+Saranraj","To: [TITLE_1] [GIVENNAME_4] [SURNAME_2]
+From: [GIVENNAME_3] [SURNAME_1]
+Subject: Fiscal Year Planning for Historical Railroad Exploration
+
+Dear [GIVENNAME_2],
+
+Please find attached the planning documents for the upcoming fiscal year.
+
+Best regards,
+[GIVENNAME_1]","['Reah', 'Grava Ensieh Lucile', 'Beglie Kayane', 'Lüönd Saranraj']"
+4:07 Nzambi: The book opened with Fayed Pratik writing about the distinct life of Juan,[TIME_1] [GIVENNAME_3]: The book opened with [GIVENNAME_2] writing about the distinct life of [GIVENNAME_1],"['Nzambi', 'Fayed Pratik', 'Juan']"
+"To-Do List for Mide Boza:
+* Meet with Miss Eglentina at 11:49
+* Review submissions from Taísa Nekane Montanus and Zainollah Kubitz","To-Do List for [GIVENNAME_4] [SURNAME_3]:
+* Meet with [TITLE_1] [GIVENNAME_3] at [TIME_1]
+* Review submissions from [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1]","['Mide', 'Boza Eglentina', 'Montanus Taísa Nekane', 'Kubitz Zainollah']"
+"Scholars Arujan Ugarkovic and Ros Nkume debated whether the dream Gifty Solome recounted, about a house with stripping zig-zag forever curves, counts as a Curved Space Cultivation Experience.","Scholars [GIVENNAME_3] [SURNAME_2] and [GIVENNAME_2] [SURNAME_1] debated whether the dream [GIVENNAME_1] recounted, about a house with stripping zig-zag forever curves, counts as a Curved Space Cultivation Experience.","['Arujan', 'Ugarkovic Ros', 'Nkume Gifty Solome']"
+"The parenting diaries of Bulat Völlmin Meuterlos are filled with stories of Salahuddin's adventures in childcare, including the time Petr Rei learned to ride a bike.","The parenting diaries of [GIVENNAME_3] [SURNAME_2] are filled with stories of [GIVENNAME_2]'s adventures in childcare, including the time [GIVENNAME_1] [SURNAME_1] learned to ride a bike.","['Bulat', 'Völlmin Meuterlos Salahuddin', 'Rei Petr']"
+"Memorandum
+To: Cvetana del Pino Aypulu, Department Head
+From: Souraya Fahime Savitskaia Keske Adelhardt, Assistant
+Subject: JN56071XW - Marivi Request for Buxton City Hall blueprints","Memorandum
+To: [GIVENNAME_3] [SURNAME_2], Department Head
+From: [GIVENNAME_2] [SURNAME_1], Assistant
+Subject: [IDCARDNUM_1] - [GIVENNAME_1] Request for [CITY_1] City Hall blueprints","['Cvetana', 'del Pino Aypulu Souraya Fahime', 'Savitskaia Keske Adelhardt Marivi']"
+Yoshio is making a photo album for Sannah Ivânia's birthday. Leko Yigit has lent some beautiful pictures.,[GIVENNAME_3] is making a photo album for [GIVENNAME_2]'s birthday. [GIVENNAME_1] has lent some beautiful pictures.,"['Yoshio', 'Sannah Ivânia', 'Leko Yigit']"
+"Dear Mstr Joss,
+
+Re: Request for Genealogy Records of Raxmo Huguenet
+
+I am writing to request genealogy records for Maxie Filgueira de Lieme Arris.
+
+Could you please provide me with any information you may have on Roland's ancestry, including but not limited to:
+
+* Kalarajany's date and place of birth (20/12/1954)
+* Elenora's parents' names (Corie Szilàgyi and Zilvinas Cassini)
+* Anna-Lisa Sorcha's spouse's name (Louison Géssica Batnini)
+* Any known addresses or locations where Natalizia Samantha may have resided (Ellerker Lane, Hereford, WF5)
+
+I would greatly appreciate any information you can provide to help me with my genealogical research.","Dear [TITLE_1] [SURNAME_6],
+
+Re: Request for Genealogy Records of [GIVENNAME_10] [SURNAME_5]
+
+I am writing to request genealogy records for [GIVENNAME_9] [SURNAME_4].
+
+Could you please provide me with any information you may have on [GIVENNAME_8]'s ancestry, including but not limited to:
+
+* [GIVENNAME_7]'s date and place of birth ([DATE_1])
+* [GIVENNAME_6]'s parents' names ([GIVENNAME_5] [SURNAME_3] and [GIVENNAME_4] [SURNAME_2])
+* [GIVENNAME_3]'s spouse's name ([GIVENNAME_2] [SURNAME_1])
+* Any known addresses or locations where [GIVENNAME_1] may have resided ([STREET_1], [CITY_1], [ZIPCODE_1])
+
+I would greatly appreciate any information you can provide to help me with my genealogical research.","['Joss Elenora', 'Raxmo', 'Huguenet Corie', 'Maxie', 'Filgueira de Lieme Arris Zilvinas', 'Roland', 'Kalarajany', 'Szilàgyi Anna-Lisa Sorcha', 'Cassini Louison Géssica', 'Batnini Natalizia Samantha']"
+"Gotthelf Yentar Here is a note of some family heirlooms we discussed previously, including the items kept by Master Reinmar and Senator Bia. I want them to be recorded in our heirloom collection in Room 97.","[GIVENNAME_3] [SURNAME_1] Here is a note of some family heirlooms we discussed previously, including the items kept by [TITLE_2] [GIVENNAME_2] and [TITLE_1] [GIVENNAME_1]. I want them to be recorded in our heirloom collection in Room [BUILDINGNUM_1].","['Gotthelf', 'Yentar Bia', 'Reinmar']"
+"Avik Willibrordus sent a message to Ralph Tawin: 'Hi Tymofii, I've been trying to reach you about the solar panels we discussed. Can you please give me a call on 0144 243-389 5361?'","[GIVENNAME_3] sent a message to [GIVENNAME_2]: 'Hi [GIVENNAME_1], I've been trying to reach you about the solar panels we discussed. Can you please give me a call on [TELEPHONENUM_1]?'","['Avik Willibrordus', 'Ralph Tawin', 'Tymofii']"
+"Meeting notes for Local Nature Preserve Initiative:
+
+**Attendee List**
+1. Ninorta Ferlisi
+2. Latifa Calzaferri
+3. Daya Gheju","Meeting notes for Local Nature Preserve Initiative:
+
+**Attendee List**
+1. [GIVENNAME_3] [SURNAME_3]
+2. [GIVENNAME_2] [SURNAME_2]
+3. [GIVENNAME_1] [SURNAME_1]","['Ferlisi Ninorta', 'Calzaferri Latifa', 'Gheju Daya']"
+"Isad Giorgos has shared a poem with Birdal via text message: 'In the whispers of the night, I find my Qader teeming with thoughts.'","[GIVENNAME_3] has shared a poem with [GIVENNAME_2] via text message: 'In the whispers of the night, I find my [GIVENNAME_1] teeming with thoughts.'","['Isad Giorgos', 'Birdal', 'Qader']"
+"Our genealogy research has revealed that Lourival Bezler shares a common ancestor with Lorjan Mirvan Gallera, specifically Corine Meas Scheinig.","Our genealogy research has revealed that [GIVENNAME_3] [SURNAME_3] shares a common ancestor with [GIVENNAME_2] [SURNAME_2], specifically [GIVENNAME_1] [SURNAME_1].","['Bezler Lourival', 'Gallera Lorjan Mirvan', 'Scheinig Corine Meas']"
+"We have verified that Falk Yungdrung is a member of the Tharjini clan, with a direct lineage to Pece Theivikanathan Modrusan Beggah.","We have verified that [GIVENNAME_3] [SURNAME_2] is a member of the [GIVENNAME_2] clan, with a direct lineage to [GIVENNAME_1] [SURNAME_1].","['Falk', 'Yungdrung Tharjini', 'Theivikanathan Modrusan Beggah Pece']"
+Siim has requested to withdraw from the space simulation study due to personal reasons. Please update the records and notify Jacques-Etienne and Nishanthan.,[GIVENNAME_3] has requested to withdraw from the space simulation study due to personal reasons. Please update the records and notify [GIVENNAME_2] and [GIVENNAME_1].,"['Siim', 'Jacques-Etienne', 'Nishanthan']"
+"6:26:41 PM Bortolo Novica: 'Hey Jeyanthimala, I'm Omrane and I'm looking for some new ideas for my filigree work jewelry. Can you share some tips?' ","[TIME_1] [GIVENNAME_3]: 'Hey [GIVENNAME_2], I'm [GIVENNAME_1] and I'm looking for some new ideas for my filigree work jewelry. Can you share some tips?' ","['Bortolo Novica', 'Jeyanthimala', 'Omrane']"
+"The following individuals are scheduled to attend the legal proceedings on 1st January 2009: Lenio Felizian Terziario, Benedikta Veliqi, and Farshad Przemyslaw Klaue Faggiani.","The following individuals are scheduled to attend the legal proceedings on [DATE_1]: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Terziario Lenio Felizian', 'Veliqi Benedikta', 'Klaue Faggiani Farshad Przemyslaw']"
+"Shpendije Hajvazi announces the winners of the Madame contest: Aycin Patrice Taubitz Zocca, Yamini Hönig, and Xiaohan Grobert Besevic.","[GIVENNAME_4] [SURNAME_4] announces the winners of the [TITLE_1] contest: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Hajvazi Shpendije', 'Taubitz Zocca Aycin Patrice', 'Hönig Yamini', 'Grobert Besevic Xiaohan']"
+"Hello Dhyana Anaé, this is Anpalagan from the thrift store team. We would like to invite you to our upcoming event, where Pierre-Hugues Daliposki Röösli Brantschen will be speaking about sustainable packaging solutions.","Hello [GIVENNAME_3], this is [GIVENNAME_2] from the thrift store team. We would like to invite you to our upcoming event, where [GIVENNAME_1] [SURNAME_1] will be speaking about sustainable packaging solutions.","['Dhyana Anaé', 'Anpalagan', 'Daliposki Röösli Brantschen Pierre-Hugues']"
+"From: Miss Prabaharan Silvijo Kuppen
+To: Charlita Siminowicz
+Subject: Update on Employee Survey Results
+Dear Priamo,
+We hope this email finds you well. We are writing to inform you about the latest updates on our employee survey results. Your employee ID is 8AV4IWQ5MC. Please find the results attached.","From: [TITLE_1] [GIVENNAME_3] [SURNAME_2]
+To: [GIVENNAME_2] [SURNAME_1]
+Subject: Update on Employee Survey Results
+Dear [GIVENNAME_1],
+We hope this email finds you well. We are writing to inform you about the latest updates on our employee survey results. Your employee ID is [IDCARDNUM_1]. Please find the results attached.","['Prabaharan Silvijo', 'Kuppen Charlita', 'Siminowicz Priamo']"
+"To build empathy, Netanel Naresh will keep a diary and write about their daily experiences, including interactions with Pushparani and Dzemailj.","To build empathy, [GIVENNAME_3] will keep a diary and write about their daily experiences, including interactions with [GIVENNAME_2] and [GIVENNAME_1].","['Netanel Naresh', 'Pushparani', 'Dzemailj']"
+"Please welcome our new volunteers: Giochen, Hatidza, and Rasta Zhaneta to the community trash pickup event on 30/06/1971.","Please welcome our new volunteers: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] to the community trash pickup event on [DATE_1].","['Giochen', 'Hatidza', 'Rasta Zhaneta']"
+"Nivin: Hello, Mr Maillefer Serr. Can you tell me more about the new whole grain initiative?
+Sedat: Hi Jan-Simon, it's an exciting project. You can learn more at Buran Drive 102.","[GIVENNAME_3]: Hello, [TITLE_1] [SURNAME_1]. Can you tell me more about the new whole grain initiative?
+[GIVENNAME_2]: Hi [GIVENNAME_1], it's an exciting project. You can learn more at [STREET_1] [BUILDINGNUM_1].","['Nivin', 'Maillefer Serr Jan-Simon', 'Sedat']"
+"The following people have signed up for the stress relief techniques manual: Anelyse, Alsen, and Basiru Sebestyén.","The following people have signed up for the stress relief techniques manual: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Anelyse', 'Alsen', 'Basiru Sebestyén']"
+"13:11 Voin: Planning a January 24th, 1945 surprise for Divina Sermina and Tabasum.",[TIME_1] [GIVENNAME_3]: Planning a [DATE_1] surprise for [GIVENNAME_2] and [GIVENNAME_1].,"['Voin', 'Divina Sermina', 'Tabasum']"
+"Tias: 'This conversation is really entertaining. Thanks Mr Vilas Chabrowski for sharing those stories.';
+Youssouph: 'Anytime Pratheepa Yania, glad to entertain.';","[GIVENNAME_3]: 'This conversation is really entertaining. Thanks [TITLE_1] [SURNAME_1] for sharing those stories.';
+[GIVENNAME_2]: 'Anytime [GIVENNAME_1], glad to entertain.';","['Tias', 'Vilas Chabrowski Pratheepa Yania', 'Youssouph']"
+To: Aulan Zinkl Bekteshi From: Lodoe Mahdhi Subject: Volunteer Service Records for Hailat,To: [GIVENNAME_3] [SURNAME_2] From: [GIVENNAME_2] [SURNAME_1] Subject: Volunteer Service Records for [GIVENNAME_1],"['Aulan', 'Zinkl Bekteshi Lodoe', 'Mahdhi Hailat']"
+"Subject: Art Collection Records Update
+Dear Soaad,
+I am writing to inform you that the art collection records for Klodi Topolnicianu have been updated. Please find the latest information attached.
+Best regards,
+Viviani Redife Archini","Subject: Art Collection Records Update
+Dear [GIVENNAME_3],
+I am writing to inform you that the art collection records for [GIVENNAME_2] [SURNAME_2] have been updated. Please find the latest information attached.
+Best regards,
+[GIVENNAME_1] [SURNAME_1]","['Soaad', 'Topolnicianu Klodi', 'Archini Viviani Redife']"
+"The group chat for the space simulation participants includes Mehar Agrin Elkord, Lalith Brokatzky, and Franc Di Mito Antropoli Falzetta with phone numbers +44928 311-5018, +44 074212539, and +208 03 650 8111.","The group chat for the space simulation participants includes [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1] with phone numbers [TELEPHONENUM_3], [TELEPHONENUM_2], and [TELEPHONENUM_1].","['Elkord Mehar Agrin', 'Brokatzky Lalith', 'Di Mito Antropoli Falzetta Franc']"
+"Meeting Minutes 
+
+Meeting held on: 1997-09-07T00:00:00 
+Attendees: Subanu, Stojne, and Arezo Stanca 
+
+Discussion Points: 
+1. Learning Development Paths for Nonprofit Management.","Meeting Minutes 
+
+Meeting held on: [DATE_1] 
+Attendees: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] 
+
+Discussion Points: 
+1. Learning Development Paths for Nonprofit Management.","['Subanu', 'Stojne', 'Arezo Stanca']"
+"Besnik Benijamin is looking for inspiration for their next concertina fold book project, possibly featuring Meme and Anxhela Cham.","[GIVENNAME_3] is looking for inspiration for their next concertina fold book project, possibly featuring [GIVENNAME_2] and [GIVENNAME_1].","['Besnik Benijamin', 'Meme', 'Anxhela Cham']"
+To: Treuhold Demokrat Peratovic From: Jeva Toparelli Subject: Request for Elder Law Consultation on behalf of Sabria Gheorghita Vaz Monteiro,To: [GIVENNAME_3] [SURNAME_3] From: [GIVENNAME_2] [SURNAME_2] Subject: Request for Elder Law Consultation on behalf of [GIVENNAME_1] [SURNAME_1],"['Peratovic Treuhold Demokrat', 'Toparelli Jeva', 'Gheorghita Vaz Monteiro Sabria']"
+"Minutes of the Meeting Held on 25/05/2023 at 11:54 AM
+Attendees: Bazyli Paral, Zan Ghazwan, Lisander Aleixo
+Action Items: Approved during the meeting","Minutes of the Meeting Held on [DATE_1] at [TIME_1]
+Attendees: [GIVENNAME_3] [SURNAME_1], [GIVENNAME_2], [GIVENNAME_1]
+Action Items: Approved during the meeting","['Bazyli', 'Paral Lisander Aleixo', 'Zan Ghazwan']"
+"Ine: Has anyone read the latest fantasy novel by Ivânio Marlowe Pester? 0151-21 816 6240: Yes, I have! It's amazing. Eliora: I'm definitely adding it to my reading list.","[GIVENNAME_3]: Has anyone read the latest fantasy novel by [GIVENNAME_2] [SURNAME_1]? [TELEPHONENUM_1]: Yes, I have! It's amazing. [GIVENNAME_1]: I'm definitely adding it to my reading list.","['Ine', 'Ivânio Marlowe', 'Pester Eliora']"
+"9:35 AM Maajan to Morgan Kristë: The anthology not only spoke of love but also of loss. It reminded me of my grandfather, Lucinete, and his unwavering support.","[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: The anthology not only spoke of love but also of loss. It reminded me of my grandfather, [GIVENNAME_1], and his unwavering support.","['Maajan', 'Morgan Kristë', 'Lucinete']"
+"Iliano: Hi Mujtaba, I'd like to attend the rooftop farming workshop. Can you please provide more information about the event?
+Kremena: Hi Jegatheeswaran Thomas-Martin, the workshop will cover topics such as hydroponics and vertical farming. Please RSVP by 20/06/1958 to secure your spot.","[GIVENNAME_4]: Hi [GIVENNAME_3], I'd like to attend the rooftop farming workshop. Can you please provide more information about the event?
+[GIVENNAME_2]: Hi [GIVENNAME_1], the workshop will cover topics such as hydroponics and vertical farming. Please RSVP by [DATE_1] to secure your spot.","['Iliano', 'Mujtaba', 'Kremena', 'Jegatheeswaran Thomas-Martin']"
+Dilhan Hadzere shared a post about a new hiking trail at Brennan Road and invited Safa and Pacha to join the group.,[GIVENNAME_3] shared a post about a new hiking trail at [STREET_1] and invited [GIVENNAME_2] and [GIVENNAME_1] to join the group.,"['Dilhan Hadzere', 'Safa', 'Pacha']"
+"Memorandum
+To: Remzie Ania Pantoli Trooster
+From: Norvin Giovacchino Klavora
+Subject: Wellness Program Update
+Anushya Baazzi is now participating in our wellness program. Please update their records accordingly.","Memorandum
+To: [GIVENNAME_3] [SURNAME_3]
+From: [GIVENNAME_2] [SURNAME_2]
+Subject: Wellness Program Update
+[GIVENNAME_1] [SURNAME_1] is now participating in our wellness program. Please update their records accordingly.","['Pantoli Trooster Remzie Ania', 'Klavora Norvin Giovacchino', 'Baazzi Anushya']"
+"Zadin Troxler shared a life narrative about Hemilly Badorff at the botanical garden, which was attended by Kossay Reyzvikh.","[GIVENNAME_3] [SURNAME_3] shared a life narrative about [GIVENNAME_2] [SURNAME_2] at the botanical garden, which was attended by [GIVENNAME_1] [SURNAME_1].","['Troxler Zadin', 'Badorff Hemilly', 'Reyzvikh Kossay']"
+Leyah Niedzwiecka Cale's Adventure Planning Diary: Planning a hiking trip to Bassano with Namie and Noana,[GIVENNAME_3] [SURNAME_1]'s Adventure Planning Diary: Planning a hiking trip to [CITY_1] with [GIVENNAME_2] and [GIVENNAME_1],"['Leyah', 'Niedzwiecka Cale Noana', 'Namie']"
+"10:57 Ysaac: Hey, I just found an amazing vinyl record by Zacary Khaleq Gillhoff Capsi at Peterborough flea market. It's a rare Mstr pressing, so I was thinking of gifting it to Nalda Ajtene Dohrmann.","[TIME_1] [GIVENNAME_3]: Hey, I just found an amazing vinyl record by [GIVENNAME_2] [SURNAME_2] at [CITY_1] flea market. It's a rare [TITLE_1] pressing, so I was thinking of gifting it to [GIVENNAME_1] [SURNAME_1].","['Ysaac', 'Gillhoff Capsi Zacary Khaleq', 'Dohrmann Nalda Ajtene']"
+"From: Sena Gagg
+To: Driljon Boubakar Lorefice
+Subject: Re: Family Stories
+Dear Arjeton, my grandma, Lionelle Riwana Niekamp de Steiger Prin had this amazing recipe for traditional holiday cookies that she would make every year. She passed it down to my mom, Fawsiya Pitozzi and now I make them for our family.","From: [GIVENNAME_5] [SURNAME_4]
+To: [GIVENNAME_4] [SURNAME_3]
+Subject: Re: Family Stories
+Dear [GIVENNAME_3], my grandma, [GIVENNAME_2] [SURNAME_2] had this amazing recipe for traditional holiday cookies that she would make every year. She passed it down to my mom, [GIVENNAME_1] [SURNAME_1] and now I make them for our family.","['Sena', 'Gagg Driljon Boubakar', 'Lorefice Arjeton', 'Niekamp de Steiger Prin Lionelle Riwana', 'Pitozzi Fawsiya']"
+"List of language learners: Hekurije Lavea Greif, Jerome Petko Chelebieva Katzman, Wanna Viktorine Sowersby Scimemi","List of language learners: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1]","['Greif Hekurije Lavea', 'Chelebieva Katzman Jerome Petko', 'Sowersby Scimemi Wanna Viktorine']"
+"Contributors: Janagan Sajanth Stebel Alicehic Mooser, Abdirahim Zemri Hasenhüttl, Simun Eswaran Molgora","Contributors: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1]","['Stebel Alicehic Mooser Janagan Sajanth', 'Hasenhüttl Abdirahim Zemri', 'Molgora Simun Eswaran']"
+Natanja Muhsine asked Kajanthini: 'Do you have Jayalakshmi's new address? I want to send them a belated birthday gift.',[GIVENNAME_3] asked [GIVENNAME_2]: 'Do you have [GIVENNAME_1]'s new address? I want to send them a belated birthday gift.',"['Natanja Muhsine', 'Kajanthini', 'Jayalakshmi']"
+"Neighborhood Association Minutes: 
+Attendees: Jina Digele, Eliron Vicari Dutca, Mrs Kocak Lückers
+Discussion: Health screening program and infrastructure development updates","Neighborhood Association Minutes: 
+Attendees: [GIVENNAME_2] [SURNAME_3], [GIVENNAME_1] [SURNAME_2], [TITLE_1] [SURNAME_1]
+Discussion: Health screening program and infrastructure development updates","['Vicari Dutca Jina', 'Digele', 'Kocak Lückers Eliron']"
+Vlada shared a childhood memory diary with Miracle Rowland about making candles with Zdzislaw at ODF Main Road. It brought back memories of 83 years ago.,[GIVENNAME_3] shared a childhood memory diary with [GIVENNAME_2] about making candles with [GIVENNAME_1] at [STREET_1]. It brought back memories of [AGE_1] years ago.,"['Vlada', 'Miracle Rowland', 'Zdzislaw']"
+Fatina Abigiya is looking forward to singing carols with Somkhid and Dzemka Rodanthi.,[GIVENNAME_3] is looking forward to singing carols with [GIVENNAME_2] and [GIVENNAME_1].,"['Fatina Abigiya', 'Somkhid', 'Dzemka Rodanthi']"
+Roberts Hirschy shared the network diagram for the period costume creation records with Michela Guillarme and Niranjana Sierras Fatouh.,[GIVENNAME_3] [SURNAME_3] shared the network diagram for the period costume creation records with [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Hirschy Roberts', 'Guillarme Michela', 'Sierras Fatouh Niranjana']"
+"To Momoka, I hope this email finds you well. I am Eliud Clemens and I am interested in purchasing a bonsai tree as a gift for my Aletheia Fely. Could you please recommend a good species for a beginner?","To [GIVENNAME_3], I hope this email finds you well. I am [GIVENNAME_2] and I am interested in purchasing a bonsai tree as a gift for my [GIVENNAME_1]. Could you please recommend a good species for a beginner?","['Momoka', 'Eliud Clemens', 'Aletheia Fely']"
+Emsa has a treehouse with a passageway that leads to a 4 where Rosily can meet Alysse and Muharema.,[GIVENNAME_4] has a treehouse with a passageway that leads to a [BUILDINGNUM_1] where [GIVENNAME_3] can meet [GIVENNAME_2] and [GIVENNAME_1].,"['Emsa', 'Rosily', 'Alysse', 'Muharema']"
+Jaeden loves to write in Emrlije's creative writing diary about Bru's treehouse adventures with Butsaya and Jagjit Lukacs.,[GIVENNAME_5] loves to write in [GIVENNAME_4]'s creative writing diary about [GIVENNAME_3]'s treehouse adventures with [GIVENNAME_2] and [GIVENNAME_1].,"['Jaeden', 'Emrlije', 'Bru', 'Butsaya', 'Jagjit Lukacs']"
+Ayanah shared a post on social media about the importance of Nimet's daily gratitude practice. Yihui commented: 'I've been doing it for 82 years and it's changed my life!',[GIVENNAME_3] shared a post on social media about the importance of [GIVENNAME_2]'s daily gratitude practice. [GIVENNAME_1] commented: 'I've been doing it for [AGE_1] years and it's changed my life!',"['Ayanah', 'Nimet', 'Yihui']"
+Parenting Tasks for Abeena and Mayssaa: Arrange playdate with Rob at Forest Grove Drive and schedule health check with Mrs Picht.,Parenting Tasks for [GIVENNAME_3] and [GIVENNAME_2]: Arrange playdate with [GIVENNAME_1] at [STREET_1] and schedule health check with [TITLE_1] [SURNAME_1].,"['Abeena', 'Mayssaa', 'Picht Rob']"
+Jorgina and Pierre-Gérard will be in charge of navigation and Bejtije will handle communications.,[GIVENNAME_3] and [GIVENNAME_2] will be in charge of navigation and [GIVENNAME_1] will handle communications.,"['Jorgina', 'Pierre-Gérard', 'Bejtije']"
+"3:43:45 AM Ulf: 'Hi Zana Üçler, I saw your post about surrealist photography and thought of Mário. They might be a good fit as a model.'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I saw your post about surrealist photography and thought of [GIVENNAME_1]. They might be a good fit as a model.'","['Ulf', 'Zana Üçler', 'Mário']"
+"Amphibian Limb Regeneration Study Participants: Adilj Eiman, Lezina, and Johel have signed the consent forms.","Amphibian Limb Regeneration Study Participants: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] have signed the consent forms.","['Adilj Eiman', 'Lezina', 'Johel']"
+"Empathy buildup diary entry for Pricilla: Today, I felt F when I saw Vicentia Zuleika Graupe being kind to Agni.","Empathy buildup diary entry for [GIVENNAME_3]: Today, I felt [SEX_1] when I saw [GIVENNAME_2] [SURNAME_1] being kind to [GIVENNAME_1].","['Pricilla', 'Vicentia Zuleika', 'Graupe Agni']"
+".last Will and Testament of Dejwar Cambres.
+
+I appoint my trusted friend, Rie Gebreegzabher, with passport number 570706556, as my executor.
+
+I bequeath all my property to my children, Gnanambal Puvitha Leontescu and Niyom Alshahumi.
+
+I confirm that I am of sound mind and that this will is made freely and voluntarily.
+
+Please note my TAX ID number is 6277022660.",".last Will and Testament of [GIVENNAME_4] [SURNAME_4].
+
+I appoint my trusted friend, [GIVENNAME_3] [SURNAME_3], with passport number [PASSPORTNUM_1], as my executor.
+
+I bequeath all my property to my children, [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].
+
+I confirm that I am of sound mind and that this will is made freely and voluntarily.
+
+Please note my TAX ID number is [TAXNUM_1].","['Cambres Dejwar', 'Gebreegzabher Rie', 'Leontescu Gnanambal Puvitha', 'Alshahumi Niyom']"
+"During Srijan's travels, Andjelina will be staying with a host family. To facilitate communication, Quantin Moussé has created a list of essential contact information, including A@gmail.com and Chipping Norton Road.","During [GIVENNAME_3]'s travels, [GIVENNAME_2] will be staying with a host family. To facilitate communication, [GIVENNAME_1] has created a list of essential contact information, including [EMAIL_1] and [STREET_1].","['Srijan', 'Andjelina', 'Quantin Moussé']"
+"Jany da Anunciacao filled out the pet diary form and provided the following information: Bako, Zhanibek Mesa, 38, and Piriyanga.","[GIVENNAME_4] [SURNAME_1] filled out the pet diary form and provided the following information: [GIVENNAME_3], [GIVENNAME_2], [AGE_1], and [GIVENNAME_1].","['Jany', 'da Anunciacao Piriyanga', 'Bako', 'Zhanibek Mesa']"
+"Our nominees for historical preservationist of the year are: Ubax M'rah, Roshna Baujard, and Nello Suranyi.","Our nominees for historical preservationist of the year are: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","[""M'rah Ubax"", 'Baujard Roshna', 'Suranyi Nello']"
+"8:06 Zsófia: 'Hi Esmat, I'm having trouble getting my candle to harden. Can you share your recipe for Valerjana wax?'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I'm having trouble getting my candle to harden. Can you share your recipe for [GIVENNAME_1] wax?'","['Zsófia', 'Esmat', 'Valerjana']"
+"Meeting Minutes: Attendees: Supawadee, Medhansh, Thilia Seferije. Discussion: Boardgame collection and supply chain disruption. Action Items: Mikayil to follow up with Seljatin Skeljzen and Sappho to review memo.","Meeting Minutes: Attendees: [GIVENNAME_6], [GIVENNAME_5], [GIVENNAME_4]. Discussion: Boardgame collection and supply chain disruption. Action Items: [GIVENNAME_3] to follow up with [GIVENNAME_2] and [GIVENNAME_1] to review memo.","['Supawadee', 'Medhansh', 'Thilia Seferije', 'Mikayil', 'Seljatin Skeljzen', 'Sappho']"
+"1:56 AM Ellma Malfroy Nuijten: 'Hello Khatira, I am Anandi Whitlow from the marketing department. I would like to schedule a meeting with you to discuss our upcoming performance.',","[TIME_1] [GIVENNAME_3] [SURNAME_2]: 'Hello [GIVENNAME_2], I am [GIVENNAME_1] [SURNAME_1] from the marketing department. I would like to schedule a meeting with you to discuss our upcoming performance.',","['Ellma', 'Malfroy Nuijten Khatira', 'Whitlow Anandi']"
+"The project team consists of Aytan Yuping Jangme (lead designer), Sohaila Wiedemayer (project manager), and Sivanathan Vasseur Carmeci Monticciolo (security specialist).","The project team consists of [GIVENNAME_3] [SURNAME_3] (lead designer), [GIVENNAME_2] [SURNAME_2] (project manager), and [GIVENNAME_1] [SURNAME_1] (security specialist).","['Jangme Aytan Yuping', 'Wiedemayer Sohaila', 'Vasseur Carmeci Monticciolo Sivanathan']"
+18:51 Sinnarajah Choong: Hey Juanna! I need your help with our family recipe book. Can you send me Mbunga Angélico's famous cookie recipe?,[TIME_1] [GIVENNAME_3]: Hey [GIVENNAME_2]! I need your help with our family recipe book. Can you send me [GIVENNAME_1]'s famous cookie recipe?,"['Sinnarajah Choong', 'Juanna', 'Mbunga Angélico']"
+"Email
+From: Andrea-Daniela Pinzin (<RGVS@gmail.com>)
+To: Jochebed Jonida Cherpillod (<A20@gmail.com>)
+Subject: Request for Identity Document
+
+Dear Mstr Kowatsch, I hope this email finds you well. I am writing to request a copy of your government-issued identity document (GUZTAVRZYA).","Email
+From: [GIVENNAME_2] [SURNAME_3] (<[EMAIL_2]>)
+To: [GIVENNAME_1] [SURNAME_2] (<[EMAIL_1]>)
+Subject: Request for Identity Document
+
+Dear [TITLE_1] [SURNAME_1], I hope this email finds you well. I am writing to request a copy of your government-issued identity document ([DRIVERLICENSENUM_1]).","['Cherpillod Andrea-Daniela', 'Pinzin', 'Kowatsch Jochebed Jonida']"
+Floreta's To-Do List: 1) Pick up Wassef Frederik from Norham Road 92; 2) Order 373500237940977 flowers for Slavojka's anniversary.,[GIVENNAME_3]'s To-Do List: 1) Pick up [GIVENNAME_2] from [STREET_1] [BUILDINGNUM_1]; 2) Order [CREDITCARDNUMBER_1] flowers for [GIVENNAME_1]'s anniversary.,"['Floreta', 'Wassef Frederik', 'Slavojka']"
+"The following students have been selected for the research project: Vigdis Kermaschek, Idriz Jeyasritharan Taghezout Nguyen-Tran, and Léona Dária Gianfelice.","The following students have been selected for the research project: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Kermaschek Vigdis', 'Jeyasritharan Taghezout Nguyen-Tran Idriz', 'Gianfelice Léona Dária']"
+"Attendees: Lennart Ronen Nazerinejad, Lalaina Santonastaso, and Gjengiz Dell'olio","Attendees: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1]","['Nazerinejad Lennart Ronen', 'Santonastaso Lalaina', ""Dell'olio Gjengiz""]"
+"To: Pierre-Philippe Jean-Albert Hanses, Facility Manager
+From: Younus Seset, Assistant
+Subject: Memo - Swindon Office Maintenance
+
+Please find the to-do list for the upcoming week: 
+1. Inspect 4 Wilcote Lane for any damages.
+2. Schedule a meeting with Adi Reshyt Czarnobaj to discuss YO32 area renovations.
+3. Ensure all shagkristlbauer@aol.com accounts are up to date.","To: [GIVENNAME_3] [SURNAME_3], Facility Manager
+From: [GIVENNAME_2] [SURNAME_2], Assistant
+Subject: Memo - [CITY_1] Office Maintenance
+
+Please find the to-do list for the upcoming week: 
+1. Inspect [BUILDINGNUM_1] [STREET_1] for any damages.
+2. Schedule a meeting with [GIVENNAME_1] [SURNAME_1] to discuss [ZIPCODE_1] area renovations.
+3. Ensure all [EMAIL_1] accounts are up to date.","['Hanses Pierre-Philippe Jean-Albert', 'Seset Younus', 'Czarnobaj Adi Reshyt']"
+"Welat Fallahi Gaete's Personal Manifesto: I, Elzbieta Aldegonda, being 37 years old, do hereby declare that my personal preferences for documentation style include the use of Miss and Aleen in all official documents.","[GIVENNAME_3] [SURNAME_1]'s Personal Manifesto: I, [GIVENNAME_2], being [AGE_1] years old, do hereby declare that my personal preferences for documentation style include the use of [TITLE_1] and [GIVENNAME_1] in all official documents.","['Welat', 'Fallahi Gaete Aleen', 'Elzbieta Aldegonda']"
+"Form Fill: Underwater Treasure Exploration Log. Team Leader: Rugile Kolcák. Team Members: Remia Stienne, Manawa Diao Crescenzo Brünnle, Marie-Chantal Leonorë Duzzi. Date: 1936-06-07T00:00:00. Location: Lalganj.","Form Fill: Underwater Treasure Exploration Log. Team Leader: [GIVENNAME_4] [SURNAME_4]. Team Members: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1]. Date: [DATE_1]. Location: [CITY_1].","['Kolcák Rugile', 'Stienne Remia', 'Diao Crescenzo Brünnle Manawa', 'Duzzi Marie-Chantal Leonorë']"
+Jean-Cédric to Yojiro: 'Nice bow design on your yacht Adnand! What inspired you to choose that style?',[GIVENNAME_3] to [GIVENNAME_2]: 'Nice bow design on your yacht [GIVENNAME_1]! What inspired you to choose that style?',"['Jean-Cédric', 'Yojiro', 'Adnand']"
+"The following students have consented to sharing their mindfulness practice plans: Socrate, Rinard, and Afije. Their personal goals are attached in the handout.","The following students have consented to sharing their mindfulness practice plans: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1]. Their personal goals are attached in the handout.","['Socrate', 'Rinard', 'Afije']"
+"Jori: Yeah! I am. Nice to meet you, Rojan Haryad. How do you know Izvorinka?","[GIVENNAME_3]: Yeah! I am. Nice to meet you, [GIVENNAME_2]. How do you know [GIVENNAME_1]?","['Jori', 'Rojan Haryad', 'Izvorinka']"
+15:50:32 Nexhdet to Uarda: 'Will Olivianne Nitchanan be creating a written report of their findings or just providing an oral testimony?',[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'Will [GIVENNAME_1] be creating a written report of their findings or just providing an oral testimony?',"['Nexhdet', 'Uarda', 'Olivianne Nitchanan']"
+"The participant list for the Scotland Yard workshop includes Sathyanarayanan Jawid, Vergil, and Andryn.","The participant list for the Scotland Yard workshop includes [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Sathyanarayanan Jawid', 'Vergil', 'Andryn']"
+"Commissioned Artwork Form:
+Commissioned By: Minha Lea-Maria Banguero Marecková
+Artist Name: Mangaleswaran Lotfi Dal Cero
+Artwork Title: Benasri Abdelazim's Masterpiece
+Price: [CURRENCYPLACEHOLDER_32]","Commissioned Artwork Form:
+Commissioned By: [GIVENNAME_2] [SURNAME_3]
+Artist Name: [GIVENNAME_1] [SURNAME_2]
+Artwork Title: [SURNAME_1]'s Masterpiece
+Price: [CURRENCYPLACEHOLDER_32]","['Lotfi Dal Cero Minha Lea-Maria', 'Banguero Marecková', 'Benasri Abdelazim Mangaleswaran']"
+Social media post by Raymund: 'Just finished an epic hike on the Brampton glacier with my friends Andrianna Ranyah and Shailesh Jiancheng. Highly recommend it!',Social media post by [GIVENNAME_3]: 'Just finished an epic hike on the [CITY_1] glacier with my friends [GIVENNAME_2] and [GIVENNAME_1]. Highly recommend it!',"['Raymund', 'Andrianna Ranyah', 'Shailesh Jiancheng']"
+"Edeltrudis posted a picture of her new ceramic piece in the group chat. Akim commented, 'Love it! What kind of glaze did you use?' Gift Amaria replied, 'Thanks! It's a new recipe I'm working on. I'll share it with you soon.'","[GIVENNAME_3] posted a picture of her new ceramic piece in the group chat. [GIVENNAME_2] commented, 'Love it! What kind of glaze did you use?' [GIVENNAME_1] replied, 'Thanks! It's a new recipe I'm working on. I'll share it with you soon.'","['Edeltrudis', 'Akim', 'Gift Amaria']"
+14:05 Yanti: 'How was the prom night Co Mihai-Valentin? My friend Thivviya Lotierzo told me it was amazing.' ,[TIME_1] [GIVENNAME_3]: 'How was the prom night [GIVENNAME_2]? My friend [GIVENNAME_1] [SURNAME_1] told me it was amazing.' ,"['Yanti', 'Co Mihai-Valentin', 'Lotierzo Thivviya']"
+09:09:08 Minatore Chernenko: 'Zijun Saowalak you are making a shining example for your sibling Steffen Asier Hameen!' ,[TIME_1] [GIVENNAME_3] [SURNAME_2]: '[GIVENNAME_2] you are making a shining example for your sibling [GIVENNAME_1] [SURNAME_1]!' ,"['Minatore', 'Chernenko Zijun Saowalak', 'Hameen Steffen Asier']"
+"Hi Hristo, this is Abdulrazak. I got your +05-094748858 from Karenina. I was wondering if you could share some kilt patterns with me?","Hi [GIVENNAME_3], this is [GIVENNAME_2]. I got your [TELEPHONENUM_1] from [GIVENNAME_1]. I was wondering if you could share some kilt patterns with me?","['Hristo', 'Abdulrazak', 'Karenina']"
+"Timotheo needs to review 5 ancestors for potential updates: Bonicatto, Fevzi Raderschall von Holleben Bozoglan, Issey Eddy Correll Bans, and Rustom Weissbaum.","[GIVENNAME_4] needs to review 5 ancestors for potential updates: [SURNAME_4], [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Bonicatto Timotheo', 'Raderschall von Holleben Bozoglan Fevzi', 'Correll Bans Issey Eddy', 'Weissbaum Rustom']"
+"8 o'clock Elex: 'Hey Mohanned, can I get a copy of the design you made for Asrar Ervin?'","[TIME_1] [GIVENNAME_3]: 'Hey [GIVENNAME_2], can I get a copy of the design you made for [GIVENNAME_1] [SURNAME_1]?'","['Elex', 'Mohanned', 'Ervin Asrar']"
+"The 4:32:40 PM time travel series follows Slavomir as they journey through Ardath in search of Bavany Dzemka. Along the way, they meet Jong, a Female with a 39157.64483 that holds the key to unlocking the secrets of the universe.","The [TIME_1] time travel series follows [GIVENNAME_3] as they journey through [CITY_1] in search of [GIVENNAME_2]. Along the way, they meet [GIVENNAME_1], a [GENDER_1] with a [TAXNUM_1] that holds the key to unlocking the secrets of the universe.","['Slavomir', 'Bavany Dzemka', 'Jong']"
+"The pet personality diary of Nonglak reveals that their dog, Arus, has a unique personality. Anneluise Palina has a cat, Xiaoying, with a different personality.","The pet personality diary of [GIVENNAME_4] reveals that their dog, [GIVENNAME_3], has a unique personality. [GIVENNAME_2] has a cat, [GIVENNAME_1], with a different personality.","['Nonglak', 'Arus', 'Anneluise Palina', 'Xiaoying']"
+Betül wrote in Sherab's childhood memory diary: 'I remember making candles with Rafayel at Kothaguda Polesettipalle when I was 54 years old.',[GIVENNAME_3] wrote in [GIVENNAME_2]'s childhood memory diary: 'I remember making candles with [GIVENNAME_1] at [CITY_1] when I was [AGE_1] years old.',"['Betül', 'Sherab', 'Rafayel']"
+"To: Bienvenu Kiremitci,
+From: Judge Balendra Thanin Bottecchia Amissah,
+Subject: Personalized Learning Recipe for Hüray on November 27th, 1942.","To: [GIVENNAME_3] [SURNAME_2],
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_1],
+Subject: Personalized Learning Recipe for [GIVENNAME_1] on [DATE_1].","['Bienvenu', 'Kiremitci Balendra Thanin', 'Bottecchia Amissah Hüray']"
+"To-Do List for Rohith Alin-Daniel: Pick up N8H envelopes, meet Rjlana Amaly at Township Road 314 2488, and send +37 055448132 to Nilesh","To-Do List for [GIVENNAME_3]: Pick up [ZIPCODE_1] envelopes, meet [GIVENNAME_2] at [STREET_1] [BUILDINGNUM_1], and send [TELEPHONENUM_1] to [GIVENNAME_1]","['Rohith Alin-Daniel', 'Rjlana Amaly', 'Nilesh']"
+"Vefa Sendogan Sathivadivel is creating a family tree that includes Omima Somaia Karpos, Giovandomenico Bassot, and Arani Butruce.","[GIVENNAME_4] [SURNAME_4] is creating a family tree that includes [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Sathivadivel Vefa Sendogan', 'Karpos Omima Somaia', 'Bassot Giovandomenico', 'Butruce Arani']"
+"To: Ave Zie Kalk From: Anaam Fakhry Delange Subject: Gifts for Joannes's Birthday Dear Guolf, hope you're doing well! As Erand Aril's birthday is approaching, I was thinking of some gift ideas and wanted to share them with you. Since Uygar loves scrapbooking, I thought we could make a beautiful photo album together. If you have any pictures of Lou-Eva, please send them to me at S26@outlook.com.","To: [GIVENNAME_7] [SURNAME_2] From: [GIVENNAME_6] [SURNAME_1] Subject: Gifts for [GIVENNAME_5]'s Birthday Dear [GIVENNAME_4], hope you're doing well! As [GIVENNAME_3]'s birthday is approaching, I was thinking of some gift ideas and wanted to share them with you. Since [GIVENNAME_2] loves scrapbooking, I thought we could make a beautiful photo album together. If you have any pictures of [GIVENNAME_1], please send them to me at [EMAIL_1].","['Ave', 'Zie Kalk Uygar', 'Anaam', 'Fakhry Delange Lou-Eva', 'Joannes', 'Guolf', 'Erand Aril']"
+"Vinay just asked to bring Limara Menno's friend, Tilak, along. Any objections?","[GIVENNAME_3] just asked to bring [GIVENNAME_2]'s friend, [GIVENNAME_1], along. Any objections?","['Vinay', 'Limara Menno', 'Tilak']"
+"Family Game Night Participants: Murugesu Assane, Vera-Maria, and Kimmo Anselmo","Family Game Night Participants: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1]","['Murugesu Assane', 'Vera-Maria', 'Kimmo Anselmo']"
+"Confirmation of attendance: Noemí Janaya Jishkariani Marquais Backers, Xhenita Parravicini, and Griffin Noriaki Di Mito have confirmed their attendance for the workshop.","Confirmation of attendance: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1] have confirmed their attendance for the workshop.","['Jishkariani Marquais Backers Noemí Janaya', 'Parravicini Xhenita', 'Di Mito Griffin Noriaki']"
+"4:55 Isaia: 'Awesome, I'll have to check it out with Elmano and Huruy'","[TIME_1] [GIVENNAME_3]: 'Awesome, I'll have to check it out with [GIVENNAME_2] and [GIVENNAME_1]'","['Isaia', 'Elmano', 'Huruy']"
+"To: Madame Diniz Ordinelli,
+From: Mstr Yeilin Watrin Bouhlel,
+Subject: Volunteer Service Records
+Dear Lirim,
+Please provide an updated 5274870823.","To: [TITLE_2] [GIVENNAME_3] [SURNAME_2],
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_1],
+Subject: Volunteer Service Records
+Dear [GIVENNAME_1],
+Please provide an updated [SOCIALNUM_1].","['Diniz', 'Ordinelli Yeilin', 'Watrin Bouhlel Lirim']"
+"Hey Emely, thanks for organizing the family game night. I'm looking forward to playing with Gertrud and Selami Farell.","Hey [GIVENNAME_3], thanks for organizing the family game night. I'm looking forward to playing with [GIVENNAME_2] and [GIVENNAME_1].","['Emely', 'Gertrud', 'Selami Farell']"
+"Through their research on innovative filmmaking techniques, Lyssandra Gesualdi shared how they shape their characters: 'Meenambigai Suhaila, our protagonist, was based on our childhood neighbor Gyalpo' ","Through their research on innovative filmmaking techniques, [GIVENNAME_3] [SURNAME_1] shared how they shape their characters: '[GIVENNAME_2], our protagonist, was based on our childhood neighbor [GIVENNAME_1]' ","['Lyssandra', 'Gesualdi Gyalpo', 'Meenambigai Suhaila']"
+"Xu expressed gratitude to Melannie Manouk for their support during a difficult time, and for helping to create a Memorial Fund in Kaiss's name.","[GIVENNAME_3] expressed gratitude to [GIVENNAME_2] for their support during a difficult time, and for helping to create a Memorial Fund in [GIVENNAME_1]'s name.","['Xu', 'Melannie Manouk', 'Kaiss']"
+"To: Prefect Nilsa Davitti Hedley Zavadil
+From: Gheorghita Véréna Tanasescu
+Subject: Proposal for Renewable Energy Project in Emerging Markets
+Dear Mrs Raiza Marinete,
+We are pleased to submit a proposal for the development of a renewable energy project in Saint Victor, J0L. Our team, led by Sabad Auresa, has extensive experience in implementing similar projects in emerging markets.","To: [TITLE_2] [GIVENNAME_4] [SURNAME_2]
+From: [GIVENNAME_3] [SURNAME_1]
+Subject: Proposal for Renewable Energy Project in Emerging Markets
+Dear [TITLE_1] [GIVENNAME_2],
+We are pleased to submit a proposal for the development of a renewable energy project in [CITY_1], [ZIPCODE_1]. Our team, led by [GIVENNAME_1], has extensive experience in implementing similar projects in emerging markets.","['Nilsa', 'Davitti Hedley Zavadil Raiza Marinete', 'Gheorghita Véréna', 'Tanasescu Sabad Auresa']"
+"2:22 Illya: 'Can you please share more information about the anthology and what inspired you to create it?';
+3:57 Allina: 'The idea came from Akila, a renowned poet, who wanted to capture the essence of life's seasons.'","[TIME_2] [GIVENNAME_3]: 'Can you please share more information about the anthology and what inspired you to create it?';
+[TIME_1] [GIVENNAME_2]: 'The idea came from [GIVENNAME_1], a renowned poet, who wanted to capture the essence of life's seasons.'","['Illya', 'Allina', 'Akila']"
+"Hello fellow book lover, I'm Marou Beisa and I'm looking to exchange my copy of 'The Art of Happiness' by Juha-Matti Arino Ferner Tsang for your copy of 'Daring Greatly' by Alyssia Maganzini. Please contact me at (13)-2596-8215 or TB@gmail.com.","Hello fellow book lover, I'm [GIVENNAME_3] and I'm looking to exchange my copy of 'The Art of Happiness' by [GIVENNAME_2] [SURNAME_2] for your copy of 'Daring Greatly' by [GIVENNAME_1] [SURNAME_1]. Please contact me at [TELEPHONENUM_1] or [EMAIL_1].","['Marou Beisa', 'Ferner Tsang Juha-Matti Arino', 'Maganzini Alyssia']"
+"The following is a list of participants in the personal oral history project: Laren Brinda, Nicole, Fabris, etc.","The following is a list of participants in the personal oral history project: [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1], etc.","['Laren Brinda', 'Nicole', 'Fabris']"
+"Team Chahed Roster: Abdiwali Kofmel Bittermann, Romi Tisa Gonteri, Stessy Sangram Ariyakuddy","Team [GIVENNAME_4] Roster: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1]","['Chahed', 'Kofmel Bittermann Abdiwali', 'Gonteri Romi Tisa', 'Ariyakuddy Stessy Sangram']"
+"The conversation between Kassra Pierre-Jacques and Rauni revolved around their shared passion for flight simulation, with Berkem sharing tips on how to improve their flight skills.","The conversation between [GIVENNAME_3] and [GIVENNAME_2] revolved around their shared passion for flight simulation, with [GIVENNAME_1] sharing tips on how to improve their flight skills.","['Kassra Pierre-Jacques', 'Rauni', 'Berkem']"
+"03:16:45 Nijaz Allah: 'Hi Jaroslavs, I'm Marius-Vasile and I'm 29 years old. My 393145 is 206243.'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I'm [GIVENNAME_1] and I'm [AGE_1] years old. My [ZIPCODE_2] is [ZIPCODE_1].'","['Nijaz Allah', 'Jaroslavs', 'Marius-Vasile']"
+"Lyndia Laaser Rezagic Tuite: 'Hello Jeremiasz, I've received your AIB25@tutanota.com and I'm interested in learning more about the Jetnis Nicklas who built the North Mill Creek Road ships. Can we schedule a meeting at Blanchard?'","[GIVENNAME_3] [SURNAME_1]: 'Hello [GIVENNAME_2], I've received your [EMAIL_1] and I'm interested in learning more about the [GIVENNAME_1] who built the [STREET_1] ships. Can we schedule a meeting at [CITY_1]?'","['Lyndia', 'Laaser Rezagic Tuite Jetnis Nicklas', 'Jeremiasz']"
+Thadshagini Rimann has shared the offline social network schematics document with Gani Ruprechter and Mikulás Priamo.,[GIVENNAME_3] [SURNAME_3] has shared the offline social network schematics document with [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Rimann Thadshagini', 'Ruprechter Gani', 'Priamo Mikulás']"
+"The list of Biter individuals impacted by the economic sanctions includes Vach, Paheerathan Hausen, and Hischam Surendra Earnhart Braak Hombourg.","The list of [GIVENNAME_3] individuals impacted by the economic sanctions includes [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Vach Biter', 'Hausen Paheerathan', 'Earnhart Braak Hombourg Hischam Surendra']"
+Vinçenc has requested a meeting to discuss the terrarium project with Asaki Sarp and Thenuja.,[GIVENNAME_3] has requested a meeting to discuss the terrarium project with [GIVENNAME_2] and [GIVENNAME_1].,"['Vinçenc', 'Asaki Sarp', 'Thenuja']"
+Kirk has been using a 401107 to track Kostika's progress and stay organized. Muadh has found this to be a helpful tool in Nasrat's zero-waste journey and is considering sharing Zerya Cama's template with others.,[GIVENNAME_5] has been using a [ZIPCODE_1] to track [GIVENNAME_4]'s progress and stay organized. [GIVENNAME_3] has found this to be a helpful tool in [GIVENNAME_2]'s zero-waste journey and is considering sharing [GIVENNAME_1]'s template with others.,"['Kirk', 'Kostika', 'Muadh', 'Nasrat', 'Zerya Cama']"
+"Madame Meziane Yaqoub Vanat will oversee the mentorship programme, ensuring a smooth experience for mentors like Pierluigi Dorval Goussard and mentees like Stivens Czernecki.","[TITLE_1] [GIVENNAME_3] [SURNAME_3] will oversee the mentorship programme, ensuring a smooth experience for mentors like [GIVENNAME_2] [SURNAME_2] and mentees like [GIVENNAME_1] [SURNAME_1].","['Vanat Meziane Yaqoub', 'Dorval Goussard Pierluigi', 'Czernecki Stivens']"
+"Project Plan: Heritage Plant Preservation Project, Project Manager: Jean-Richard Roessler, Team Members: Karis Vucekovic Übelhör, Leslie-Ann Larisa Arboleda Subramaniam, Milou Fljuturije Bergmaier.","Project Plan: Heritage Plant Preservation Project, Project Manager: [GIVENNAME_4] [SURNAME_4], Team Members: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1].","['Roessler Jean-Richard', 'Vucekovic Übelhör Karis', 'Arboleda Subramaniam Leslie-Ann Larisa', 'Bergmaier Milou Fljuturije']"
+Sherryl is planning a sustainable living workshop in Kamrej and has invited Arbit and Annick to join.,[GIVENNAME_3] is planning a sustainable living workshop in [CITY_1] and has invited [GIVENNAME_2] and [GIVENNAME_1] to join.,"['Sherryl', 'Arbit', 'Annick']"
+"Manveer Ionut-Lucian Weppler Ströbele Traguedo from Lost Artforms Records sent a text message to Adiba Gavranic about designing a custom mountain terrain kite. The message read: 'Hey Aswini, hope you're doing well! I came across your kite designs and was wondering if you'd be interested in collaborating on a new project. I've got a client who's looking for a unique kite that can handle the strong winds in the mountains.'","[GIVENNAME_3] [SURNAME_2] from Lost Artforms Records sent a text message to [GIVENNAME_2] [SURNAME_1] about designing a custom mountain terrain kite. The message read: 'Hey [GIVENNAME_1], hope you're doing well! I came across your kite designs and was wondering if you'd be interested in collaborating on a new project. I've got a client who's looking for a unique kite that can handle the strong winds in the mountains.'","['Manveer Ionut-Lucian', 'Weppler Ströbele Traguedo Adiba', 'Gavranic Aswini']"
+"For this week's Throwback Thursday, Gloria is sharing a photo of Ajrina and Benton's trip to Vallejo.","For this week's Throwback Thursday, [GIVENNAME_3] is sharing a photo of [GIVENNAME_2] and [GIVENNAME_1]'s trip to [CITY_1].","['Gloria', 'Ajrina', 'Benton']"
+Badis is writing a biography about Mélya. The book will include Verica Tatana's PU2S6978WN and EC8920333.,[GIVENNAME_3] is writing a biography about [GIVENNAME_2]. The book will include [GIVENNAME_1]'s [IDCARDNUM_1] and [PASSPORTNUM_1].,"['Badis', 'Mélya', 'Verica Tatana']"
+"The following paddling partnership profiles have been updated: Fiorino and Begjet, Bernát Idaver and Dan-Ionut.","The following paddling partnership profiles have been updated: [GIVENNAME_4] and [GIVENNAME_3], [GIVENNAME_2] and [GIVENNAME_1].","['Fiorino', 'Begjet', 'Bernát Idaver', 'Dan-Ionut']"
+"The project team includes Woo Akagaç, Seyda Radzinski, and Iloan Bernabé Elfatimi Cavelan Valley.","The project team includes [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Akagaç Woo', 'Radzinski Seyda', 'Elfatimi Cavelan Valley Iloan Bernabé']"
+Cabdulaahi Aschi is creating a holiday celebration collage with Florin-Alexandru Stevo and Mattya Sivarooban.,[GIVENNAME_3] is creating a holiday celebration collage with [GIVENNAME_2] and [GIVENNAME_1].,"['Cabdulaahi Aschi', 'Florin-Alexandru Stevo', 'Mattya Sivarooban']"
+"Pushkar shared a photo of Audrius's bonsai tree, saying: 'Just styled Tijani's branches.'","[GIVENNAME_3] shared a photo of [GIVENNAME_2]'s bonsai tree, saying: 'Just styled [GIVENNAME_1]'s branches.'","['Pushkar', 'Audrius', 'Tijani']"
+"Hi Sylvine, it's Isaiah. I have attached our last session's notes to the storyboard. Your feedback and Aahil Marvin's notes were valuable.","Hi [GIVENNAME_3], it's [GIVENNAME_2]. I have attached our last session's notes to the storyboard. Your feedback and [GIVENNAME_1]'s notes were valuable.","['Sylvine', 'Isaiah', 'Aahil Marvin']"
+"Diary To-Do List for our Route 66 Road Trip:
+Pierre-Michel to book the hotels,
+(44) 3176 3961 to call about the car insurance,
+Simon-Peter and Jesse to pack snacks.","Diary To-Do List for our Route 66 Road Trip:
+[GIVENNAME_3] to book the hotels,
+[TELEPHONENUM_1] to call about the car insurance,
+[GIVENNAME_2] and [GIVENNAME_1] to pack snacks.","['Pierre-Michel', 'Simon-Peter', 'Jesse']"
+10:27 Mariapia signed out book Master to Alimatou and Hitomi.,[TIME_1] [GIVENNAME_3] signed out book [TITLE_1] to [GIVENNAME_2] and [GIVENNAME_1].,"['Mariapia', 'Alimatou', 'Hitomi']"
+"Teslim to Sreejith: Thank you, Ivanilde Kotoe. I will create a beautiful surreal poem for you. Can you please tell me a bit more about your preferences, such as your favourite colours, animals, or hobbies?","[GIVENNAME_3] to [GIVENNAME_2]: Thank you, [GIVENNAME_1]. I will create a beautiful surreal poem for you. Can you please tell me a bit more about your preferences, such as your favourite colours, animals, or hobbies?","['Teslim', 'Sreejith', 'Ivanilde Kotoe']"
+"17:57:45 Mayas: Of course, Li-Li Yinghua. Will make sure to include all the necessary documents, including the PII forms for Suhua Odagiu.","[TIME_1] [GIVENNAME_3]: Of course, [GIVENNAME_2]. Will make sure to include all the necessary documents, including the PII forms for [GIVENNAME_1] [SURNAME_1].","['Mayas', 'Li-Li Yinghua', 'Odagiu Suhua']"
+Senahid is looking for a unique gift for Alaedin Harper's birthday and thinks a handmade scrapbook would be perfect. They've asked Babs for help in choosing the right materials and design.,[GIVENNAME_3] is looking for a unique gift for [GIVENNAME_2]'s birthday and thinks a handmade scrapbook would be perfect. They've asked [GIVENNAME_1] for help in choosing the right materials and design.,"['Senahid', 'Alaedin Harper', 'Babs']"
+"My name is Ekuran Balazs Agosti, and I'm excited to share my personalized bookmark collection with you. It includes my favourite authors, such as Aaravi Mevlide Nicorici and Sergiu-Gabriel Preston Kohestani.","My name is [GIVENNAME_3] [SURNAME_3], and I'm excited to share my personalized bookmark collection with you. It includes my favourite authors, such as [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Agosti Ekuran Balazs', 'Nicorici Aaravi Mevlide', 'Kohestani Sergiu-Gabriel Preston']"
+"The collage will feature photos of Hamdiye, Semire Daliya, and Ilvi.","The collage will feature photos of [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Hamdiye', 'Semire Daliya', 'Ilvi']"
+"The group is discussing their favorite holiday traditions, including Fabrine's favorite food, Theeran's favorite song, and Paranthaman Aventino's favorite activity.","The group is discussing their favorite holiday traditions, including [GIVENNAME_3]'s favorite food, [GIVENNAME_2]'s favorite song, and [GIVENNAME_1]'s favorite activity.","['Fabrine', 'Theeran', 'Paranthaman Aventino']"
+Agisha Shayla created a new scrapbook page with a photo of Beza and Barbra on 01/04/1952.,[GIVENNAME_3] created a new scrapbook page with a photo of [GIVENNAME_2] and [GIVENNAME_1] on [DATE_1].,"['Agisha Shayla', 'Beza', 'Barbra']"
+"Andrijana Natowicz Cadeliña Varallo has created a schedule for the oral history project, which includes meetings with Mrs Anghesom Pasko Aowal Badur Brunner-Müller and Marcelin Angles.","[GIVENNAME_3] [SURNAME_3] has created a schedule for the oral history project, which includes meetings with [TITLE_1] [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Natowicz Cadeliña Varallo Andrijana', 'Aowal Badur Brunner-Müller Anghesom Pasko', 'Angles Marcelin']"
+"Aesthetic Minimalism in Poetry - To-Do List for Nevair Xiaopeng Zaghlache:
+* Meet with Mister Subodh Maxamed at 1:11 AM
+* Review poem submissions from Vidya Stengl and Fuensanta de Pascali Raisin-Dadre
+* Send reminders to Ö@outlook.com and 00443 29.849-8078","Aesthetic Minimalism in Poetry - To-Do List for [GIVENNAME_4] [SURNAME_3]:
+* Meet with [TITLE_1] [GIVENNAME_3] at [TIME_1]
+* Review poem submissions from [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1]
+* Send reminders to [EMAIL_1] and [TELEPHONENUM_1]","['Nevair Xiaopeng', 'Zaghlache Subodh Maxamed', 'Stengl Vidya', 'de Pascali Raisin-Dadre Fuensanta']"
+Lyv Gech shared a family recipe for dairy-free ice cream and tagged Radmila and Tu Césare,[GIVENNAME_3] shared a family recipe for dairy-free ice cream and tagged [GIVENNAME_2] and [GIVENNAME_1],"['Lyv Gech', 'Radmila', 'Tu Césare']"
+Véronique’s artistic project plan: create Alberts’s portrait using Chatera Nasreen’s favourite colours.,[GIVENNAME_3]’s artistic project plan: create [GIVENNAME_2]’s portrait using [GIVENNAME_1]’s favourite colours.,"['Véronique', 'Alberts', 'Chatera Nasreen']"
+"The following individuals have expressed interest in our aquaponics project: Wenzhen Anne-Joëlle Nartey, Youen Cronje Kodra Al Khaldi, and Iraneide Moumouni.","The following individuals have expressed interest in our aquaponics project: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Nartey Wenzhen Anne-Joëlle', 'Cronje Kodra Al Khaldi Youen', 'Moumouni Iraneide']"
+"3:56:42 AM Veso: 'Thanks, Hamidollah. I think it's a great start. Can you add Taara's contact info to the design team list?'","[TIME_1] [GIVENNAME_3]: 'Thanks, [GIVENNAME_2]. I think it's a great start. Can you add [GIVENNAME_1]'s contact info to the design team list?'","['Veso', 'Hamidollah', 'Taara']"
+"To: Boro Dahlak Grossfeld;
+From: Mr Natthawut (margrawjee@outlook.com);
+Subject: Handwriting Speed;
+
+Dear Asya, your handwriting speed consistency has been flagged for review.","To: [GIVENNAME_3] [SURNAME_1];
+From: [TITLE_1] [GIVENNAME_2] ([EMAIL_1]);
+Subject: Handwriting Speed;
+
+Dear [GIVENNAME_1], your handwriting speed consistency has been flagged for review.","['Boro Dahlak', 'Grossfeld Asya', 'Natthawut']"
+"The following individuals have confirmed their attendance for the picnic: Ajdina Gökçay, Deivids Mehrabi, and Dzenana Oceania Hallinger.","The following individuals have confirmed their attendance for the picnic: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Gökçay Ajdina', 'Mehrabi Deivids', 'Hallinger Dzenana Oceania']"
+To-do list: 1. Pick up Onildo from the airport at 21:25:59. 2. Buy a gift for Fatimatou Nhon's birthday. 3. Send LNJN27@tutanota.com to Óscar about the upcoming family reunion.,To-do list: 1. Pick up [GIVENNAME_3] from the airport at [TIME_1]. 2. Buy a gift for [GIVENNAME_2]'s birthday. 3. Send [EMAIL_1] to [GIVENNAME_1] about the upcoming family reunion.,"['Onildo', 'Fatimatou Nhon', 'Óscar']"
+Shkelzim: 'Thanks Andera! Always eager to learn more about our Robert-Ioan grandmother's craft.',[GIVENNAME_3]: 'Thanks [GIVENNAME_2]! Always eager to learn more about our [GIVENNAME_1] grandmother's craft.',"['Shkelzim', 'Andera', 'Robert-Ioan']"
+"Yotham Di Senso von Dach and Gebrehiwet Gwydion Maasch Proissl - Brand Ambassadorship Discussion.
+Action Item: Aadam Amaël to follow up with Alì Osmar on the brand ambassador contract.","[GIVENNAME_4] [SURNAME_2] and [GIVENNAME_3] [SURNAME_1] - Brand Ambassadorship Discussion.
+Action Item: [GIVENNAME_2] to follow up with [GIVENNAME_1] on the brand ambassador contract.","['Yotham', 'Di Senso von Dach Aadam Amaël', 'Gebrehiwet Gwydion', 'Maasch Proissl Alì Osmar']"
+"The workshop will take place at Turkiyavas Road 42, Ahmedabad, and will feature a panel discussion with Rafija, Ifigenia Mebrure, and Sonay.","The workshop will take place at [STREET_1] [BUILDINGNUM_1], [CITY_1], and will feature a panel discussion with [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Rafija', 'Ifigenia Mebrure', 'Sonay']"
+"Adeltraut Ingi mentioned that they had been having trouble getting their camera to work properly and asked if Ljavdrim Farshid could help troubleshoot. Garo replied, 'I'd be happy to help, but I'll need your HYAT1XHQGR.","[GIVENNAME_3] mentioned that they had been having trouble getting their camera to work properly and asked if [GIVENNAME_2] could help troubleshoot. [GIVENNAME_1] replied, 'I'd be happy to help, but I'll need your [IDCARDNUM_1].","['Adeltraut Ingi', 'Ljavdrim Farshid', 'Garo']"
+"To: Trojan Heroes Team
+From: Mister Lizania Martschenko Gasparovic
+Subject: Invitation to Celebrate Mischel's Birthday
+Date: 02/21/2005
+
+You are cordially invited to celebrate Nagenthiran Paimboin Schärmeli's birthday on 26/10/2000 at Twin Brooks Way 621. Please RSVP by June/98.","To: Trojan Heroes Team
+From: [TITLE_1] [GIVENNAME_3] [SURNAME_2]
+Subject: Invitation to Celebrate [GIVENNAME_2]'s Birthday
+Date: [DATE_3]
+
+You are cordially invited to celebrate [GIVENNAME_1] [SURNAME_1]'s birthday on [DATE_2] at [STREET_1] [BUILDINGNUM_1]. Please RSVP by [DATE_1].","['Lizania', 'Martschenko Gasparovic Mischel', 'Paimboin Schärmeli Nagenthiran']"
+"Client Acquisition Memo
+
+To: Jaroslava
+From: Bozo Franjo Ajcoska
+
+Subject: Partnership Opportunity for Aquaponics Project
+
+Dear Brunello Giannina,
+
+We would like to propose a partnership for our upcoming aquaponics project.","Client Acquisition Memo
+
+To: [GIVENNAME_3]
+From: [GIVENNAME_2] [SURNAME_1]
+
+Subject: Partnership Opportunity for Aquaponics Project
+
+Dear [GIVENNAME_1],
+
+We would like to propose a partnership for our upcoming aquaponics project.","['Jaroslava', 'Bozo Franjo', 'Ajcoska Brunello Giannina']"
+"01:26 Lutfullah: 'Sehadije's Limited Edition collection is gone, Thanks to everyone who participated, especially Aniel'","[TIME_1] [GIVENNAME_3]: '[GIVENNAME_2]'s Limited Edition collection is gone, Thanks to everyone who participated, especially [GIVENNAME_1]'","['Lutfullah', 'Sehadije', 'Aniel']"
+"Mstr Yanay's Game Development Portfolio: Features Jonás's artistic expressions, including Bukurija's style statements.","[TITLE_1] [GIVENNAME_3]'s Game Development Portfolio: Features [GIVENNAME_2]'s artistic expressions, including [GIVENNAME_1]'s style statements.","['Yanay', 'Jonás', 'Bukurija']"
+"To: Hezal Sambuila
+From: Shalimar di Nicola, Adv
+Subject: New Lab Protocol: April 3rd, 1976
+Dear Dahab, please find the updated lab safety protocols attached.","To: [GIVENNAME_3] [SURNAME_2]
+From: [GIVENNAME_2] [SURNAME_1], [TITLE_1]
+Subject: New Lab Protocol: [DATE_1]
+Dear [GIVENNAME_1], please find the updated lab safety protocols attached.","['Hezal', 'Sambuila Shalimar', 'di Nicola Dahab']"
+"Tera requested contact information for their cousins, Irem and Rimoun, who attended the jazz festival last year.","[GIVENNAME_3] requested contact information for their cousins, [GIVENNAME_2] and [GIVENNAME_1], who attended the jazz festival last year.","['Tera', 'Irem', 'Rimoun']"
+"Create a new document 'Game Night Roster' and add the following participants: Jaci Lingyun Teofani, Ilirjan Kressner Sandorhazi, and Lime Mputu Finardi. Store it in a secure location, accessible only by authorised personnel.","Create a new document 'Game Night Roster' and add the following participants: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1]. Store it in a secure location, accessible only by authorised personnel.","['Teofani Jaci Lingyun', 'Kressner Sandorhazi Ilirjan', 'Mputu Finardi Lime']"
+"Create a poem using the names of Marc-Andre Buhles, Houri Abdel-Eileah, and Dorathe Ljumturije di Guardo.","Create a poem using the names of [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Buhles Marc-Andre', 'Abdel-Eileah Houri', 'di Guardo Dorathe Ljumturije']"
+"Stephane shares a Throwback Thursday post from 1969-10-10T00:00:00 and tags Rrahman Shefshet, Semainesh Jelissa says 'I'm loving the Westcourt Lane hair!'","[GIVENNAME_3] shares a Throwback Thursday post from [DATE_1] and tags [GIVENNAME_2], [GIVENNAME_1] says 'I'm loving the [STREET_1] hair!'","['Stephane', 'Rrahman Shefshet', 'Semainesh Jelissa']"
+"Good morning Raffaele, this is Nelmira from the aquaponics project team. Can you please verify Aljna's 49107-8272 information for delivery purposes?","Good morning [GIVENNAME_3], this is [GIVENNAME_2] from the aquaponics project team. Can you please verify [GIVENNAME_1]'s [ZIPCODE_1] information for delivery purposes?","['Raffaele', 'Nelmira', 'Aljna']"
+"Sonay Spronk discusses their volunteering experience: 'At 7:41, I visited the local Budni animal shelter with my friends Soléane Haro and Ehlimana Jurko.","[GIVENNAME_3] [SURNAME_3] discusses their volunteering experience: 'At [TIME_1], I visited the local [CITY_1] animal shelter with my friends [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Spronk Sonay', 'Haro Soléane', 'Jurko Ehlimana']"
+"To: Amritha Yanovich Pomaah From: Sunay Akinkhov Mugisha Subject: Join Our Anthropology Learning Journey 
+
+Dear Mister Fracchia, We invite you to participate in our anthropology learning journey, commencing on 26/05/1998. Your ID is NH94E4BHPO.","To: [GIVENNAME_2] [SURNAME_3] From: [GIVENNAME_1] [SURNAME_2] Subject: Join Our Anthropology Learning Journey 
+
+Dear [TITLE_1] [SURNAME_1], We invite you to participate in our anthropology learning journey, commencing on [DATE_1]. Your ID is [IDCARDNUM_1].","['Akinkhov Mugisha Amritha', 'Yanovich Pomaah', 'Fracchia Sunay']"
+"To: Jan-Erik Tocka (K@yahoo.com)
+From: Mr Hejar Dhani Thielemann Artemyeva Costa-Cortesi (22LG@aol.com)
+Subject: Your Role in the Upcoming Event
+Please review the attached document, which includes your Almiro Tiaro, Selang, and CM58316TA.","To: [GIVENNAME_3] [SURNAME_3] ([EMAIL_2])
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_2] ([EMAIL_1])
+Subject: Your Role in the Upcoming Event
+Please review the attached document, which includes your [GIVENNAME_1], [SURNAME_1], and [IDCARDNUM_1].","['Tocka Jan-Erik', 'Thielemann Artemyeva Costa-Cortesi Hejar Dhani', 'Selang Almiro Tiaro']"
+"Festival Preparation Committee: Members present, Thamilini Esmay, Findlay Juha and Tanyarat. Meeting notes available upon request.","Festival Preparation Committee: Members present, [GIVENNAME_3], [GIVENNAME_2] and [GIVENNAME_1]. Meeting notes available upon request.","['Thamilini Esmay', 'Findlay Juha', 'Tanyarat']"
+"Russell Vozeh and Bettie Lueger exchanged text messages discussing the historical decisions made by Rafat Omotola Austmeyer, a 12 year old Female who lived in Harrington during July/23.","[GIVENNAME_3] [SURNAME_3] and [GIVENNAME_2] [SURNAME_2] exchanged text messages discussing the historical decisions made by [GIVENNAME_1] [SURNAME_1], a [AGE_1] year old [GENDER_1] who lived in [CITY_1] during [DATE_1].","['Vozeh Russell', 'Lueger Bettie', 'Omotola Austmeyer Rafat']"
+Mirnije wants to create an explosion scrapbook about Lafa's childhood. The book will have pictures of Merouane at 66 and 54.,[GIVENNAME_3] wants to create an explosion scrapbook about [GIVENNAME_2]'s childhood. The book will have pictures of [GIVENNAME_1] at [AGE_2] and [AGE_1].,"['Mirnije', 'Lafa', 'Merouane']"
+Amant wants to create a scrapbook about Sheryll Helén's friends. The book will have pictures of Adiam with Vehibe Batsheva and Sivalingam.,[GIVENNAME_5] wants to create a scrapbook about [GIVENNAME_4]'s friends. The book will have pictures of [GIVENNAME_3] with [GIVENNAME_2] and [GIVENNAME_1].,"['Amant', 'Sheryll Helén', 'Adiam', 'Vehibe Batsheva', 'Sivalingam']"
+Rahmel Lorit Nolden is creating a pop-up scrapbook about Abdisamad Cyr's life. The first page features a photo of Nikolaï at 1 years old.,[GIVENNAME_3] [SURNAME_1] is creating a pop-up scrapbook about [GIVENNAME_2]'s life. The first page features a photo of [GIVENNAME_1] at [AGE_1] years old.,"['Rahmel Lorit', 'Nolden Nikolaï', 'Abdisamad Cyr']"
+"12:57 AM Marieclaire to Duangkaew: 'I've been brainstorming ideas for my productivity diary, and I want to include a section on emotional attachment to certain objects. Jaman, can you share some insights?'","[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'I've been brainstorming ideas for my productivity diary, and I want to include a section on emotional attachment to certain objects. [GIVENNAME_1], can you share some insights?'","['Marieclaire', 'Duangkaew', 'Jaman']"
+Bozo is looking forward to the family game night with Fazlji Quyen and Sergios Lap.,[GIVENNAME_3] is looking forward to the family game night with [GIVENNAME_2] and [GIVENNAME_1].,"['Bozo', 'Fazlji Quyen', 'Sergios Lap']"
+"Edmond has developed a unique approach to building emotional resonance with thrift stories, using a combination of Afif's own experiences and historical research to craft compelling narratives. This approach has helped Erimias build a loyal customer base.","[GIVENNAME_3] has developed a unique approach to building emotional resonance with thrift stories, using a combination of [GIVENNAME_2]'s own experiences and historical research to craft compelling narratives. This approach has helped [GIVENNAME_1] build a loyal customer base.","['Edmond', 'Afif', 'Erimias']"
+"Art Project Proposal: 
+Project Leader: Gauthier Iyed Sieweke
+Team Members: Pranay, Thayalakumar","Art Project Proposal: 
+Project Leader: [GIVENNAME_3] [SURNAME_1]
+Team Members: [GIVENNAME_2], [GIVENNAME_1]","['Gauthier Iyed', 'Sieweke Thayalakumar', 'Pranay']"
+"Hello Aska Oziomek Estuardo Bercx,
+This is Miss Ermelinda Henrika from Atmije Jarmila Nature Preserve. We received your application for the volunteer position and would like to schedule an interview with you.
+Please let us know your availability for the next week, and we will provide you with a time slot.
+Thank you for your interest in joining our team!
+Best regards,
+Miss Lisandra Lisann","Hello [GIVENNAME_4] [SURNAME_1],
+This is [TITLE_2] [GIVENNAME_3] from [GIVENNAME_2] Nature Preserve. We received your application for the volunteer position and would like to schedule an interview with you.
+Please let us know your availability for the next week, and we will provide you with a time slot.
+Thank you for your interest in joining our team!
+Best regards,
+[TITLE_1] [GIVENNAME_1]","['Aska', 'Oziomek Estuardo Bercx Lisandra Lisann', 'Ermelinda Henrika', 'Atmije Jarmila']"
+"Podcast transcript: 'Gjulser and Godfried discuss their recent glacial hiking adventure: 
+Laure-Christine: 'It was such a thrill to hike on the Inwood glacier. The ice formations were incredible.'","Podcast transcript: '[GIVENNAME_3] and [GIVENNAME_2] discuss their recent glacial hiking adventure: 
+[GIVENNAME_1]: 'It was such a thrill to hike on the [CITY_1] glacier. The ice formations were incredible.'","['Gjulser', 'Godfried', 'Laure-Christine']"
+"Nanuk's To-Do List:
+1)Solar Panel Assessment: Calculate the best angle for Eryn Fotini's solar panels at A-9 Bhavnagar to Ahmedabad Road, Shahpura.
+2) Energy Consumption Review: Compare Aathi Ferik's energy use patterns for the past 8 years.","[GIVENNAME_3]'s To-Do List:
+1)Solar Panel Assessment: Calculate the best angle for [GIVENNAME_2]'s solar panels at [BUILDINGNUM_1] [STREET_1], [CITY_1].
+2) Energy Consumption Review: Compare [GIVENNAME_1]'s energy use patterns for the past [AGE_1] years.","['Nanuk', 'Eryn Fotini', 'Aathi Ferik']"
+"Hello Rhys, I'm Sivan and I'm excited to share this Summer Poem with you: 'Summer sunshine warms my face, and I think of Geoconda's bright smile.'","Hello [GIVENNAME_3], I'm [GIVENNAME_2] and I'm excited to share this Summer Poem with you: 'Summer sunshine warms my face, and I think of [GIVENNAME_1]'s bright smile.'","['Rhys', 'Sivan', 'Geoconda']"
+"The following participants have confirmed: Thavamathy Cruz/Rintala/421602, Angelina Ayna/29/M, Nadeshna/66018.85983/Nashik Dharampur Road.","The following participants have confirmed: [GIVENNAME_3]/[SURNAME_1]/[ZIPCODE_1], [GIVENNAME_2]/[AGE_1]/[SEX_1], [GIVENNAME_1]/[TAXNUM_1]/[STREET_1].","['Thavamathy Cruz', 'Rintala Nadeshna', 'Angelina Ayna']"
+"8:12 Everson to Fouzi: 'If you could bring your Ellana and Khanem to the festival, that would be great, thanks!'","[TIME_1] [GIVENNAME_4] to [GIVENNAME_3]: 'If you could bring your [GIVENNAME_2] and [GIVENNAME_1] to the festival, that would be great, thanks!'","['Everson', 'Fouzi', 'Ellana', 'Khanem']"
+4:20 Preslava: 'Sure thing! My portfolio is available at S@tutanota.com. I've worked with Sidhant and Goetz in the past.',[TIME_1] [GIVENNAME_3]: 'Sure thing! My portfolio is available at [EMAIL_1]. I've worked with [GIVENNAME_2] and [GIVENNAME_1] in the past.',"['Preslava', 'Sidhant', 'Goetz']"
+Note: The collection includes a rare photograph of Faaduma with Lakhdar Kenz and Manavi at the Burnet salon.,Note: The collection includes a rare photograph of [GIVENNAME_3] with [GIVENNAME_2] and [GIVENNAME_1] at the [CITY_1] salon.,"['Faaduma', 'Lakhdar Kenz', 'Manavi']"
+Ferdane sent you a message: Just a heads up that Taban Helea is planning a surprise party for Vitalijs's 27/11/1985 birthday.,[GIVENNAME_3] sent you a message: Just a heads up that [GIVENNAME_2] is planning a surprise party for [GIVENNAME_1]'s [DATE_1] birthday.,"['Ferdane', 'Taban Helea', 'Vitalijs']"
+"Meeting Minutes: Attendees included Judith Hünermund, Mister Kashish, and Kenta Cavaglieri-Oncelli. Next meeting to be held on August/58.","Meeting Minutes: Attendees included [GIVENNAME_3] [SURNAME_2], [TITLE_1] [GIVENNAME_2], and [GIVENNAME_1] [SURNAME_1]. Next meeting to be held on [DATE_1].","['Judith', 'Hünermund Kashish', 'Cavaglieri-Oncelli Kenta']"
+"To: Fljoresha Fiorena 
+From: Gyaltsen Chima Sayela Pasa 
+Subject: Payment for Industrial Scrapbook Materials 
+
+Hi Kaleigh, this is a reminder that your payment is due on 11/01/1966.","To: [GIVENNAME_3] 
+From: [GIVENNAME_2] [SURNAME_1] 
+Subject: Payment for Industrial Scrapbook Materials 
+
+Hi [GIVENNAME_1], this is a reminder that your payment is due on [DATE_1].","['Fljoresha Fiorena', 'Gyaltsen Chima', 'Sayela Pasa Kaleigh']"
+"Subject: Update on Genealogical Research
+Dear Sigurd Mamisch,
+Our team has discovered a new lead regarding Gortana ancestry. The information is connected to a Geun Pensavecchio Tataridis, who lived in Totnes Stoke Gabriel during the 24th March 1975 time period. We require your confirmation to proceed with the investigation.","Subject: Update on Genealogical Research
+Dear [GIVENNAME_2] [SURNAME_3],
+Our team has discovered a new lead regarding [SURNAME_2] ancestry. The information is connected to a [GIVENNAME_1] [SURNAME_1], who lived in [CITY_1] during the [DATE_1] time period. We require your confirmation to proceed with the investigation.","['Gortana Sigurd', 'Mamisch', 'Pensavecchio Tataridis Geun']"
+Jean-William is planning an Alpine Meadow Picnic for March/00 and has invited Lisabethli and Arment.,[GIVENNAME_3] is planning an Alpine Meadow Picnic for [DATE_1] and has invited [GIVENNAME_2] and [GIVENNAME_1].,"['Jean-William', 'Lisabethli', 'Arment']"
+Wayna Sontje has a fun tradition of making holiday crafts with Recibe and Leeven Endre.,[GIVENNAME_3] has a fun tradition of making holiday crafts with [GIVENNAME_2] and [GIVENNAME_1].,"['Wayna Sontje', 'Recibe', 'Leeven Endre']"
+"The following team members have qualified for the air gun shooting finals: Brook Bradac Adelardi, Jamie-Louis Béniguel, and Nahed Knupp.","The following team members have qualified for the air gun shooting finals: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Bradac Adelardi Brook', 'Béniguel Jamie-Louis', 'Knupp Nahed']"
+"I was thinking of creating a family tree to share with everyone. Mevluda, would you be able to help me gather some information about our ancestors, such as Saharat's date of birth and Tjana's place of birth?","I was thinking of creating a family tree to share with everyone. [GIVENNAME_3], would you be able to help me gather some information about our ancestors, such as [GIVENNAME_2]'s date of birth and [GIVENNAME_1]'s place of birth?","['Mevluda', 'Saharat', 'Tjana']"
+Nirvan has decided to start a mindfulness diary to track Fluri's progress and stay focused on Tippawan's goals. Pritha is excited to see how Fariborz will grow and improve over the next year.,[GIVENNAME_5] has decided to start a mindfulness diary to track [GIVENNAME_4]'s progress and stay focused on [GIVENNAME_3]'s goals. [GIVENNAME_2] is excited to see how [GIVENNAME_1] will grow and improve over the next year.,"['Nirvan', 'Fluri', 'Tippawan', 'Pritha', 'Fariborz']"
+"Komi Padin Karuneswaran Gregurevic wrote a book about their family's Cedar Park-based experiences, featuring Aarani Hato Hingray and Hasmik Mathivathana Jeyenthirarasa.","[GIVENNAME_3] [SURNAME_3] wrote a book about their family's [CITY_1]-based experiences, featuring [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Padin Karuneswaran Gregurevic Komi', 'Hingray Aarani Hato', 'Jeyenthirarasa Hasmik Mathivathana']"
+"Rajakumari Kameni is working on a legacy building project through oral histories, focusing on the stories of Poulomi Kristyna and Ismoil Tade, which will be preserved for future generations.","[GIVENNAME_3] [SURNAME_1] is working on a legacy building project through oral histories, focusing on the stories of [GIVENNAME_2] and [GIVENNAME_1], which will be preserved for future generations.","['Rajakumari', 'Kameni Ismoil Tade', 'Poulomi Kristyna']"
+"Safak Lochon Demini: 'Here's a list of ingredients for the foam experiment: 250g Jannat, 100g Dorian, and 50g Donjete. Meet me at Highland Road 569 at 13:03.';","[GIVENNAME_4] [SURNAME_1]: 'Here's a list of ingredients for the foam experiment: 250g [GIVENNAME_3], 100g [GIVENNAME_2], and 50g [GIVENNAME_1]. Meet me at [STREET_1] [BUILDINGNUM_1] at [TIME_1].';","['Safak', 'Lochon Demini Donjete', 'Jannat', 'Dorian']"
+"To: S@yahoo.com
+From: 1954R@gmail.com
+Subject: Re: Signature Comparison Report
+
+Dear Naftoli Gianlorenzo,
+
+I've received the documents and will review them shortly. Please confirm the ID numbers for Nurhayati and Fetim Menderez so I can proceed with the analysis.","To: [EMAIL_2]
+From: [EMAIL_1]
+Subject: Re: Signature Comparison Report
+
+Dear [GIVENNAME_3],
+
+I've received the documents and will review them shortly. Please confirm the ID numbers for [GIVENNAME_2] and [GIVENNAME_1] so I can proceed with the analysis.","['Naftoli Gianlorenzo', 'Nurhayati', 'Fetim Menderez']"
+"The membership list of our historical society includes Morteza Vanela, Marjon, and Kellen.","The membership list of our historical society includes [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Morteza Vanela', 'Marjon', 'Kellen']"
+"The HSH@outlook.com of Mito Thang contains a wealth of information on the April 19th, 2012 of Shimaa and Dzezire.",The [EMAIL_1] of [GIVENNAME_3] [SURNAME_1] contains a wealth of information on the [DATE_1] of [GIVENNAME_2] and [GIVENNAME_1].,"['Mito', 'Thang Dzezire', 'Shimaa']"
+Taynara Célèste is particularly interested in exploring public policy analysis guides that focus on sustainable living and waste reduction. Aryos has been researching different approaches to implementing zero-waste policies in Cheyyur and is eager to share Artenisa's findings with the community.,[GIVENNAME_3] is particularly interested in exploring public policy analysis guides that focus on sustainable living and waste reduction. [GIVENNAME_2] has been researching different approaches to implementing zero-waste policies in [CITY_1] and is eager to share [GIVENNAME_1]'s findings with the community.,"['Taynara Célèste', 'Aryos', 'Artenisa']"
+Elouise: Nice to meet you too Canisius Jacques-Albert! I'm Shqipe and I would like to know more about soy wax. Is it a good option?,[GIVENNAME_3]: Nice to meet you too [GIVENNAME_2]! I'm [GIVENNAME_1] and I would like to know more about soy wax. Is it a good option?,"['Elouise', 'Canisius Jacques-Albert', 'Shqipe']"
+"To: Ombeline Kenaya Senne 
+From: Arulnathan Vilkelis Damianidis Pranjeta 
+Subject: Re: Historical Railroad Exploration Notes 
+
+Dear Madame Beijersbergen, 
+I've attached a detailed breakdown of the import and export data for the fiscal year 07/31/1959. If you have any further questions, please don't hesitate to contact me at 025.968.1753. 
+
+Best regards, 
+Yugo Henner Riboli","To: [GIVENNAME_3] [SURNAME_4] 
+From: [GIVENNAME_2] [SURNAME_3] 
+Subject: Re: Historical Railroad Exploration Notes 
+
+Dear [TITLE_1] [SURNAME_2], 
+I've attached a detailed breakdown of the import and export data for the fiscal year [DATE_1]. If you have any further questions, please don't hesitate to contact me at [TELEPHONENUM_1]. 
+
+Best regards, 
+[GIVENNAME_1] [SURNAME_1]","['Vilkelis Damianidis Pranjeta Ombeline Kenaya', 'Senne', 'Beijersbergen Arulnathan', 'Riboli Yugo Henner']"
+"11:31 Bronca: 'I think Sanimete Maudie Mangituka has them. They were discussing it with the architect, Miss Huannou, last week.'","[TIME_1] [SURNAME_3]: 'I think [GIVENNAME_1] [SURNAME_2] has them. They were discussing it with the architect, [TITLE_1] [SURNAME_1], last week.'","['Bronca', 'Huannou Sanimete Maudie', 'Mangituka']"
+Jael: Awesome find! I've been researching that era for my history project. Did you know that Marketta was a key figure in the Lirijan Sudath revolution?,[GIVENNAME_3]: Awesome find! I've been researching that era for my history project. Did you know that [GIVENNAME_2] was a key figure in the [GIVENNAME_1] revolution?,"['Jael', 'Marketta', 'Lirijan Sudath']"
+"Recently, Yovana mentioned to me in private that their preferred name is Daniele and not Aliaksandra. Let’s update our records.","Recently, [GIVENNAME_3] mentioned to me in private that their preferred name is [GIVENNAME_2] and not [GIVENNAME_1]. Let’s update our records.","['Yovana', 'Daniele', 'Aliaksandra']"
+"05:03 Qian Siriwan: 'Morning, hope you slept well.';
+12:03:49 PM +441-36.387 0802: 'Hey, Emeryc here. Yeah had 6 hours. What about you? Started working on my presentation.';
+9:14 Pamina: 'Hey guys, see you soon at Coastguard Lane 97.';","[TIME_3] [GIVENNAME_3]: 'Morning, hope you slept well.';
+[TIME_2] [TELEPHONENUM_1]: 'Hey, [GIVENNAME_2] here. Yeah had 6 hours. What about you? Started working on my presentation.';
+[TIME_1] [GIVENNAME_1]: 'Hey guys, see you soon at [STREET_1] [BUILDINGNUM_1].';","['Qian Siriwan', 'Emeryc', 'Pamina']"
+"Nagore, Osei Nehim, Churchill, Ulisses.","[GIVENNAME_4], [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1].","['Nagore', 'Osei Nehim', 'Churchill', 'Ulisses']"
+"9:02:03 AM Aryo: Hey Yanissa, I'm so sorry to hear about Khairul's passing. I'm here for you if you need anything.","[TIME_1] [GIVENNAME_3]: Hey [GIVENNAME_2], I'm so sorry to hear about [GIVENNAME_1]'s passing. I'm here for you if you need anything.","['Aryo', 'Yanissa', 'Khairul']"
+"From: Meleke Poupin To: Gulalai Petitteville Subject: Family Style Dessert Recipes Dear Zlatuse Suvethika, hope this email finds you well. I have attached a document containing our family style dessert recipes.","From: [GIVENNAME_3] [SURNAME_2] To: [GIVENNAME_2] [SURNAME_1] Subject: Family Style Dessert Recipes Dear [GIVENNAME_1], hope this email finds you well. I have attached a document containing our family style dessert recipes.","['Meleke', 'Poupin Gulalai', 'Petitteville Zlatuse Suvethika']"
+"Aaminah Szimilkó has requested a to-do list for the upcoming diploma ceremony, which includes: send out invitations to Ryna Moerlen Revaud and Ireneo Xhem Gasteyger, prepare the diplomas for Tee Stengert Tosello and Dieu Kwiek Pusparasa, and confirm the venue at Shakespeare.","[GIVENNAME_5] [SURNAME_5] has requested a to-do list for the upcoming diploma ceremony, which includes: send out invitations to [GIVENNAME_4] [SURNAME_4] and [GIVENNAME_3] [SURNAME_3], prepare the diplomas for [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1], and confirm the venue at [CITY_1].","['Szimilkó Aaminah', 'Moerlen Revaud Ryna', 'Gasteyger Ireneo Xhem', 'Stengert Tosello Tee', 'Kwiek Pusparasa Dieu']"
+Naqibullah Yassir will meet Abinash Jean-Maxime at 10:18 on Castle Carr Road to discuss Cristopher participation.,[GIVENNAME_3] will meet [GIVENNAME_2] at [TIME_1] on [STREET_1] to discuss [GIVENNAME_1] participation.,"['Naqibullah Yassir', 'Abinash Jean-Maxime', 'Cristopher']"
+Anke Ketabije and Claude-Pascal Karishan are planning a surprise party for Spartak Radhouan's 76 birthday,[GIVENNAME_3] and [GIVENNAME_2] are planning a surprise party for [GIVENNAME_1]'s [AGE_1] birthday,"['Anke Ketabije', 'Claude-Pascal Karishan', 'Spartak Radhouan']"
+"1:31 Mathulan Lyndon: 'Hello Elisabeth-Maria Veleda, hope you're doing well. I am Tulin Angelotti from Palm Beach Road 2130. I wanted to discuss the recent noise pollution regulations in our neighborhood.'","[TIME_1] [GIVENNAME_3]: 'Hello [GIVENNAME_2], hope you're doing well. I am [GIVENNAME_1] [SURNAME_1] from [STREET_1] [BUILDINGNUM_1]. I wanted to discuss the recent noise pollution regulations in our neighborhood.'","['Mathulan Lyndon', 'Elisabeth-Maria Veleda', 'Angelotti Tulin']"
+"Memorandum: 
+To: Cheryn 
+From: Basant 
+Subject: DNA Analysis 
+Please find attached the results of your DNA migration route analysis. If you have any questions, please contact Fazal at AK@outlook.com or +85.69.445 0646.","Memorandum: 
+To: [GIVENNAME_3] 
+From: [GIVENNAME_2] 
+Subject: DNA Analysis 
+Please find attached the results of your DNA migration route analysis. If you have any questions, please contact [GIVENNAME_1] at [EMAIL_1] or [TELEPHONENUM_1].","['Cheryn', 'Basant', 'Fazal']"
+"Meeting Minutes: Flat Earth Debunking Research Team
+Attendees: Tryfon, Cristina-Ramona, Emel
+Discussion: Research updates and participant information","Meeting Minutes: Flat Earth Debunking Research Team
+Attendees: [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1]
+Discussion: Research updates and participant information","['Tryfon', 'Cristina-Ramona', 'Emel']"
+"To: Eamonn
+From: Mstr Saroo Shkendim Tiller
+Subject: Change of Address
+Dear Ednan, We have received your request to change your address to Red Fox Ridge Road 22, DeSoto. Please verify your Zoane Liia76693 for our records.","To: [GIVENNAME_4]
+From: [TITLE_1] [GIVENNAME_3] [SURNAME_1]
+Subject: Change of Address
+Dear [GIVENNAME_2], We have received your request to change your address to [STREET_1] [BUILDINGNUM_1], [CITY_1]. Please verify your [GIVENNAME_1][ZIPCODE_1] for our records.","['Eamonn', 'Saroo Shkendim', 'Tiller Zoane Liia', 'Ednan']"
+"Hey Gandi, I'm designing a treehouse for Seynab and I want to include a personalized sign with their name, Fluturim Choux.","Hey [GIVENNAME_3], I'm designing a treehouse for [GIVENNAME_2] and I want to include a personalized sign with their name, [GIVENNAME_1] [SURNAME_1].","['Gandi', 'Seynab', 'Choux Fluturim']"
+05:38 Fang: Mostly pendants and rings. Want to give them as gifts to Rénas and Raeda Catalina.,[TIME_1] [GIVENNAME_3]: Mostly pendants and rings. Want to give them as gifts to [GIVENNAME_2] and [GIVENNAME_1].,"['Fang', 'Rénas', 'Raeda Catalina']"
+"Dalcy wants to share a poem with you. Here is Lakshmi Saulius's poem for Radivojka Lapuh, 28/06/2016","[GIVENNAME_3] wants to share a poem with you. Here is [GIVENNAME_2]'s poem for [GIVENNAME_1] [SURNAME_1], [DATE_1]","['Dalcy', 'Lakshmi Saulius', 'Lapuh Radivojka']"
+"2:32 Ruftaliem: 'What's the minimum age requirement?';
+20:59 Daian: 'You must be at least 54 years old to apply.';
+12:33 AM Thibauld: 'That's great, I'm 19 years old.';
+3:43 AM Marie-Suzanne: 'Then you should be eligible to apply.';","[TIME_4] [GIVENNAME_4]: 'What's the minimum age requirement?';
+[TIME_3] [GIVENNAME_3]: 'You must be at least [AGE_2] years old to apply.';
+[TIME_2] [GIVENNAME_2]: 'That's great, I'm [AGE_1] years old.';
+[TIME_1] [GIVENNAME_1]: 'Then you should be eligible to apply.';","['Ruftaliem', 'Daian', 'Thibauld', 'Marie-Suzanne']"
+Altian Tybo went to a thrift store and bought a Miss's poem book with a handwritten note from Rooa to Imri for 25 years.,[GIVENNAME_3] went to a thrift store and bought a [TITLE_1]'s poem book with a handwritten note from [GIVENNAME_2] to [GIVENNAME_1] for [AGE_1] years.,"['Altian Tybo', 'Rooa', 'Imri']"
+The poem Mr by Hadar Rigden reflects on the importance of Darran Inanç and Dilbere in achieving life purpose.,The poem [TITLE_1] by [GIVENNAME_3] reflects on the importance of [GIVENNAME_2] and [GIVENNAME_1] in achieving life purpose.,"['Hadar Rigden', 'Darran Inanç', 'Dilbere']"
+"According to Sergejs's diary, Herlander Rando prefers games with puzzles and strategy. Bengin finds them more engaging than action games.","According to [GIVENNAME_3]'s diary, [GIVENNAME_2] prefers games with puzzles and strategy. [GIVENNAME_1] finds them more engaging than action games.","['Sergejs', 'Herlander Rando', 'Bengin']"
+Markandu is excited to share their favorite bonfire building techniques with Lyuben Nandor and Yomar.,[GIVENNAME_3] is excited to share their favorite bonfire building techniques with [GIVENNAME_2] and [GIVENNAME_1].,"['Markandu', 'Lyuben Nandor', 'Yomar']"
+"Carolus Wani is creating a pop-up scrapbook about Semse's life. The first page will have a picture of Sekerije with Greunke and their February 20th, 1978.",[GIVENNAME_3] is creating a pop-up scrapbook about [GIVENNAME_2]'s life. The first page will have a picture of [GIVENNAME_1] with [SURNAME_1] and their [DATE_1].,"['Carolus Wani', 'Semse', 'Greunke Sekerije']"
+"To: S@outlook.com
+From: Ezman Iared Muganga
+Subject: Experimental Design Innovations
+Dear Mrs Schimon Laskowski,
+I am writing to discuss the latest developments in experimental design. Our team, led by Silio Sljuka, has created a new approach that shows significant promise. Please find the attached document for more details.","To: [EMAIL_1]
+From: [GIVENNAME_2] [SURNAME_3]
+Subject: Experimental Design Innovations
+Dear [TITLE_1] [SURNAME_2],
+I am writing to discuss the latest developments in experimental design. Our team, led by [GIVENNAME_1] [SURNAME_1], has created a new approach that shows significant promise. Please find the attached document for more details.","['Schimon Laskowski Ezman Iared', 'Muganga', 'Sljuka Silio']"
+19:28:17 Adira to Merla: 'Actually Mayoress Belia said Dupo was the favorite place.',[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'Actually [TITLE_1] [GIVENNAME_1] said [CITY_1] was the favorite place.',"['Adira', 'Merla', 'Belia']"
+"From Vezire to Ekram: Yes, please add the foam protection liner for Kenisha's phone.","From [GIVENNAME_3] to [GIVENNAME_2]: Yes, please add the foam protection liner for [GIVENNAME_1]'s phone.","['Vezire', 'Ekram', 'Kenisha']"
+"Here is the list of visitors to the Hatfield Road 407 site on 25/04/2019: Viljdana Stivan, Litterio Laserna Rivett, and Pieric Glykner.","Here is the list of visitors to the [STREET_1] [BUILDINGNUM_1] site on [DATE_1]: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Stivan Viljdana', 'Laserna Rivett Litterio', 'Glykner Pieric']"
+Adeyemi loves to cook and wants to share a dairy-free recipe with Jiyana and Gjejron.,[GIVENNAME_3] loves to cook and wants to share a dairy-free recipe with [GIVENNAME_2] and [GIVENNAME_1].,"['Adeyemi', 'Jiyana', 'Gjejron']"
+Lediana sent a message to Ruzhdi saying 'I need your help with Somchai's biography. Can you send me Lilia's HD0HIKRILC?',[GIVENNAME_4] sent a message to [GIVENNAME_3] saying 'I need your help with [GIVENNAME_2]'s biography. Can you send me [GIVENNAME_1]'s [DRIVERLICENSENUM_1]?',"['Lediana', 'Ruzhdi', 'Somchai', 'Lilia']"
+"The Mrs Kang Balasa is researching the Najlaa Maraschio family's history and has come across an interesting 06/08/2009 for their ancestor, Eyana Ochiai.","The [TITLE_1] [GIVENNAME_3] [SURNAME_3] is researching the [GIVENNAME_2] [SURNAME_2] family's history and has come across an interesting [DATE_1] for their ancestor, [GIVENNAME_1] [SURNAME_1].","['Balasa Kang', 'Maraschio Najlaa', 'Ochiai Eyana']"
+"Schlomo Liebherr wrote in Namgyal Taslim's journal: 'Today, I attended a civic event at Jasrana Manpura Mancheri and met Mars Klünsch Nsiamfumu from Safipur.'","[GIVENNAME_3] [SURNAME_2] wrote in [GIVENNAME_2]'s journal: 'Today, I attended a civic event at [CITY_2] and met [GIVENNAME_1] [SURNAME_1] from [CITY_1].'","['Schlomo', 'Liebherr Namgyal Taslim', 'Klünsch Nsiamfumu Mars']"
+"Email: Teacup Garden Display Art Project
+
+From: Jeet Malembe <tden ouden@outlook.com>
+To: Safar Silletta Anzano <2009DO@gmail.com>
+Subject: Teacup Garden Display Art Project
+
+Dear Borivoj,
+
+I hope this email finds you well. I am reaching out to you as I am interested in creating a Teacup Garden Display for my home. I came across your art project online and I am impressed by your creativity. Could you please share more details about your project, such as the materials used and the inspiration behind it? I would also appreciate any guidance on how to create a similar display.
+
+Thank you for your time and I look forward to hearing from you soon.
+
+Best regards,
+Kastriote Etana","Email: Teacup Garden Display Art Project
+
+From: [GIVENNAME_4] [SURNAME_2] <[EMAIL_2]>
+To: [GIVENNAME_3] [SURNAME_1] <[EMAIL_1]>
+Subject: Teacup Garden Display Art Project
+
+Dear [GIVENNAME_2],
+
+I hope this email finds you well. I am reaching out to you as I am interested in creating a Teacup Garden Display for my home. I came across your art project online and I am impressed by your creativity. Could you please share more details about your project, such as the materials used and the inspiration behind it? I would also appreciate any guidance on how to create a similar display.
+
+Thank you for your time and I look forward to hearing from you soon.
+
+Best regards,
+[GIVENNAME_1]","['Jeet', 'Malembe Borivoj', 'Safar', 'Silletta Anzano Kastriote Etana']"
+Doryane and Mardokay Dolmetsch invite you to celebrate the life of Tsam with a bench dedication ceremony.,[GIVENNAME_3] and [GIVENNAME_2] [SURNAME_1] invite you to celebrate the life of [GIVENNAME_1] with a bench dedication ceremony.,"['Doryane', 'Mardokay', 'Dolmetsch Tsam']"
+"From: Berzat Bayon CKK@outlook.com
+To: Mister Aselmeyer Llabjani XS2025@aol.com
+Subject: Request for Neighborhood Resource Directory
+Body: Dear Miss Musolaj, I am reaching out to request a copy of the neighborhood resource directory. Could you please send it to me at A@aol.com?","From: [GIVENNAME_1] [SURNAME_3] [EMAIL_3]
+To: [TITLE_2] [SURNAME_2] [EMAIL_2]
+Subject: Request for Neighborhood Resource Directory
+Body: Dear [TITLE_1] [SURNAME_1], I am reaching out to request a copy of the neighborhood resource directory. Could you please send it to me at [EMAIL_1]?","['Musolaj Berzat', 'Bayon', 'Aselmeyer Llabjani']"
+"K9 Unit Operation Report
+Summary of Incident: Berthe, a 30-year-old Female, was rescued by Dawid and his dog, Manifa.","K9 Unit Operation Report
+Summary of Incident: [GIVENNAME_3], a [AGE_1]-year-old [SEX_1], was rescued by [GIVENNAME_2] and his dog, [GIVENNAME_1].","['Berthe', 'Dawid', 'Manifa']"
+Fofo and Besarta request the honour of your presence at a memorial service for Sarun.,[GIVENNAME_3] and [GIVENNAME_2] request the honour of your presence at a memorial service for [GIVENNAME_1].,"['Fofo', 'Besarta', 'Sarun']"
+"Gezai Péterffy Blanditi Joerin: 'My sewing teacher, Mister Bersim, says I'm making good progress.';
+11:18 PM Tsega Guffroy Knewstubb Merminod: 'That's amazing! Keep it up!'","[GIVENNAME_3] [SURNAME_2]: 'My sewing teacher, [TITLE_1] [GIVENNAME_2], says I'm making good progress.';
+[TIME_1] [GIVENNAME_1] [SURNAME_1]: 'That's amazing! Keep it up!'","['Gezai', 'Péterffy Blanditi Joerin Bersim', 'Guffroy Knewstubb Merminod Tsega']"
+"To: Miss Spallina Bowcott Flacco
+From: Mrs Tizoc El Gendy Georgescu Eliopoulos
+Subject: Scotland Yard Legal Compliance Training - Djeljal Tomassilli (G80C9TX8FB)","To: [TITLE_2] [SURNAME_3]
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_2]
+Subject: Scotland Yard Legal Compliance Training - [GIVENNAME_1] [SURNAME_1] ([IDCARDNUM_1])","['Spallina Bowcott Flacco', 'El Gendy Georgescu Eliopoulos Tizoc', 'Tomassilli Djeljal']"
+"Erio and Bilacli Korovina: Can I commission a custom stained glass piece with our kid's names, Sathiyavani and Yuliana, and our anniversary date, June 12th, 2019?","[GIVENNAME_3] and [SURNAME_1]: Can I commission a custom stained glass piece with our kid's names, [GIVENNAME_2] and [GIVENNAME_1], and our anniversary date, [DATE_1]?","['Erio', 'Bilacli Korovina Yuliana', 'Sathiyavani']"
+"Chonzom's Mom, Beka, called to confirm Fasli Arda's appointment on May 24th, 1989 at 9:33 AM.","[GIVENNAME_3]'s Mom, [GIVENNAME_2], called to confirm [GIVENNAME_1]'s appointment on [DATE_1] at [TIME_1].","['Chonzom', 'Beka', 'Fasli Arda']"
+Create a new To-Do List for Benadik with tasks assigned to Boutros and Fulvia.,Create a new To-Do List for [GIVENNAME_3] with tasks assigned to [GIVENNAME_2] and [GIVENNAME_1].,"['Benadik', 'Boutros', 'Fulvia']"
+Rodina is creating a keepsake scrapbook for Jefta's new baby. Estere has contributed some adorable pictures.,[GIVENNAME_3] is creating a keepsake scrapbook for [GIVENNAME_2]'s new baby. [GIVENNAME_1] has contributed some adorable pictures.,"['Rodina', 'Jefta', 'Estere']"
+"A to-do list for Cristián has been created, including tasks such as picking up Munasar from Harrison Mills train station and meeting Kelyane Jayde at Roberts Creek Road.","A to-do list for [GIVENNAME_3] has been created, including tasks such as picking up [GIVENNAME_2] from [CITY_1] train station and meeting [GIVENNAME_1] at [STREET_1].","['Cristián', 'Munasar', 'Kelyane Jayde']"
+"06:38:03 Sivarasa: 'We need to make sure Heinrike and Zijian are on the same team, they're always so competitive!'","[TIME_1] [GIVENNAME_3]: 'We need to make sure [GIVENNAME_2] and [GIVENNAME_1] are on the same team, they're always so competitive!'","['Sivarasa', 'Heinrike', 'Zijian']"
+"The Aiva Hadija Bubel collection of rare books and EX6 will be auctioned off to support the Ohara Gülhanim Albino literary legacy project, with proceeds going towards the preservation of Baldomero Al Hamoui Mambote Debella's written works.","The [GIVENNAME_3] [SURNAME_3] collection of rare books and [ZIPCODE_1] will be auctioned off to support the [GIVENNAME_2] [SURNAME_2] literary legacy project, with proceeds going towards the preservation of [GIVENNAME_1] [SURNAME_1]'s written works.","['Bubel Aiva Hadija', 'Albino Ohara Gülhanim', 'Al Hamoui Mambote Debella Baldomero']"
+Abdullahi wants to learn Danu Vebija techniques for making Persabel Djelleza jewelry. Can Atanasko recommend Ravinder books or Narcis online courses?,[GIVENNAME_6] wants to learn [GIVENNAME_5] techniques for making [GIVENNAME_4] jewelry. Can [GIVENNAME_3] recommend [GIVENNAME_2] books or [GIVENNAME_1] online courses?,"['Abdullahi', 'Danu Vebija', 'Persabel Djelleza', 'Atanasko', 'Ravinder', 'Narcis']"
+Jan-Ulrich Latreche created a new document for the Elizabethan collar designs and shared it with Fernand Rakshit Hamani and Jan-Philipp Hemm.,[GIVENNAME_3] [SURNAME_3] created a new document for the Elizabethan collar designs and shared it with [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Latreche Jan-Ulrich', 'Hamani Fernand Rakshit', 'Hemm Jan-Philipp']"
+"27/05/1944 - John (Zinovia Suniti) from Greensboro passed away. Beloved husband of Lennys and father of Rolita. In lieu of flowers, please send donations to 6110 Witherington Road","[DATE_1] - John ([GIVENNAME_3]) from [CITY_1] passed away. Beloved husband of [GIVENNAME_2] and father of [GIVENNAME_1]. In lieu of flowers, please send donations to [BUILDINGNUM_1] [STREET_1]","['Zinovia Suniti', 'Lennys', 'Rolita']"
+"Subject: Meeting Minutes from the City Planning Committee. Attendees: Mr Sawa Angelico, Madame Ziv Nian Kraatz, Madame Nan Isuri Biniza Dal Negro. ","Subject: Meeting Minutes from the City Planning Committee. Attendees: [TITLE_3] [GIVENNAME_3] [SURNAME_3], [TITLE_2] [GIVENNAME_2] [SURNAME_2], [TITLE_1] [GIVENNAME_1] [SURNAME_1]. ","['Angelico Sawa', 'Kraatz Ziv Nian', 'Biniza Dal Negro Nan Isuri']"
+"Saba: Hey does Dalji have an email? Last time I checked, Agathi didn't have a FB account. Maybe I'll just put +445.424.851 4536?","[GIVENNAME_3]: Hey does [GIVENNAME_2] have an email? Last time I checked, [GIVENNAME_1] didn't have a FB account. Maybe I'll just put [TELEPHONENUM_1]?","['Saba', 'Dalji', 'Agathi']"
+"Mengina Züleyha is thrilled to present a unique mid-century modern collectible, carefully curated from Mahamed estate in Gohana Tehsil. For more information, please contact Zakariya at +1474223-7353 or B@outlook.com.","[GIVENNAME_3] is thrilled to present a unique mid-century modern collectible, carefully curated from [GIVENNAME_2] estate in [CITY_1]. For more information, please contact [GIVENNAME_1] at [TELEPHONENUM_1] or [EMAIL_1].","['Mengina Züleyha', 'Mahamed', 'Zakariya']"
+Lorelay: 'Hey Swaantje! Found an old weaving pattern from my Kevork grandmother and wanted to share.',[GIVENNAME_3]: 'Hey [GIVENNAME_2]! Found an old weaving pattern from my [GIVENNAME_1] grandmother and wanted to share.',"['Lorelay', 'Swaantje', 'Kevork']"
+Taip asked for recommendations on dairy-free cheese substitutes and received suggestions from Lorelay and Teklu,[GIVENNAME_3] asked for recommendations on dairy-free cheese substitutes and received suggestions from [GIVENNAME_2] and [GIVENNAME_1],"['Taip', 'Lorelay', 'Teklu']"
+"In a text message exchange, Maylinda asked Mortimer Carim about the Y@outlook.com of the Portland library. Birhane replied that it's TFT@yahoo.com and that they should contact Mister Giraud for more information.","In a text message exchange, [GIVENNAME_3] asked [GIVENNAME_2] about the [EMAIL_2] of the [CITY_1] library. [GIVENNAME_1] replied that it's [EMAIL_1] and that they should contact [TITLE_1] [SURNAME_1] for more information.","['Maylinda', 'Mortimer Carim', 'Giraud Birhane']"
+"To-Do List for Dhiren Ladislav: Confirm the cinema schedule with Ziga, pick up Leong from Horncastle, and send the details to K41@gmail.com.","To-Do List for [GIVENNAME_3]: Confirm the cinema schedule with [GIVENNAME_2], pick up [GIVENNAME_1] from [CITY_1], and send the details to [EMAIL_1].","['Dhiren Ladislav', 'Ziga', 'Leong']"
+"Rolina Flyn needs help creating a childhood memory diary for Semire Daliya. The diary should include a photo of Delva and Chaimae Hélèna, and a caption with 12/01/1979","[GIVENNAME_4] needs help creating a childhood memory diary for [GIVENNAME_3]. The diary should include a photo of [GIVENNAME_2] and [GIVENNAME_1], and a caption with [DATE_1]","['Rolina Flyn', 'Semire Daliya', 'Delva', 'Chaimae Hélèna']"
+"Riquelme: Got it, thanks Naide Camelia! Will review the plan with Nevo Mayerick.","[GIVENNAME_3]: Got it, thanks [GIVENNAME_2]! Will review the plan with [GIVENNAME_1] [SURNAME_1].","['Riquelme', 'Naide Camelia', 'Mayerick Nevo']"
+"Dear Mstr Thanawat Eghagha,
+
+Hope this email finds you well. We have an upcoming event at our school, where we will be teaching a group of underprivileged children the ancient art of Apsara dance from Cambodia. I was wondering if you could help me prepare a circular memo for the  parents of the children to give their consent. This would require name of the parent Gezae Kurtoska, the age of the child 34 as well as his passport number PS6854562. If they want, they can also send an additional copy of their child's ID J3IW9JKGOL along with the consent form.
+We would like to have all the necessary details by 2nd August 1953. Looking forward to hearing back from you soon.
+Best regards,
+Elifsu","Dear [TITLE_1] [GIVENNAME_3] [SURNAME_2],
+
+Hope this email finds you well. We have an upcoming event at our school, where we will be teaching a group of underprivileged children the ancient art of Apsara dance from Cambodia. I was wondering if you could help me prepare a circular memo for the  parents of the children to give their consent. This would require name of the parent [GIVENNAME_2] [SURNAME_1], the age of the child [AGE_1] as well as his passport number [PASSPORTNUM_1]. If they want, they can also send an additional copy of their child's ID [IDCARDNUM_1] along with the consent form.
+We would like to have all the necessary details by [DATE_1]. Looking forward to hearing back from you soon.
+Best regards,
+[GIVENNAME_1]","['Thanawat', 'Eghagha Gezae', 'Kurtoska Elifsu']"
+"As part of the research on solar eclipses, Vinz gathered information from various sources, including books written by Seyyed Fraj Villamarin and articles by Pierantonio Orlando","As part of the research on solar eclipses, [GIVENNAME_3] gathered information from various sources, including books written by [GIVENNAME_2] [SURNAME_1] and articles by [GIVENNAME_1]","['Vinz', 'Seyyed Fraj', 'Villamarin Pierantonio Orlando']"
+"2:27 AM Redjije: I need your help in drafting a letter to the Master of the Municipal Corporation. The details are - Name of the recipient: Mayoress Meinolf Guilhem, Name of the sender: Nihed Sonja Heydrich, Sender's Address: Chhitaarsi Calchhina Road 1091, Mumbai Kurla East.","[TIME_1] [GIVENNAME_3]: I need your help in drafting a letter to the [TITLE_2] of the Municipal Corporation. The details are - Name of the recipient: [TITLE_1] [GIVENNAME_2] [SURNAME_2], Name of the sender: [GIVENNAME_1] [SURNAME_1], Sender's Address: [STREET_1] [BUILDINGNUM_1], [CITY_1].","['Redjije', 'Guilhem Meinolf', 'Heydrich Nihed Sonja']"
+Hanja shared a link to a recipe for homemade nut milk with Ulric and Fani.,[GIVENNAME_3] shared a link to a recipe for homemade nut milk with [GIVENNAME_2] and [GIVENNAME_1].,"['Hanja', 'Ulric', 'Fani']"
+Abderrahmane Hecham Sagnell Vunder asked Eyup Riffat to review their nature poem about the Frankfort park before sharing it with Misaki Mayenzet.,[GIVENNAME_3] [SURNAME_3] asked [GIVENNAME_2] [SURNAME_2] to review their nature poem about the [CITY_1] park before sharing it with [GIVENNAME_1] [SURNAME_1].,"['Sagnell Vunder Abderrahmane Hecham', 'Riffat Eyup', 'Mayenzet Misaki']"
+"As part of the pet diary form fill, Züsi Avduti Fadli provided the following information for their pet: name - Rawaz, species - Isana Sehadije, age - 84, and health status - Ichrak.","As part of the pet diary form fill, [GIVENNAME_4] [SURNAME_1] provided the following information for their pet: name - [GIVENNAME_3], species - [GIVENNAME_2], age - [AGE_1], and health status - [GIVENNAME_1].","['Züsi', 'Avduti Fadli Ichrak', 'Rawaz', 'Isana Sehadije']"
+"Meeting Notes: 6:10, Attendees: Baudouin Sacho, Tuyana, Bosse. Discussion: Walking route exploration in Enid.","Meeting Notes: [TIME_1], Attendees: [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1]. Discussion: Walking route exploration in [CITY_1].","['Baudouin Sacho', 'Tuyana', 'Bosse']"
+"To: Gerard Eljmaz Misar Megdiche 
+From: Mr Arinze Sollmann 
+Subject: Personal Historical Architecture Analysis 
+
+Dear Arthi, the analysis for the personal historical architecture project is attached. Your angelkter brugge@hotmail.com will be used for further communication.","To: [GIVENNAME_3] [SURNAME_2] 
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_1] 
+Subject: Personal Historical Architecture Analysis 
+
+Dear [GIVENNAME_1], the analysis for the personal historical architecture project is attached. Your [EMAIL_1] will be used for further communication.","['Gerard Eljmaz', 'Misar Megdiche Arinze', 'Sollmann Arthi']"
+"To: Ayhan von Grünigen ( 07VHS@gmail.com )
+Subject: Ancestry and Genealogy Research
+
+Dear Advocate Dugarte, 
+
+I am writing to confirm your request for ancestry research regarding your Jayden Manop Saeui's heritage. Could you please confirm your ancestor's date of birth ( 19/01/1993 ) and their spouses' names ( Jorina Lin Frangella )? Additionally, please provide the ID numbers for these individuals (e.g., 3XA6Q48HJO ).","To: [GIVENNAME_3] [SURNAME_4] ( [EMAIL_1] )
+Subject: Ancestry and Genealogy Research
+
+Dear [TITLE_1] [SURNAME_3], 
+
+I am writing to confirm your request for ancestry research regarding your [GIVENNAME_2] [SURNAME_2]'s heritage. Could you please confirm your ancestor's date of birth ( [DATE_1] ) and their spouses' names ( [GIVENNAME_1] [SURNAME_1] )? Additionally, please provide the ID numbers for these individuals (e.g., [IDCARDNUM_1] ).","['Dugarte Ayhan', 'von Grünigen', 'Saeui Jayden Manop', 'Frangella Jorina Lin']"
+"The following team members have been assigned to the project: Louis-Edouard Sajeethan (+42.01 013.1564), Heza (18L@protonmail.com), and Blenor (OJ12501DL).","The following team members have been assigned to the project: [GIVENNAME_3] ([TELEPHONENUM_1]), [GIVENNAME_2] ([EMAIL_1]), and [GIVENNAME_1] ([IDCARDNUM_1]).","['Louis-Edouard Sajeethan', 'Heza', 'Blenor']"
+"To confirm, the group consists of Safiyah, Suheda Polya, and Sidik Clinton. Is Hertrich available to join the meeting on September 9th, 1964?","To confirm, the group consists of [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1]. Is [SURNAME_1] available to join the meeting on [DATE_1]?","['Safiyah', 'Suheda Polya', 'Hertrich Sidik Clinton']"
+"6:11 Battal: Great tip, thanks Hanmsha! Also, do you think it's okay if I invite Allah Carly from next door to come and see my new birdhouse?","[TIME_1] [GIVENNAME_3]: Great tip, thanks [GIVENNAME_2]! Also, do you think it's okay if I invite [GIVENNAME_1] from next door to come and see my new birdhouse?","['Battal', 'Hanmsha', 'Allah Carly']"
+"The following individuals have been selected for the study: Marie-Grace Contzen, Paniz Vlasta Sandirakasan, and Million Figuet.","The following individuals have been selected for the study: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Contzen Marie-Grace', 'Sandirakasan Paniz Vlasta', 'Figuet Million']"
+"Wai's family members, including Mstr Burcin and Miss Vethushan, are invited.","[GIVENNAME_3]'s family members, including [TITLE_2] [GIVENNAME_2] and [TITLE_1] [GIVENNAME_1], are invited.","['Wai', 'Burcin', 'Vethushan']"
+"Trail Exploration Meetup Invitation
+ Meet at Kethepalli on 01/04/2016 at 01:18.
+Expecting Birgitt, Armido, and Rocchetta Rivajet to join.","Trail Exploration Meetup Invitation
+ Meet at [CITY_1] on [DATE_1] at [TIME_1].
+Expecting [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] to join.","['Birgitt', 'Armido', 'Rocchetta Rivajet']"
+"You have a new message from Duangduean Jehane Binks: 'Hi, I'm looking for a unique gift for my Jenany and I thought a handmade wind chime would be perfect. Can you create a custom design with Waraphon Xinrui favourite colours?'","You have a new message from [GIVENNAME_3] [SURNAME_1]: 'Hi, I'm looking for a unique gift for my [GIVENNAME_2] and I thought a handmade wind chime would be perfect. Can you create a custom design with [GIVENNAME_1] favourite colours?'","['Duangduean Jehane', 'Binks Waraphon Xinrui', 'Jenany']"
+"Simulator licenses assigned to Nesrit Feride, Inoa, and Elja Spresim.","Simulator licenses assigned to [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Nesrit Feride', 'Inoa', 'Elja Spresim']"
+Iljjas and Utta Eneida discussed the upcoming solar eclipse on 13/07/1963. Aliki Ivanilda said: 'I'll be Female and taking notes for our research paper.',[GIVENNAME_3] and [GIVENNAME_2] discussed the upcoming solar eclipse on [DATE_1]. [GIVENNAME_1] said: 'I'll be [GENDER_1] and taking notes for our research paper.',"['Iljjas', 'Utta Eneida', 'Aliki Ivanilda']"
+Sklkim Villotti has been assigned to investigate the coincidence case involving Abera Sauta Guye-Vuillème and Abdelhaq Gyömber. The case number is 4DI30FYJSA.,[GIVENNAME_3] [SURNAME_3] has been assigned to investigate the coincidence case involving [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1]. The case number is [IDCARDNUM_1].,"['Villotti Sklkim', 'Sauta Guye-Vuillème Abera', 'Gyömber Abdelhaq']"
+"To-Do List for Aljmedina: 1. Meet with Wan to discuss supply chain disruption, 2. Contact Roxana to arrange a meeting with boardgame innovators, 3. Review memo from Sergius regarding supply chain disruption.","To-Do List for [GIVENNAME_4]: 1. Meet with [GIVENNAME_3] to discuss supply chain disruption, 2. Contact [GIVENNAME_2] to arrange a meeting with boardgame innovators, 3. Review memo from [GIVENNAME_1] regarding supply chain disruption.","['Aljmedina', 'Wan', 'Roxana', 'Sergius']"
+Tatia Nevi and Roukia are responsible for dividing up the household chores. Sara-Lynn will create a schedule to ensure everything runs smoothly.,[GIVENNAME_3] and [GIVENNAME_2] are responsible for dividing up the household chores. [GIVENNAME_1] will create a schedule to ensure everything runs smoothly.,"['Tatia Nevi', 'Roukia', 'Sara-Lynn']"
+"9:23:05 PM Mubashir: 'I'm looking for volunteers to help with my research project on amphibian habitats.';
+6:35 007 153.3461: 'I'd be happy to help out. What's the project about?';
+22:06 Thémis Carmen-Mihaela: 'We're studying the effects of climate change on amphibian populations in TG.';
+21:30:12 Sadaqat: 'That sounds like a great project. I'm in.'","[TIME_4] [GIVENNAME_3]: 'I'm looking for volunteers to help with my research project on amphibian habitats.';
+[TIME_3] [TELEPHONENUM_1]: 'I'd be happy to help out. What's the project about?';
+[TIME_2] [GIVENNAME_2]: 'We're studying the effects of climate change on amphibian populations in TG.';
+[TIME_1] [GIVENNAME_1]: 'That sounds like a great project. I'm in.'","['Mubashir', 'Thémis Carmen-Mihaela', 'Sadaqat']"
+"18:47 Civan to Dennys: 'Hey send me your full name (e.g. Madame Constantine Melba Neuhäuser), DOB, and home address so I can fill out the form for grandma's legacy workshop.'","[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'Hey send me your full name (e.g. [TITLE_1] [GIVENNAME_1] [SURNAME_1]), DOB, and home address so I can fill out the form for grandma's legacy workshop.'","['Civan', 'Dennys', 'Neuhäuser Constantine Melba']"
+"The team roster is: Cella, Israh, and Tilly.","The team roster is: [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Cella', 'Israh', 'Tilly']"
+Reminds me of the time Cybele Tanveer and Enam played a prank on Dzenis Raqip,Reminds me of the time [GIVENNAME_3] and [GIVENNAME_2] played a prank on [GIVENNAME_1],"['Cybele Tanveer', 'Enam', 'Dzenis Raqip']"
+"From: Trigona Dutka <K2012@aol.com>
+To: Kjara Rosato <D@aol.com>
+Subject: Teacup Garden Display Art Project
+
+Dear Tuanna,
+
+I hope this email finds you well. I am reaching out to you as I am interested in creating a Teacup Garden Display for my home. I came across your art project online and I am impressed by your creativity. Could you please share more details about your project, such as the materials used and the inspiration behind it? I would also appreciate any guidance on how to create a similar display.
+
+Thank you for your time and I look forward to hearing from you soon.
+
+Best regards,
+Yanting","From: [GIVENNAME_4] [SURNAME_2] <[EMAIL_2]>
+To: [GIVENNAME_3] [SURNAME_1] <[EMAIL_1]>
+Subject: Teacup Garden Display Art Project
+
+Dear [GIVENNAME_2],
+
+I hope this email finds you well. I am reaching out to you as I am interested in creating a Teacup Garden Display for my home. I came across your art project online and I am impressed by your creativity. Could you please share more details about your project, such as the materials used and the inspiration behind it? I would also appreciate any guidance on how to create a similar display.
+
+Thank you for your time and I look forward to hearing from you soon.
+
+Best regards,
+[GIVENNAME_1]","['Trigona', 'Dutka Tuanna', 'Kjara', 'Rosato Yanting']"
+"Which plants would you like to learn more about? Please check all that apply: 🌿 Adnon's favorite herbs, 🌱 Klaudio's favorite flowers, or 🌻 Sasiwimon Demeke's favorite trees.","Which plants would you like to learn more about? Please check all that apply: 🌿 [GIVENNAME_3]'s favorite herbs, 🌱 [GIVENNAME_2]'s favorite flowers, or 🌻 [GIVENNAME_1]'s favorite trees.","['Adnon', 'Klaudio', 'Sasiwimon Demeke']"
+"To: Master Zöbisch
+From: Captain Leonida Klomp
+Subject: Scotland Yard Lab Report Submission - Noortje Köhler (J8CN0X44N8)","To: [TITLE_2] [SURNAME_3]
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_2]
+Subject: Scotland Yard Lab Report Submission - [GIVENNAME_1] [SURNAME_1] ([IDCARDNUM_1])","['Zöbisch', 'Klomp Leonida', 'Köhler Noortje']"
+"Prawin whispers to Gilma Inessa: 'Tis true, Siddharta Bora hath written a sonnet to Awa Billel","[GIVENNAME_4] whispers to [GIVENNAME_3]: 'Tis true, [GIVENNAME_2] hath written a sonnet to [GIVENNAME_1]","['Prawin', 'Gilma Inessa', 'Siddharta Bora', 'Awa Billel']"
+"For the family portrait, I want Mirio Pierre-Vincent to wear the yellow earrings, Santhoshkumar Mapril to wear the green brooch, and Anaysha to wear the orange necklace","For the family portrait, I want [GIVENNAME_3] to wear the yellow earrings, [GIVENNAME_2] to wear the green brooch, and [GIVENNAME_1] to wear the orange necklace","['Mirio Pierre-Vincent', 'Santhoshkumar Mapril', 'Anaysha']"
+"Rubi shared the updated mustard recipe with the family group chat, along with a few personal anecdotes from Reisel and Vikrant.","[GIVENNAME_3] shared the updated mustard recipe with the family group chat, along with a few personal anecdotes from [GIVENNAME_2] and [GIVENNAME_1].","['Rubi', 'Reisel', 'Vikrant']"
+"To: Shabaz Libório Leopoldino, Language Exchange Participant
+From: Ersal Zetchi, Program Coordinator
+Subject: Introduction and Details
+
+Hello Taniya,
+We hope this email finds you well. As discussed, your language exchange partner is Vitaliya Sakhr Kapusniak from Preston Riversway. Please find below their contact information: +44.647-971 2471 and MBW@hotmail.com.","To: [GIVENNAME_4] [SURNAME_3], Language Exchange Participant
+From: [GIVENNAME_3] [SURNAME_2], Program Coordinator
+Subject: Introduction and Details
+
+Hello [GIVENNAME_2],
+We hope this email finds you well. As discussed, your language exchange partner is [GIVENNAME_1] [SURNAME_1] from [CITY_1]. Please find below their contact information: [TELEPHONENUM_1] and [EMAIL_1].","['Shabaz Libório', 'Leopoldino Ersal', 'Zetchi Taniya', 'Sakhr Kapusniak Vitaliya']"
+Jallal: Yes I got it.. thanks Almedina and Kartik. Bye.,[GIVENNAME_3]: Yes I got it.. thanks [GIVENNAME_2] and [GIVENNAME_1]. Bye.,"['Jallal', 'Almedina', 'Kartik']"
+"Gian-Andrin Karachalios Fürrutter's work has inspired a new generation of artists, including Abdellahi Djabbari and Serafin Gweneth Cavarretta.","[GIVENNAME_3] [SURNAME_3]'s work has inspired a new generation of artists, including [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Karachalios Fürrutter Gian-Andrin', 'Djabbari Abdellahi', 'Cavarretta Serafin Gweneth']"
+"Suncica will provide a presentation on the history of Dutch landscape painting and its influence on garden design, featuring Ebony and Ajisa.","[GIVENNAME_3] will provide a presentation on the history of Dutch landscape painting and its influence on garden design, featuring [GIVENNAME_2] and [GIVENNAME_1].","['Suncica', 'Ebony', 'Ajisa']"
+"Doly loves to read Ranisa comics and is a big fan of Hamdija. Their favorite character is Aytug, a Male with a October 1st, 1978 that is shrouded in mystery.","[GIVENNAME_4] loves to read [GIVENNAME_3] comics and is a big fan of [GIVENNAME_2]. Their favorite character is [GIVENNAME_1], a [SEX_1] with a [DATE_1] that is shrouded in mystery.","['Doly', 'Ranisa', 'Hamdija', 'Aytug']"
+Orléane Lorenzia and Zeke had a conversation about creating custom labels for their candle-making business. They wanted to include Athvik's name and G55QFZ23Y3.,[GIVENNAME_3] and [GIVENNAME_2] had a conversation about creating custom labels for their candle-making business. They wanted to include [GIVENNAME_1]'s name and [IDCARDNUM_1].,"['Orléane Lorenzia', 'Zeke', 'Athvik']"
+"To-do list for Diamantis Po: finalise bow design, meet with Ljuljina Rufadi to discuss materials, and send T@outlook.com to Rais Jean-Mary for feedback.","To-do list for [GIVENNAME_3]: finalise bow design, meet with [GIVENNAME_2] to discuss materials, and send [EMAIL_1] to [GIVENNAME_1] for feedback.","['Diamantis Po', 'Ljuljina Rufadi', 'Rais Jean-Mary']"
+"15:22:08 Thien: 'Hi Juta, I have attached a document with the instructions on how to apply for a SM4045928 for Nyma.'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I have attached a document with the instructions on how to apply for a [PASSPORTNUM_1] for [GIVENNAME_1].'","['Thien', 'Juta', 'Nyma']"
+The custom family calendar creation project will be led by Eljasa and Niké Cvetka. They will work with Hyab and Calder Budi to design a calendar that includes important dates such as 25th February 2000 and May/86.,The custom family calendar creation project will be led by [GIVENNAME_4] and [GIVENNAME_3]. They will work with [GIVENNAME_2] and [GIVENNAME_1] to design a calendar that includes important dates such as [DATE_2] and [DATE_1].,"['Eljasa', 'Niké Cvetka', 'Hyab', 'Calder Budi']"
+"Tusem has shared a poem about the beauty of nature in De Winton: 'The mountains tall, the rivers wide, a treasure to behold, where Govinda and Masumeh Edenilda love to reside.'","[GIVENNAME_3] has shared a poem about the beauty of nature in [CITY_1]: 'The mountains tall, the rivers wide, a treasure to behold, where [GIVENNAME_2] and [GIVENNAME_1] love to reside.'","['Tusem', 'Govinda', 'Masumeh Edenilda']"
+3:52 Franz-Xaver Artizan: 'I agree. Let's schedule a meeting with Mariami and Shafaq to discuss possible solutions.';,[TIME_1] [GIVENNAME_3]: 'I agree. Let's schedule a meeting with [GIVENNAME_2] and [GIVENNAME_1] to discuss possible solutions.';,"['Franz-Xaver Artizan', 'Mariami', 'Shafaq']"
+"Gian-Luca Maxance sent a text message to Hadj Molitorisz Budjelanovic to confirm the plans, and Iliyana replied with a thumbs up emoji.","[GIVENNAME_3] sent a text message to [GIVENNAME_2] [SURNAME_1] to confirm the plans, and [GIVENNAME_1] replied with a thumbs up emoji.","['Gian-Luca Maxance', 'Hadj', 'Molitorisz Budjelanovic Iliyana']"
+5:29 Melvine: Received a request from Aryaan Egxon Greive for an analysis of handwriting speed consistency for Ádam Dervarics.,[TIME_1] [GIVENNAME_3]: Received a request from [GIVENNAME_2] [SURNAME_2] for an analysis of handwriting speed consistency for [GIVENNAME_1] [SURNAME_1].,"['Melvine', 'Greive Aryaan Egxon', 'Dervarics Ádam']"
+Dane Jenke Vigny's personalized education plan: This is to inform you that Garth Russius with ID CQ32402QX will be working closely with peer mentor Amzi Arias Settmacher for the upcoming project.,[GIVENNAME_3] [SURNAME_3]'s personalized education plan: This is to inform you that [GIVENNAME_2] [SURNAME_2] with ID [IDCARDNUM_1] will be working closely with peer mentor [GIVENNAME_1] [SURNAME_1] for the upcoming project.,"['Jenke Vigny Dane', 'Russius Garth', 'Settmacher Amzi Arias']"
+"2:29 Savvina Beije: Nice one Marie-Victoire! My friend Tuguldur Noomi is an expert in that area, I'll invite them to the group.","[TIME_1] [GIVENNAME_3]: Nice one [GIVENNAME_2]! My friend [GIVENNAME_1] is an expert in that area, I'll invite them to the group.","['Savvina Beije', 'Marie-Victoire', 'Tuguldur Noomi']"
+"12:37 Micky Kerdioui Granic: 'Madame Sawda, hope you're doing good.';
+13:26:03 Jaden: 'Principal Pääkkönen, can you please send me the air gun shooting accuracy records for the training session held on May 14th, 2003 at Balaji Nagar Road 917, Gurrampode'","[TIME_2] [GIVENNAME_3] [SURNAME_2]: '[TITLE_2] [GIVENNAME_2], hope you're doing good.';
+[TIME_1] [GIVENNAME_1]: '[TITLE_1] [SURNAME_1], can you please send me the air gun shooting accuracy records for the training session held on [DATE_1] at [STREET_1] [BUILDINGNUM_1], [CITY_1]'","['Micky', 'Kerdioui Granic Sawda', 'Pääkkönen Jaden']"
+"Hello, my name is Chao Suren and I'd love to share my favourite recipe with you. It's been passed down from my Vanniyasingam Jaeg, who learned it from her Hedley Mirzal.","Hello, my name is [GIVENNAME_3] [SURNAME_3] and I'd love to share my favourite recipe with you. It's been passed down from my [GIVENNAME_2] [SURNAME_2], who learned it from her [GIVENNAME_1] [SURNAME_1].","['Suren Chao', 'Jaeg Vanniyasingam', 'Mirzal Hedley']"
+"7:16:07 PM Olujimi: Hey Moaad Aiven, what's your favourite art piece at the Duck Lake gallery? 
+5:29 Rassul Madelung: Oh, I love the latest installation by Nonka Aouane. What do you think of it?","[TIME_2] [GIVENNAME_4]: Hey [GIVENNAME_3], what's your favourite art piece at the [CITY_1] gallery? 
+[TIME_1] [GIVENNAME_2] [SURNAME_2]: Oh, I love the latest installation by [GIVENNAME_1] [SURNAME_1]. What do you think of it?","['Olujimi', 'Moaad Aiven', 'Madelung Rassul', 'Aouane Nonka']"
+"Libe: Hey Tharini Jiyoun, I just got back from my trip to La Broquerie and I had an amazing time learning about the local Olvido Indigenous community.","[GIVENNAME_3]: Hey [GIVENNAME_2], I just got back from my trip to [CITY_1] and I had an amazing time learning about the local [GIVENNAME_1] Indigenous community.","['Libe', 'Tharini Jiyoun', 'Olvido']"
+"Team Roster: Keila Kisiri (Captain), Azarya Padurariu, Leondrit Dari Pagola, and Dorotea Sanesi Engler Vatrano","Team Roster: [GIVENNAME_4] [SURNAME_4] (Captain), [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1]","['Kisiri Keila', 'Padurariu Azarya', 'Pagola Leondrit Dari', 'Sanesi Engler Vatrano Dorotea']"
+"Updated the song catalog list with the new artists: Feston Grevet Milenov, Spencer Stocchetti Kantowski Da Rugna, and Aroun Suplja.","Updated the song catalog list with the new artists: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Grevet Milenov Feston', 'Stocchetti Kantowski Da Rugna Spencer', 'Suplja Aroun']"
+Margery and Enora are the perfect matchmakers. They introduced me to Roaya and now we are inseparable.,[GIVENNAME_3] and [GIVENNAME_2] are the perfect matchmakers. They introduced me to [GIVENNAME_1] and now we are inseparable.,"['Margery', 'Enora', 'Roaya']"
+"Mihri Sherije Hohenwarter has a passion for collecting vinyl records, with a particular fondness for comedy albums by Nezahat Anna-Paula Dewar and Zaara Sia Münch.","[GIVENNAME_3] [SURNAME_3] has a passion for collecting vinyl records, with a particular fondness for comedy albums by [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Hohenwarter Mihri Sherije', 'Dewar Nezahat Anna-Paula', 'Münch Zaara Sia']"
+"Mischel Mrnjec is the designer of the Personal Exhibit Designs at the Saint Andrews museum. The exhibit will showcase a collection of Yirgalem's work, including Richel and Pricilia.","[GIVENNAME_4] [SURNAME_1] is the designer of the Personal Exhibit Designs at the [CITY_1] museum. The exhibit will showcase a collection of [GIVENNAME_3]'s work, including [GIVENNAME_2] and [GIVENNAME_1].","['Mischel', 'Mrnjec Pricilia', 'Yirgalem', 'Richel']"
+"Goncalo Rees: I'm leaning towards memory foam. How about you?; Abderrahim: Same here, Zehrudin Rifki!","[GIVENNAME_3]: I'm leaning towards memory foam. How about you?; [GIVENNAME_2]: Same here, [GIVENNAME_1]!","['Goncalo Rees', 'Abderrahim', 'Zehrudin Rifki']"
+"I, Wenjun Sushma, went hiking at Duncan with my friends, Nikodem Alann and Bethina.","I, [GIVENNAME_3], went hiking at [CITY_1] with my friends, [GIVENNAME_2] and [GIVENNAME_1].","['Wenjun Sushma', 'Nikodem Alann', 'Bethina']"
+"The diagram shows the connections between Brais, Cosmea, and Bajra Ora in the local social network.","The diagram shows the connections between [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1] in the local social network.","['Brais', 'Cosmea', 'Bajra Ora']"
+Elica shared a family recipe for nut milk with Luigia and Elli.,[GIVENNAME_3] shared a family recipe for nut milk with [GIVENNAME_2] and [GIVENNAME_1].,"['Elica', 'Luigia', 'Elli']"
+"Hi Joern, I've shared the family recipe for nut milk and cheese alternatives with Nabiha Elfike and Domenicantonio.","Hi [GIVENNAME_3], I've shared the family recipe for nut milk and cheese alternatives with [GIVENNAME_2] and [GIVENNAME_1].","['Joern', 'Nabiha Elfike', 'Domenicantonio']"
+"The local folklore society, led by Parthipan Lersch, is researching the epic of Madame. The story revolves around Artsiom and Monti, who lived in Sheffield Crow Edge during the 1999-09-05T00:00:00 century.","The local folklore society, led by [GIVENNAME_3] [SURNAME_1], is researching the epic of [TITLE_1]. The story revolves around [GIVENNAME_2] and [GIVENNAME_1], who lived in [CITY_1] during the [DATE_1] century.","['Parthipan', 'Lersch Monti', 'Artsiom']"
+"A group chat conversation between Othon Seiwald, Zahit Ionel, and Jacques-Albert Alula Dieboldswyler Bacová Thien discussed the merits of different Grenig Road soil types and 289 based fertilizers.","A group chat conversation between [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1] discussed the merits of different [STREET_1] soil types and [BUILDINGNUM_1] based fertilizers.","['Seiwald Othon', 'Ionel Zahit', 'Dieboldswyler Bacová Thien Jacques-Albert Alula']"
+Amadou Davon is using their Qahil skills to create a poem that explores the themes of self-improvement and legacy planning in the context of Anna-Cristina.,[GIVENNAME_3] is using their [GIVENNAME_2] skills to create a poem that explores the themes of self-improvement and legacy planning in the context of [GIVENNAME_1].,"['Amadou Davon', 'Qahil', 'Anna-Cristina']"
+"1:34 Makki: 'Hi Rejmonda, I'm Haru and I'm really into cultural identity poems. Have you written any?' ","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I'm [GIVENNAME_1] and I'm really into cultural identity poems. Have you written any?' ","['Makki', 'Rejmonda', 'Haru']"
+8:09 Keon: 'Magistrate Wilkins asked me to make a custom piece for Yimon's party.',[TIME_1] [GIVENNAME_3]: '[TITLE_1] [GIVENNAME_2] asked me to make a custom piece for [GIVENNAME_1]'s party.',"['Keon', 'Wilkins', 'Yimon']"
+"6:58:24 PM Sybil: 'Hi Appolonia Costa, I've attached the volunteer service record for Samba with IP48057XB. Can you confirm receipt?'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I've attached the volunteer service record for [GIVENNAME_1] with [IDCARDNUM_1]. Can you confirm receipt?'","['Sybil', 'Appolonia Costa', 'Samba']"
+"Erhan Kaito: Hi Zach, love the new design. Can I purchase it for Djevad's birthday?","[GIVENNAME_3]: Hi [GIVENNAME_2], love the new design. Can I purchase it for [GIVENNAME_1]'s birthday?","['Erhan Kaito', 'Zach', 'Djevad']"
+To: Dougal Golubic. From: Marie-Pierre Dzemilja Memma. Topic: DNA test results for Diaquino,To: [GIVENNAME_3] [SURNAME_2]. From: [GIVENNAME_2] [SURNAME_1]. Topic: DNA test results for [GIVENNAME_1],"['Dougal', 'Golubic Marie-Pierre Dzemilja', 'Memma Diaquino']"
+"To: Guoqing Zielbauer<ALP@aol.com>
+Subject: Join us for the Architecture Conference in Shyampur
+Dear Kaisu Sajiththa,
+We are excited to invite you to the architecture conference in Dhari on 9th June 2016.
+Please RSVP by November/83 to confirm your attendance.
+Best regards,
+Dieter Iwas","To: [GIVENNAME_3] [SURNAME_2]<[EMAIL_1]>
+Subject: Join us for the Architecture Conference in [CITY_2]
+Dear [GIVENNAME_2],
+We are excited to invite you to the architecture conference in [CITY_1] on [DATE_2].
+Please RSVP by [DATE_1] to confirm your attendance.
+Best regards,
+[GIVENNAME_1] [SURNAME_1]","['Guoqing', 'Zielbauer Kaisu Sajiththa', 'Iwas Dieter']"
+"Ang's scrapbook diary entry for 15/01/1949: Today, I spent time with Lac and Rufadi at Nashville. We reflected on Miss's poem, 'Advocate', and its significance in our lives.","[GIVENNAME_3]'s scrapbook diary entry for [DATE_1]: Today, I spent time with [GIVENNAME_2] and [GIVENNAME_1] at [CITY_1]. We reflected on [TITLE_2]'s poem, '[TITLE_1]', and its significance in our lives.","['Ang', 'Lac', 'Rufadi']"
+"19:52:10 Josija: 'Hi Balduino, I'm Fatljum Gobonya and I'm 72 years old. I was born on 02/01/2007 and my selenfarronato@yahoo.com is roselokitsu@tutanota.com.'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I'm [GIVENNAME_1] [SURNAME_1] and I'm [AGE_1] years old. I was born on [DATE_1] and my [EMAIL_2] is [EMAIL_1].'","['Josija', 'Balduino', 'Gobonya Fatljum']"
+"Argia is excited to share Ikal Valzon's parenting diaries with fellow parents, hoping that Inger's experiences and tips will be helpful to others.","[GIVENNAME_3] is excited to share [GIVENNAME_2]'s parenting diaries with fellow parents, hoping that [GIVENNAME_1]'s experiences and tips will be helpful to others.","['Argia', 'Ikal Valzon', 'Inger']"
+"Dinela: Hey, Flurija and Afet Thurairajah! Want to catch the new film at Simcoe's cinema this weekend?","[GIVENNAME_3]: Hey, [GIVENNAME_2] and [GIVENNAME_1]! Want to catch the new film at [CITY_1]'s cinema this weekend?","['Dinela', 'Flurija', 'Afet Thurairajah']"
+"Memorandum
+To: Thilaksan Jeyalingam Ispán, Miss
+From: Haithem Tiberiu Krajnak, Miss
+Date: 1935-03-20T00:00:00
+Subject: Request for Personal Identifiable Information
+
+Dear Jakub Puchwein Köhalmi-Szabó, we need to obtain some personal identifiable information (PII) to complete your application.","Memorandum
+To: [GIVENNAME_3] [SURNAME_3], [TITLE_2]
+From: [GIVENNAME_2] [SURNAME_2], [TITLE_1]
+Date: [DATE_1]
+Subject: Request for Personal Identifiable Information
+
+Dear [GIVENNAME_1] [SURNAME_1], we need to obtain some personal identifiable information (PII) to complete your application.","['Jeyalingam Ispán Thilaksan', 'Krajnak Haithem Tiberiu', 'Puchwein Köhalmi-Szabó Jakub']"
+"19:38:23 Zemuy Jel to Vijolca: 'K, mine is Heléna Ergül Swami born on 13/11/1986 and I live at 1969 Hoffman Road 92070'","[TIME_1] [GIVENNAME_3] to [GIVENNAME_2]: 'K, mine is [GIVENNAME_1] [SURNAME_1] born on [DATE_1] and I live at [BUILDINGNUM_1] [STREET_1] [ZIPCODE_1]'","['Zemuy Jel', 'Vijolca', 'Swami Heléna Ergül']"
+"13:10:32 Vere Soffia: 'Hey everyone, just wanted to share my thoughts on our group project. I think Trésor Necmi and Eyorsalem Alisya did an amazing job.'","[TIME_1] [GIVENNAME_3]: 'Hey everyone, just wanted to share my thoughts on our group project. I think [GIVENNAME_2] and [GIVENNAME_1] did an amazing job.'","['Vere Soffia', 'Trésor Necmi', 'Eyorsalem Alisya']"
+"Hello fellow Toastmasters, here is the meeting schedule for September 27th, 1993: Lifa is presenting their speech, Janinne is the evaluator, and Rothana is the timekeeper.","Hello fellow Toastmasters, here is the meeting schedule for [DATE_1]: [GIVENNAME_3] is presenting their speech, [GIVENNAME_2] is the evaluator, and [GIVENNAME_1] is the timekeeper.","['Lifa', 'Janinne', 'Rothana']"
+"The following students have been selected for the national team: Chiarina Bányóczki Nalbandian, Jeltje Sommaggio, and Yelin Renda Ondoa Kapasi.","The following students have been selected for the national team: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Bányóczki Nalbandian Chiarina', 'Sommaggio Jeltje', 'Ondoa Kapasi Yelin Renda']"
+"While thrift shopping, Lenaïc stumbled upon an old love letter addressed to Willyam Sittipon from Ramachandra Mirko who shared +1.174 042.0298.","While thrift shopping, [GIVENNAME_3] stumbled upon an old love letter addressed to [GIVENNAME_2] [SURNAME_1] from [GIVENNAME_1] who shared [TELEPHONENUM_1].","['Lenaïc', 'Willyam', 'Sittipon Ramachandra Mirko']"
+The book exchange between Nilani Reisi and Zgjim has been confirmed. Japhet will receive Mr and Filadelfo will receive Premier.,The book exchange between [GIVENNAME_4] and [GIVENNAME_3] has been confirmed. [GIVENNAME_2] will receive [TITLE_2] and [GIVENNAME_1] will receive [TITLE_1].,"['Nilani Reisi', 'Zgjim', 'Japhet', 'Filadelfo']"
+"To: Mister Lodoe Imaan Carasso
+From: Kugathasan Tsonga Fadaeekatamjani Fetsch
+Subject: Language Exchange Partner
+
+Dear Pasquino Matjaz,
+We are pleased to inform you that your language exchange partner is Stéfan Mehmedin Unmüssig from Melton Mowbray. Please find below their contact information: +44-872.831-1679 and 2019T@gmail.com.","To: [TITLE_1] [GIVENNAME_4] [SURNAME_3]
+From: [GIVENNAME_3] [SURNAME_2]
+Subject: Language Exchange Partner
+
+Dear [GIVENNAME_2],
+We are pleased to inform you that your language exchange partner is [GIVENNAME_1] [SURNAME_1] from [CITY_1]. Please find below their contact information: [TELEPHONENUM_1] and [EMAIL_1].","['Lodoe Imaan', 'Carasso Kugathasan', 'Tsonga Fadaeekatamjani Fetsch Pasquino Matjaz', 'Unmüssig Stéfan Mehmedin']"
+"As they navigated through the Amber waterways, Rohlat and Naid encountered a variety of wildlife, including Nakita Zilha and Antón.","As they navigated through the [CITY_1] waterways, [GIVENNAME_4] and [GIVENNAME_3] encountered a variety of wildlife, including [GIVENNAME_2] and [GIVENNAME_1].","['Rohlat', 'Naid', 'Nakita Zilha', 'Antón']"
+"Meeting Minutes: Attendees - Donike Mihretab, Mstr Ergi Kirthikan Ravagnani, and Eflin Beltman.","Meeting Minutes: Attendees - [GIVENNAME_3] [SURNAME_3], [TITLE_1] [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1].","['Mihretab Donike', 'Ravagnani Ergi Kirthikan', 'Beltman Eflin']"
+"Cyrille: Apparently, Rahman was walking home from Dadri Road when Marielys stumbled upon a mysterious 2473.","[GIVENNAME_3]: Apparently, [GIVENNAME_2] was walking home from [STREET_1] when [GIVENNAME_1] stumbled upon a mysterious [BUILDINGNUM_1].","['Cyrille', 'Rahman', 'Marielys']"
+"10:51:25 AM Annie-Claude: 'Hey Semsije, I loved your recipe for oat milk! I tried it at home with Nadine and it was a disaster!'","[TIME_1] [GIVENNAME_3]: 'Hey [GIVENNAME_2], I loved your recipe for oat milk! I tried it at home with [GIVENNAME_1] and it was a disaster!'","['Annie-Claude', 'Semsije', 'Nadine']"
+"20:03:36 Bice: Great idea! And Somaly can bring their kids, Amnor Manuchehr and Annelies","[TIME_1] [GIVENNAME_4]: Great idea! And [GIVENNAME_3] can bring their kids, [GIVENNAME_2] and [GIVENNAME_1]","['Bice', 'Somaly', 'Amnor Manuchehr', 'Annelies']"
+" Team Roster: Andrei-Cristian Arseny, Marijus Vannak, Domagoj Dylon, Vic"," Team Roster: [GIVENNAME_4], [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1]","['Andrei-Cristian Arseny', 'Marijus Vannak', 'Domagoj Dylon', 'Vic']"
+Mehrshad and Daniyar Awet are planning a surprise party for Vasudha's 57 birthday at Buxton Wormhill.,[GIVENNAME_3] and [GIVENNAME_2] are planning a surprise party for [GIVENNAME_1]'s [AGE_1] birthday at [CITY_1].,"['Mehrshad', 'Daniyar Awet', 'Vasudha']"
+"Here's a photo of my grandmother, Artina Gisleine Borak, in the kitchen with her siblings, including Arndt Andrei-Iulian and Nalu.","Here's a photo of my grandmother, [GIVENNAME_3] [SURNAME_1], in the kitchen with her siblings, including [GIVENNAME_2] and [GIVENNAME_1].","['Artina Gisleine', 'Borak Nalu', 'Arndt Andrei-Iulian']"
+"Group Photo: Ziagol Maffo Thurnes Yoker, Rony Klan, and Eng Dilsiz all smiling after a long voyage.","Group Photo: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1] all smiling after a long voyage.","['Maffo Thurnes Yoker Ziagol', 'Klan Rony', 'Dilsiz Eng']"
+"2:18 PM Aron Durin: Hey Rufino Paz Pardo, I found this amazing whimsical poem - Miss by Vahe Ghomraci. Want to read it together?","[TIME_1] [GIVENNAME_3]: Hey [GIVENNAME_2] [SURNAME_2], I found this amazing whimsical poem - [TITLE_1] by [GIVENNAME_1] [SURNAME_1]. Want to read it together?","['Aron Durin', 'Paz Pardo Rufino', 'Ghomraci Vahe']"
+"To: TK@hotmail.com From: MI@gmail.com Subject: Sandip's Personalized Education Plan Dear Ann-Marie, I hope this email finds you well. I am writing to inform you that Natthaphon's personalized education plan is now available for review.","To: [EMAIL_2] From: [EMAIL_1] Subject: [GIVENNAME_3]'s Personalized Education Plan Dear [GIVENNAME_2], I hope this email finds you well. I am writing to inform you that [GIVENNAME_1]'s personalized education plan is now available for review.","['Sandip', 'Ann-Marie', 'Natthaphon']"
+Obituary Form: Uthaiwan Pfalzgraff Brucal Gözoglu is survived by Munis Raafat Chiaramonti and Cosmas Hegland Valicek Vaz Batista.,Obituary Form: [GIVENNAME_3] [SURNAME_3] is survived by [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Pfalzgraff Brucal Gözoglu Uthaiwan', 'Chiaramonti Munis Raafat', 'Hegland Valicek Vaz Batista Cosmas']"
+"Project team members: Moishy Belisario, Ljubivoje Dzamko, and Nelly Mokrane","Project team members: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1]","['Belisario Moishy', 'Dzamko Ljubivoje', 'Mokrane Nelly']"
+"Besian: I think I have some of those... Let me check... Ah, yes! Here's one with Mirha and Praxède Shahab taken on February/95.","[GIVENNAME_3]: I think I have some of those... Let me check... Ah, yes! Here's one with [GIVENNAME_2] and [GIVENNAME_1] taken on [DATE_1].","['Besian', 'Mirha', 'Praxède Shahab']"
+"Imridin will be deeply missed by Andrei-Ioan, Degkyi Henri-Philippe, and the entire Bardakci family.","[GIVENNAME_3] will be deeply missed by [GIVENNAME_2], [GIVENNAME_1], and the entire [SURNAME_1] family.","['Imridin', 'Andrei-Ioan', 'Bardakci Degkyi Henri-Philippe']"
+Fermín shared a photo of Peon's custom candle label with Zitta on 045-8258.2674. It had Berdina Disolina's name and P9GOFMVJYD.,[GIVENNAME_4] shared a photo of [GIVENNAME_3]'s custom candle label with [GIVENNAME_2] on [TELEPHONENUM_1]. It had [GIVENNAME_1]'s name and [IDCARDNUM_1].,"['Fermín', 'Peon', 'Zitta', 'Berdina Disolina']"
+10:55 Iljhan: 'I've been reading about the contributions of Dost to the field of astronomy and their impact on our understanding of the universe. Would love to discuss this further with Nemat.',[TIME_1] [GIVENNAME_3]: 'I've been reading about the contributions of [GIVENNAME_2] to the field of astronomy and their impact on our understanding of the universe. Would love to discuss this further with [GIVENNAME_1].',"['Iljhan', 'Dost', 'Nemat']"
+"Holiday To-Do List for Penka: buy gifts for Lahouari and Nilvana Ljinda, book flights to Bainbridge","Holiday To-Do List for [GIVENNAME_3]: buy gifts for [GIVENNAME_2] and [GIVENNAME_1], book flights to [CITY_1]","['Penka', 'Lahouari', 'Nilvana Ljinda']"
+"To: Guro Meintje Angi,
+From: Mister Shem Tank Boudjemaa,
+Subject: Leadership Development Memo for Idálio on January 5th, 1940.","To: [GIVENNAME_3] [SURNAME_2],
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_1],
+Subject: Leadership Development Memo for [GIVENNAME_1] on [DATE_1].","['Guro Meintje', 'Angi Shem', 'Tank Boudjemaa Idálio']"
+"To: Ahamed Hajnoczky Uscata Coltorti,
+From: Mrs Lemuel Basanmay,
+Subject: Meeting Invitation - Historical Railroad Exploration Notes
+Dear Klervi, we would like to invite you to a meeting to discuss the historical railroad exploration notes for Mc Cune. The meeting will take place on May 12th, 1955 at 5:55.","To: [GIVENNAME_3] [SURNAME_2],
+From: [TITLE_1] [GIVENNAME_2] [SURNAME_1],
+Subject: Meeting Invitation - Historical Railroad Exploration Notes
+Dear [GIVENNAME_1], we would like to invite you to a meeting to discuss the historical railroad exploration notes for [CITY_1]. The meeting will take place on [DATE_1] at [TIME_1].","['Ahamed', 'Hajnoczky Uscata Coltorti Lemuel', 'Basanmay Klervi']"
+"Ananthy is curious about Hak's favorite autumn activities. Do you have any fun plans, Eflal?","[GIVENNAME_3] is curious about [GIVENNAME_2]'s favorite autumn activities. Do you have any fun plans, [GIVENNAME_1]?","['Ananthy', 'Hak', 'Eflal']"
+"Child's personal history project: Please provide the following information about your family members. Mother's name: Loetitia Cartera Tozzini, Father's name: Antany Satmer Duma, Sibling's name: Safaa Capodicasa","Child's personal history project: Please provide the following information about your family members. Mother's name: [GIVENNAME_3] [SURNAME_3], Father's name: [GIVENNAME_2] [SURNAME_2], Sibling's name: [GIVENNAME_1] [SURNAME_1]","['Cartera Tozzini Loetitia', 'Satmer Duma Antany', 'Capodicasa Safaa']"
+"Meeting Notes: 4:48, 14/11/2022. Attendees: Piyaporn Milioto, Mr Qader Cilurzo, and Nervete Ineida Kouto. Discussion: impact of the reformation on monastic architecture.","Meeting Notes: [TIME_1], [DATE_1]. Attendees: [GIVENNAME_3] [SURNAME_3], [TITLE_1] [GIVENNAME_2] [SURNAME_2], and [GIVENNAME_1] [SURNAME_1]. Discussion: impact of the reformation on monastic architecture.","['Milioto Piyaporn', 'Cilurzo Qader', 'Kouto Nervete Ineida']"
+"Offline mentor pair-up list: Hayat, mentored by Madame Muthita; F Gratienne, mentored by Master Liv-Helen","Offline mentor pair-up list: [GIVENNAME_4], mentored by [TITLE_2] [GIVENNAME_3]; [SEX_1] [GIVENNAME_2], mentored by [TITLE_1] [GIVENNAME_1]","['Hayat', 'Muthita', 'Gratienne', 'Liv-Helen']"
+"Zakary: Hi Bethly Mélody, I'm Sathiyendra from the gardening store. I see you've ordered some materials for your archway. Can I arrange for a delivery to West State Road 10, Springfield?","[GIVENNAME_3]: Hi [GIVENNAME_2], I'm [GIVENNAME_1] from the gardening store. I see you've ordered some materials for your archway. Can I arrange for a delivery to [STREET_1], [CITY_1]?","['Zakary', 'Bethly Mélody', 'Sathiyendra']"
+"Re: Compliance Reporting Memos
+From: Jone Dewamullage
+To: Miss Sebastiano Spielmann
+Dear Jordon,
+Please find the revised report attached.","Re: Compliance Reporting Memos
+From: [GIVENNAME_3] [SURNAME_2]
+To: [TITLE_1] [GIVENNAME_2] [SURNAME_1]
+Dear [GIVENNAME_1],
+Please find the revised report attached.","['Jone', 'Dewamullage Sebastiano', 'Spielmann Jordon']"
+"7:45 PM Malo: 'Hi Binaz, I'm Siriphen from the Grapevine gardening club. We're interested in featuring your teacup garden display at our next event. Can you please send me your (29) 7075 6856 and C92ZO3104524?'","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], I'm [GIVENNAME_1] from the [CITY_1] gardening club. We're interested in featuring your teacup garden display at our next event. Can you please send me your [TELEPHONENUM_1] and [DRIVERLICENSENUM_1]?'","['Malo', 'Binaz', 'Siriphen']"
+"Avi Dragomirka: I was born on March 11th, 1985 in Centre Burlington to Saido Troels Béatrix and Mashael Gayathri Halhal.",[GIVENNAME_3]: I was born on [DATE_1] in [CITY_1] to [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].,"['Avi Dragomirka', 'Béatrix Saido Troels', 'Halhal Mashael Gayathri']"
+"The Ilef Habibaj Alpalhão Anuth family has a tradition of listening to vinyl records together, enjoying comedy albums by Lyuboslav Petkova and Nicholas Feliz Al-Mallah Deuterio.","The [GIVENNAME_3] [SURNAME_3] family has a tradition of listening to vinyl records together, enjoying comedy albums by [GIVENNAME_2] [SURNAME_2] and [GIVENNAME_1] [SURNAME_1].","['Habibaj Alpalhão Anuth Ilef', 'Petkova Lyuboslav', 'Feliz Al-Mallah Deuterio Nicholas']"
+"5:03 Tancredi: 'Hi Bhavish, sure thing. I'll email them to you at RSK@hotmail.com. By the way, have you spoken to Kensuke about the Adventure Planning Diaries?';","[TIME_1] [GIVENNAME_3]: 'Hi [GIVENNAME_2], sure thing. I'll email them to you at [EMAIL_1]. By the way, have you spoken to [GIVENNAME_1] about the Adventure Planning Diaries?';","['Tancredi', 'Bhavish', 'Kensuke']"
+"Dear Vaxhide Belul Zajkov, please find attached the compliance report on Monastic Architecture as requested by Khetam Tüydür Shybeka Enchiparamban. Our research team worked closely with Madame Neljo Stephanos Pozdnyakov.","Dear [GIVENNAME_3] [SURNAME_3], please find attached the compliance report on Monastic Architecture as requested by [GIVENNAME_2] [SURNAME_2]. Our research team worked closely with [TITLE_1] [GIVENNAME_1] [SURNAME_1].","['Zajkov Vaxhide Belul', 'Tüydür Shybeka Enchiparamban Khetam', 'Pozdnyakov Neljo Stephanos']"
+"To: B@yahoo.com
+From: AD@gmail.com
+Subject: Re: Maroan's baby shower details
+
+Hi Sharmela, thanks for organizing Anna-Giulia Reah's baby shower.","To: [EMAIL_2]
+From: [EMAIL_1]
+Subject: Re: [GIVENNAME_3]'s baby shower details
+
+Hi [GIVENNAME_2], thanks for organizing [GIVENNAME_1]'s baby shower.","['Maroan', 'Sharmela', 'Anna-Giulia Reah']"
+"9:22 Nawzad Wildschut Taminé: 'I, Léane Abou-Zeid Vargues, daughter of Luyao Kalarajany Perotto, request permission to join the council.'","[TIME_1] [GIVENNAME_3] [SURNAME_3]: 'I, [GIVENNAME_2] [SURNAME_2], daughter of [GIVENNAME_1] [SURNAME_1], request permission to join the council.'","['Wildschut Taminé Nawzad', 'Abou-Zeid Vargues Léane', 'Perotto Luyao Kalarajany']"
+"Incident Report - Noemí Andriolo. Victim's Details: Shiyan, 32 years old, O. Investigation Officer: Titus Horozova.","Incident Report - [GIVENNAME_3] [SURNAME_2]. Victim's Details: [GIVENNAME_2], [AGE_1] years old, [SEX_1]. Investigation Officer: [GIVENNAME_1] [SURNAME_1].","['Noemí', 'Andriolo Shiyan', 'Horozova Titus']"
+"Thanks for joining our group chat, everyone! To confirm, our members are: Goya Pohlmann, Kolia Hilarion Jigorea, and I, Keicy.","Thanks for joining our group chat, everyone! To confirm, our members are: [GIVENNAME_3] [SURNAME_2], [GIVENNAME_2] [SURNAME_1], and I, [GIVENNAME_1].","['Goya', 'Pohlmann Kolia Hilarion', 'Jigorea Keicy']"
+"Filippe: Hi Abiran, I'd like to know more about the rooftop farming project in Stockbridge. Can you share some information about the initiative?
+Burbuke Mihaela-Elena: Hi Felippe Kajtaz, the project is a small-scale farming initiative that aims to provide fresh produce to the local community.","[GIVENNAME_4]: Hi [GIVENNAME_3], I'd like to know more about the rooftop farming project in [CITY_1]. Can you share some information about the initiative?
+[GIVENNAME_2]: Hi [GIVENNAME_1], the project is a small-scale farming initiative that aims to provide fresh produce to the local community.","['Filippe', 'Abiran', 'Burbuke Mihaela-Elena', 'Felippe Kajtaz']"
+"09:10 Ekloan: 'Thanks Litty, my father Hilmi will be there to receive the expert.'","[TIME_1] [GIVENNAME_3]: 'Thanks [GIVENNAME_2], my father [GIVENNAME_1] will be there to receive the expert.'","['Ekloan', 'Litty', 'Hilmi']"
+"Inventory of Treehouse Furniture
+Item 1: Sofa, owned by Gian-Battista Crispino
+Item 2: Coffee Table, crafted by Chaido Spenner
+Item 3: Bookshelf, donated by Sandry","Inventory of Treehouse Furniture
+Item 1: Sofa, owned by [GIVENNAME_3]
+Item 2: Coffee Table, crafted by [GIVENNAME_2] [SURNAME_1]
+Item 3: Bookshelf, donated by [GIVENNAME_1]","['Gian-Battista Crispino', 'Chaido', 'Spenner Sandry']"
+"The group chat conversation between Tawab, Abakar Tejinder, and Giaira revealed their excitement and anticipation for their upcoming glacial hiking adventure in Paxton, with Lakhbir sharing tips on VH1999@gmail.com and 0146 09-044.8199.","The group chat conversation between [GIVENNAME_4], [GIVENNAME_3], and [GIVENNAME_2] revealed their excitement and anticipation for their upcoming glacial hiking adventure in [CITY_1], with [GIVENNAME_1] sharing tips on [EMAIL_1] and [TELEPHONENUM_1].","['Tawab', 'Abakar Tejinder', 'Giaira', 'Lakhbir']"
+"Hi Rosani, I hope you're doing well. I am Tihomira Labara Piscone and I am looking for a unique Male gift for my 45 year old Shpend. I came across your Dorchester Piddletrenthide terrariums and I was wondering if you could create a custom AU41079OT piece?","Hi [GIVENNAME_3], I hope you're doing well. I am [GIVENNAME_2] [SURNAME_1] and I am looking for a unique [GENDER_1] gift for my [AGE_1] year old [GIVENNAME_1]. I came across your [CITY_1] terrariums and I was wondering if you could create a custom [IDCARDNUM_1] piece?","['Rosani', 'Tihomira', 'Labara Piscone Shpend']"
+Nilosan Song and Sanell discussed the upcoming lunar eclipse on 1961-07-21T00:00:00. Zan said: 'I'll be Female and taking notes for our research paper.',[GIVENNAME_3] and [GIVENNAME_2] discussed the upcoming lunar eclipse on [DATE_1]. [GIVENNAME_1] said: 'I'll be [GENDER_1] and taking notes for our research paper.',"['Nilosan Song', 'Sanell', 'Zan']"
+"Att Ah Benegiamo
+Westcourt Lane
+York
+DE6
+
+Dear Miss Hadia Karunya Kamitsis,
+Re: Kite Building Design Submission
+
+I am writing to submit my design for the personal kite building project. My name is Negoslav Gekhang and I can be reached at 1973F@tutanota.com or +44-169-184 6506.","[TITLE_2] [GIVENNAME_3] [SURNAME_3]
+[STREET_1]
+[CITY_1]
+[ZIPCODE_1]
+
+Dear [TITLE_1] [GIVENNAME_2] [SURNAME_2],
+Re: Kite Building Design Submission
+
+I am writing to submit my design for the personal kite building project. My name is [GIVENNAME_1] [SURNAME_1] and I can be reached at [EMAIL_1] or [TELEPHONENUM_1].","['Benegiamo Ah', 'Kamitsis Hadia Karunya', 'Gekhang Negoslav']"
+"List of participants in the research: Eronesa Krouti, Rayko Macoggi Buttenshaw, and Binela","List of participants in the research: [GIVENNAME_3] [SURNAME_2], [GIVENNAME_2] [SURNAME_1], and [GIVENNAME_1]","['Eronesa', 'Krouti Rayko', 'Macoggi Buttenshaw Binela']"
+"The Board of Directors memo includes the names Desdina, Uthayakumar Noran, and Maike.","The Board of Directors memo includes the names [GIVENNAME_3], [GIVENNAME_2], and [GIVENNAME_1].","['Desdina', 'Uthayakumar Noran', 'Maike']"
+"Hey everyone, I'm working on a scrapbook project and I need your help. If you have any photos of our friends Castrese Ömer Amoura and Haylee Georgieva, please send them my way. I want to make it a special gift for Mende's birthday, which is 26th August 2023.","Hey everyone, I'm working on a scrapbook project and I need your help. If you have any photos of our friends [GIVENNAME_3] [SURNAME_2] and [GIVENNAME_2] [SURNAME_1], please send them my way. I want to make it a special gift for [GIVENNAME_1]'s birthday, which is [DATE_1].","['Castrese Ömer', 'Amoura Haylee', 'Georgieva Mende']"
+"Hey, Nexhare! It's time to set up our family game night. I'll send you a list of participants: Viha Mohammad-Saleh-Kashani Ohnewein Voutsis, Viveca Zäzilia Ingivel, and Adib Mahmed. Don't forget to invite Zelimkhan Dudognon Heuman!","Hey, [GIVENNAME_5]! It's time to set up our family game night. I'll send you a list of participants: [GIVENNAME_4] [SURNAME_4], [GIVENNAME_3] [SURNAME_3], and [GIVENNAME_2] [SURNAME_2]. Don't forget to invite [GIVENNAME_1] [SURNAME_1]!","['Nexhare', 'Mohammad-Saleh-Kashani Ohnewein Voutsis Viha', 'Ingivel Viveca Zäzilia', 'Mahmed Adib', 'Dudognon Heuman Zelimkhan']"
+Family Fun Time - Jayan and Mihails are in charge of Avsin Desolina's birthday celebration,Family Fun Time - [GIVENNAME_3] and [GIVENNAME_2] are in charge of [GIVENNAME_1]'s birthday celebration,"['Jayan', 'Mihails', 'Avsin Desolina']"
+"Participants: Leilany Calangiu, Pratheepa Anjara Marcos, and Vitalba Al","Participants: [GIVENNAME_3] [SURNAME_2], [GIVENNAME_2] [SURNAME_1], and [GIVENNAME_1]","['Leilany', 'Calangiu Pratheepa Anjara', 'Marcos Vitalba Al']"
+"Maelan is a talented writer and poet who has created a series of isolation poems that explore the human experience. Mylah draws inspiration from Giatgen's own life and observations, crafting poems that are both deeply personal and universally relatable.","[GIVENNAME_3] is a talented writer and poet who has created a series of isolation poems that explore the human experience. [GIVENNAME_2] draws inspiration from [GIVENNAME_1]'s own life and observations, crafting poems that are both deeply personal and universally relatable.","['Maelan', 'Mylah', 'Giatgen']"
+"Hi Arson, I hope you're doing well. I am Phöbe Nixhare Troka and I am looking for a Female terrarium to give as a Aydarus gift. I came across your Banbury Milton store and I was wondering if you could recommend a NARDI-980077-NN-504 piece?","Hi [GIVENNAME_3], I hope you're doing well. I am [GIVENNAME_2] [SURNAME_1] and I am looking for a [SEX_1] terrarium to give as a [GIVENNAME_1] gift. I came across your [CITY_1] store and I was wondering if you could recommend a [DRIVERLICENSENUM_1] piece?","['Arson', 'Phöbe Nixhare', 'Troka Aydarus']"
+"Walking Route Exploration Log: 10:49 AM, Party: Firehiwot Cleta, Yasma Oriane, Dalenda. Route: East 64th Avenue to Madera.","Walking Route Exploration Log: [TIME_1], Party: [GIVENNAME_3], [GIVENNAME_2], [GIVENNAME_1]. Route: [STREET_1] to [CITY_1].","['Firehiwot Cleta', 'Yasma Oriane', 'Dalenda']"
+"12:36 Glikeria: Don't worry, I will! I'll make sure to add Vitalie Hristian's name to the list of recipe guardians along with Chiaki and Saban Beyene.","[TIME_1] [GIVENNAME_4]: Don't worry, I will! I'll make sure to add [GIVENNAME_3]'s name to the list of recipe guardians along with [GIVENNAME_2] and [GIVENNAME_1].","['Glikeria', 'Vitalie Hristian', 'Chiaki', 'Saban Beyene']"
+"Abdisalan La Magra is looking forward to family game night and would like to confirm the names and ages of the participants: Rivin Bürki (53), Elemér Nüssle (21), Izaan Rancourt (80).","[GIVENNAME_4] [SURNAME_4] is looking forward to family game night and would like to confirm the names and ages of the participants: [GIVENNAME_3] [SURNAME_3] ([AGE_3]), [GIVENNAME_2] [SURNAME_2] ([AGE_2]), [GIVENNAME_1] [SURNAME_1] ([AGE_1]).","['La Magra Abdisalan', 'Bürki Rivin', 'Nüssle Elemér', 'Rancourt Izaan']"
+"3:40:29 AM Riwa: 'It was a gift from Andi's 78 year old daughter, Dimitre.'","[TIME_1] [GIVENNAME_3]: 'It was a gift from [GIVENNAME_2]'s [AGE_1] year old daughter, [GIVENNAME_1].'","['Riwa', 'Andi', 'Dimitre']"
+Louai has shared a family story about Dorena Aleyha and Ysa. You can read it on our website at EB@protonmail.com.,[GIVENNAME_3] has shared a family story about [GIVENNAME_2] and [GIVENNAME_1]. You can read it on our website at [EMAIL_1].,"['Louai', 'Dorena Aleyha', 'Ysa']"
+"Railway Safety Report
+Incident Date: 2012-11-10T00:00:00
+Incident Location: Bhavnagar Taluka Loni Kalbhor
+Involved Individuals: Csenge Fitsum, Thadea Bolliet Kapitanova
+Reported By: Miraç Friande von Blarer","Railway Safety Report
+Incident Date: [DATE_1]
+Incident Location: [CITY_1]
+Involved Individuals: [GIVENNAME_3] [SURNAME_3], [GIVENNAME_2] [SURNAME_2]
+Reported By: [GIVENNAME_1] [SURNAME_1]","['Fitsum Csenge', 'Bolliet Kapitanova Thadea', 'Friande von Blarer Miraç']"
+"From: Mayoress Catrine Rutten 
+To: Hinata Clarance 
+Subject: Ethical Conduct Memo - To-Do List
+Dear Khizar, Please review the attached to-do list in preparation for our discussion on ethical conduct in urban exploration.","From: [TITLE_1] [GIVENNAME_3] [SURNAME_1] 
+To: [GIVENNAME_2] 
+Subject: Ethical Conduct Memo - To-Do List
+Dear [GIVENNAME_1], Please review the attached to-do list in preparation for our discussion on ethical conduct in urban exploration.","['Catrine', 'Rutten Khizar', 'Hinata Clarance']"
+"Gowsiya Siraprapha Arnold-Jauch: That's a great idea, Tavin. Also, can you please send me Myriana's MG01@aol.com so we can discuss further?","[GIVENNAME_3] [SURNAME_1]: That's a great idea, [GIVENNAME_2]. Also, can you please send me [GIVENNAME_1]'s [EMAIL_1] so we can discuss further?","['Gowsiya Siraprapha', 'Arnold-Jauch Myriana', 'Tavin']"
+"17:53 Pola Jeronimo: 'Hi Joséphine, my name is Gjevalin Fadjukoff and I am from Goldthwaite. I've been making baskets for years.'","[TIME_1] [GIVENNAME_3] [SURNAME_2]: 'Hi [GIVENNAME_2], my name is [GIVENNAME_1] [SURNAME_1] and I am from [CITY_1]. I've been making baskets for years.'","['Pola', 'Jeronimo Joséphine', 'Fadjukoff Gjevalin']"
+Haritha: '@Cumhur @Amapola Giuly we should plan a shopping trip to Harris soon! Who's in?',[GIVENNAME_3]: '@[GIVENNAME_2] @[GIVENNAME_1] we should plan a shopping trip to [CITY_1] soon! Who's in?',"['Haritha', 'Cumhur', 'Amapola Giuly']"
+"To-Do List for Chiara-Luna Marguerithe Bryner:
+* Review poem submissions from Shair Going and Norvinda Chillè
+* Meet with Madame Wenyu at 2:19 AM","To-Do List for [GIVENNAME_4] [SURNAME_3]:
+* Review poem submissions from [GIVENNAME_3] [SURNAME_2] and [GIVENNAME_2] [SURNAME_1]
+* Meet with [TITLE_1] [GIVENNAME_1] at [TIME_1]","['Chiara-Luna Marguerithe', 'Bryner Shair', 'Going Norvinda', 'Chillè Wenyu']"
+"5:45:39 PM Gastone Endalkachew: 'I love your poem about the faeries! You truly have a gift.';
+05:27:17 01231-308832: 'Cheers Milay. That means a lot coming from you.';
+20:12:19 Baba: 'No, I'm being serious! You should get it published.';
+half past 8 +44 728489986: 'I might just do that.' ","[TIME_4] [GIVENNAME_3]: 'I love your poem about the faeries! You truly have a gift.';
+[TIME_3] [TELEPHONENUM_2]: 'Cheers [GIVENNAME_2]. That means a lot coming from you.';
+[TIME_2] [GIVENNAME_1]: 'No, I'm being serious! You should get it published.';
+[TIME_1] [TELEPHONENUM_1]: 'I might just do that.' ","['Gastone Endalkachew', 'Milay', 'Baba']"
+"Family Tree: Feras Anno Barbeau's children: Merxhan Bel Kadhi, Phillippa Golombek de Spindler","Family Tree: [GIVENNAME_3] [SURNAME_3]'s children: [GIVENNAME_2] [SURNAME_2], [GIVENNAME_1] [SURNAME_1]","['Barbeau Feras Anno', 'Bel Kadhi Merxhan', 'Golombek de Spindler Phillippa']"
+Resmidin is waiting for Yukino Rahima to return Madame before lending it to Newal.,[GIVENNAME_3] is waiting for [GIVENNAME_2] to return [TITLE_1] before lending it to [GIVENNAME_1].,"['Resmidin', 'Yukino Rahima', 'Newal']"
