@@ -28,8 +28,8 @@ const handleSubmit = async () => {
   score.value = null
   isSubmitting.value = true
   try {
-    const result = await evaluatePrompt(prompt.value, task.value.name)
-    score.value = result
+    const result = await evaluatePrompt(prompt.value, task.value.backend_name)
+    score.value = result.score.toString()
   } finally {
     isSubmitting.value = false
   }
