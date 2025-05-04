@@ -18,7 +18,9 @@ const validateForm = () => {
   if (!username.value) {
     errors.value.username = 'Username is required'
   }
-  if (email.value && !validateEmail(email.value)) {
+  if (!email.value) {
+    errors.value.email = 'Email is required'
+  } else if (!validateEmail(email.value)) {
     errors.value.email = 'Invalid email format'
   }
   return Object.keys(errors.value).length === 0
@@ -29,7 +31,7 @@ const handleSubmit = async () => {
   
   const user = await authStore.auth({
     username: username.value,
-    email: email.value || undefined
+    email: email.value
   })
   
   if (user) {
@@ -55,7 +57,7 @@ const handleSubmit = async () => {
       <input
         v-model="email"
         type="email"
-        placeholder="(optional) e-mail"
+        placeholder="e-mail"
         :disabled="authStore.isLoading"
         class="auth-input"
       />
