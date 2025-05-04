@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import { useAuthStore } from '@/stores/auth'
-import { useRouter } from 'vue-router'
+import { useRouter, useRoute } from 'vue-router'
 
 const authStore = useAuthStore()
 const router = useRouter()
+const route = useRoute()
 
 const navigateToLeaderboard = () => {
   router.push('/leaderboard')
@@ -12,11 +13,13 @@ const navigateToLeaderboard = () => {
 const navigateToTasks = () => {
   router.push('/tasks/names_extraction')
 }
+
+const isLoginPage = () => route.name === 'login'
 </script>
 
 <template>
   <div class="app-layout">
-    <nav class="nav-bar">
+    <nav v-if="!isLoginPage()" class="nav-bar">
       <div class="nav-left">
         <img src="@/assets/logo.png" alt="TokenBlood Logo" class="logo" />
       </div>

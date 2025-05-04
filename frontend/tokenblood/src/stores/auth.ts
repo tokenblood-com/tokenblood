@@ -1,29 +1,48 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
 
-export const useAuthStore = defineStore('auth', () => {
-  const currentUser = ref('maxikadze')
-  const isAuthenticated = ref(true)
+interface AuthCredentials {
+  username: string
+  email: string
+}
 
-  function setCurrentUser(username: string) {
-    currentUser.value = username
-  }
+export const useAuthStore = defineStore('auth', {
+  state: () => ({
+    currentUser: '',
+    isAuthenticated: false,
+    isLoading: false
+  }),
+  
+  actions: {
+    async auth(credentials: AuthCredentials) {
+      this.isLoading = true
+      try {
+        // Simulate API delay
+        await new Promise(resolve => setTimeout(resolve, 1000))
+        
+        // Mock successful authentication
+        this.login(credentials.username)
+        return { userId: '123', username: credentials.username }
+      } catch (error) {
+        console.error('Auth error:', error)
+        throw error
+      } finally {
+        this.isLoading = false
+      }
+    },
 
-  function logout() {
-    currentUser.value = ''
-    isAuthenticated.value = false
-  }
+    setCurrentUser(username: string) {
+      this.currentUser = username
+    },
 
-  function login(username: string) {
-    currentUser.value = username
-    isAuthenticated.value = true
-  }
+    logout() {
+      this.currentUser = ''
+      this.isAuthenticated = false
+    },
 
-  return {
-    currentUser,
-    isAuthenticated,
-    setCurrentUser,
-    login,
-    logout
+    login(username: string) {
+      this.currentUser = username
+      this.isAuthenticated = true
+    }
   }
 }) 
