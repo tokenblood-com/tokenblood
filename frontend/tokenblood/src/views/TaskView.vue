@@ -9,6 +9,7 @@ const task = ref<TaskConfiguration | null>(null)
 const prompt = ref('')
 const isSubmitting = ref(false)
 const error = ref('')
+const score = ref<string | null>(null)
 
 onMounted(async () => {
   const taskName = route.params.name as string
@@ -24,9 +25,11 @@ const handleSubmit = async () => {
   }
   
   error.value = ''
+  score.value = null
   isSubmitting.value = true
   try {
-    await evaluatePrompt(prompt.value, task.value.name)
+    const result = await evaluatePrompt(prompt.value, task.value.name)
+    score.value = result
   } finally {
     isSubmitting.value = false
   }
@@ -44,6 +47,9 @@ const handleSubmit = async () => {
     ></textarea>
     <div class="error-message" v-if="error">{{ error }}</div>
     <div class="button-container">
+      <div v-if="score" class="score-display">
+        Score: {{ score }}
+      </div>
       <button 
         class="submit-button"
         :disabled="isSubmitting"
@@ -130,6 +136,14 @@ h1 {
 .button-container {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
   margin-top: 20px;
+  gap: 20px;
+}
+
+.score-display {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+  color: var(--accent-color);
 }
 </style> 

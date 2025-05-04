@@ -1,17 +1,15 @@
 import { useAuthStore } from '@/stores/auth'
 
-export const evaluatePrompt = async (prompt: string, taskName: string) => {
+export const evaluatePrompt = async (prompt: string, taskName: string): Promise<string> => {
   const authStore = useAuthStore()
-  const userId = authStore.user?.userId
+  const username = authStore.currentUser
   
-  if (!userId) {
+  if (!username) {
     throw new Error('User not authenticated')
   }
   
-  // Mock implementation
-  console.log('Evaluating prompt:', {
-    prompt,
-    taskName,
-    userId
-  })
+  // Simulate API call with timeout
+  await new Promise(resolve => setTimeout(resolve, 5000))
+  
+  return '0.76'
 } 
