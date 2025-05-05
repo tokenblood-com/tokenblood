@@ -7,6 +7,7 @@
 - install dependencies: `poetry install`
 - run locally: `poetry run fastapi dev`
 - run linters: `make check`
+- run tests: `make test`
 - build docker image: `docker build -t tokenblood-backend .`
 - run docker container: `docker run -d -p 8000:8000 --name tokenblood-backend tokenblood-backend`
 

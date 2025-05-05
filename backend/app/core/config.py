@@ -2,13 +2,13 @@
 
 import secrets
 
+from dotenv import load_dotenv
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        # Use top level .env file (one level above ./backend/)
-        env_file="../.env",
+        env_file="./.env",
         env_ignore_empty=True,
         extra="ignore",
     )
@@ -19,5 +19,10 @@ class Settings(BaseSettings):
     SQLITE_LOCATION: str = "../db.sqlite"
     SQLALCHEMY_DATABASE_URL: str = f"sqlite:///{SQLITE_LOCATION}"
 
+    OPENAI_MODEL_NAME: str
+    OPENAI_API_KEY: str
+
 
 settings = Settings()  # type: ignore
+
+assert load_dotenv(verbose=True, dotenv_path="./.env")  # required for ai/ package
