@@ -22,9 +22,9 @@ jobs:
           poetry config virtualenvs.in-project true
       - name: Install dependencies from cache
         id: poetry-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
-          path: .venv
+          path: backend/.venv
           key: poetry-ci-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
       - name: Install dependencies
         run: poetry install --no-interaction --no-root
@@ -50,9 +50,9 @@ jobs:
           poetry config virtualenvs.in-project true
       - name: Install dependencies from cache
         id: poetry-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
-          path: .venv
+          path: backend/.venv
           key: poetry-tests-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
       - name: Install dependencies
         run: poetry install --no-interaction --no-root
