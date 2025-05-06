@@ -4,7 +4,7 @@ on: pull_request
 
 defaults:
   run:
-    working-directory: backend/
+    working-directory: ai/
 
 jobs:
   format:
@@ -22,10 +22,10 @@ jobs:
           poetry config virtualenvs.in-project true
       - name: Install dependencies from cache
         id: poetry-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .venv
-          key: poetry-ci-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
+          key: poetry-ci-dependencies-${{ hashFiles('ai/**/poetry.lock') }}
       - name: Install dependencies
         run: poetry install --no-interaction --no-root
         if: steps.poetry-cache.outputs.cache-hit != 'true'
@@ -50,10 +50,10 @@ jobs:
           poetry config virtualenvs.in-project true
       - name: Install dependencies from cache
         id: poetry-cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .venv
-          key: poetry-tests-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
+          key: poetry-tests-dependencies-${{ hashFiles('ai/**/poetry.lock') }}
       - name: Install dependencies
         run: poetry install --no-interaction --no-root
         if: steps.poetry-cache.outputs.cache-hit != 'true'
