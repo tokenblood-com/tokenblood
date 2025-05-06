@@ -8,13 +8,16 @@ WORKDIR /app/
 
 RUN pip install --no-cache-dir poetry
 
-COPY pyproject.toml poetry.lock README.md /app/
+COPY backend/pyproject.toml backend/poetry.lock backend/README.md /app/
+
+COPY ai/src /ai/src
+COPY ai/pyproject.toml ai/poetry.lock ai/README.md /ai/
 
 RUN poetry install --without dev --no-root
 
 # COPY ./scripts /app/scripts
 # COPY ./alembic.ini /app/
-COPY ./app /app/app
+COPY backend/app /app/app
 
 RUN poetry install --without dev 
 CMD ["poetry", "run", "fastapi", "run", "--workers", "4", "app/main.py"]
