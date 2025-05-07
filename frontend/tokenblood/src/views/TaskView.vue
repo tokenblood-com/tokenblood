@@ -3,6 +3,7 @@ import { ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { getTask, type TaskConfiguration } from '@/types/task'
 import { evaluatePrompt } from '@/api/task'
+import { validatePrompt } from '@/utils/promptValidation'
 
 const route = useRoute()
 const task = ref<TaskConfiguration | null>(null)
@@ -19,8 +20,9 @@ onMounted(async () => {
 const handleSubmit = async () => {
   if (!task.value) return
   
-  if (!prompt.value) {
-    error.value = 'Please enter a prompt'
+  const validation = validatePrompt(prompt.value)
+  if (!validation.isValid) {
+    error.value = validation.error || ''
     return
   }
   
@@ -45,10 +47,10 @@ const handleSubmit = async () => {
       class="prompt-input"
       placeholder="Enter your prompt"
     ></textarea>
-    <div class="error-message" v-if="error">{{ error }}</div>
     <div class="button-container">
-      <div v-if="score" class="score-display">
-        Score: {{ score }}
+      <div class="status-container">
+        <div v-if="error" class="error-message">{{ error }}</div>
+        <div v-if="score" class="score-display">Score: {{ score }}</div>
       </div>
       <button 
         class="submit-button"
@@ -104,11 +106,23 @@ h1 {
   outline: none;
 }
 
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.status-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 .error-message {
   color: var(--accent-color);
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
-  margin-bottom: 10px;
 }
 
 .submit-button {
@@ -122,6 +136,7 @@ h1 {
   font-size: 16px;
   cursor: pointer;
   transition: opacity 0.3s;
+  margin-left: 20px;
 }
 
 .submit-button:hover:not(:disabled) {
@@ -131,14 +146,6 @@ h1 {
 .submit-button:disabled {
   opacity: 0.5;
   cursor: not-allowed;
-}
-
-.button-container {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  margin-top: 20px;
-  gap: 20px;
 }
 
 .score-display {
