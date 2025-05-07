@@ -7,6 +7,7 @@ interface EvaluationResult {
 export const evaluatePrompt = async (prompt: string, taskName: string): Promise<EvaluationResult> => {
   const authStore = useAuthStore()
   const username = authStore.currentUser
+  console.log(username)
   
   if (!username) {
     throw new Error('User not authenticated')

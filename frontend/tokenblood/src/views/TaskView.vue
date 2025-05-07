@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { getTask, type TaskConfiguration } from '@/types/task'
 import { evaluatePrompt } from '@/api/task'
@@ -10,7 +10,20 @@ const task = ref<TaskConfiguration | null>(null)
 const prompt = ref('')
 const isSubmitting = ref(false)
 const error = ref('')
-const score = ref<string | null>(null)
+const score = ref<number | null>(null)
+const errorVisible = ref(false)
+
+watch(error, (newError) => {
+  if (newError) {
+    errorVisible.value = true
+    setTimeout(() => {
+      errorVisible.value = false
+      setTimeout(() => {
+        error.value = ''
+      }, 300) // Wait for fade animation to complete
+    }, 3000)
+  }
+})
 
 onMounted(async () => {
   const taskName = route.params.name as string
@@ -31,10 +44,15 @@ const handleSubmit = async () => {
   isSubmitting.value = true
   try {
     const result = await evaluatePrompt(prompt.value, task.value.backend_name)
-    score.value = result.score.toString()
+    score.value = Number(result.score)
   } finally {
     isSubmitting.value = false
   }
+}
+
+const formattedScore = (): string => {
+  if (score.value === null) return ''
+  return score.value.toFixed(2)
 }
 </script>
 
@@ -49,16 +67,22 @@ const handleSubmit = async () => {
     ></textarea>
     <div class="button-container">
       <div class="status-container">
-        <div v-if="error" class="error-message">{{ error }}</div>
-        <div v-if="score" class="score-display">Score: {{ score }}</div>
+        <Transition>
+          <div v-if="error && errorVisible" class="error-message">{{ error }}</div>
+        </Transition>
       </div>
-      <button 
-        class="submit-button"
-        :disabled="isSubmitting"
-        @click="handleSubmit"
-      >
-        {{ isSubmitting ? 'Submitting...' : 'Submit' }}
-      </button>
+      <div class="action-container">
+        <div v-if="score !== null" class="score-display">
+          Score: {{ formattedScore() }}
+        </div>
+        <button 
+          class="submit-button"
+          :disabled="isSubmitting"
+          @click="handleSubmit"
+        >
+          {{ isSubmitting ? 'Submitting...' : 'Submit' }}
+        </button>
+      </div>
     </div>
   </div>
 </template>
@@ -110,19 +134,23 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 20px;
 }
 
-.status-container {
+.action-container {
   display: flex;
   align-items: center;
   gap: 20px;
 }
 
+.status-container {
+  display: flex;
+  align-items: center;
+}
+
 .error-message {
   color: var(--accent-color);
   font-family: 'Roboto Slab', serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .submit-button {
@@ -135,8 +163,7 @@ h1 {
   font-family: 'Roboto Slab', serif;
   font-size: 16px;
   cursor: pointer;
-  transition: opacity 0.3s;
-  margin-left: 20px;
+  transition: opacity 0.2s;
 }
 
 .submit-button:hover:not(:disabled) {
@@ -152,5 +179,17 @@ h1 {
   font-family: 'Roboto Slab', serif;
   font-size: 18px;
   color: var(--accent-color);
+  min-width: 100px;
+  text-align: right;
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style> 
