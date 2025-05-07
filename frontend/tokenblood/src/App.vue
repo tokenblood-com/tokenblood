@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import AppLayout from './components/layout/AppLayout.vue'
+import ErrorNotification from './components/ErrorNotification.vue'
 </script>
 
 <template>
   <AppLayout>
     <RouterView />
   </AppLayout>
+  <ErrorNotification />
 </template>
 
 <style>

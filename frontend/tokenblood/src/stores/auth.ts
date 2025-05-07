@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import { useErrorStore } from './errorStore'
 
 interface AuthCredentials {
   username: string
@@ -21,6 +22,8 @@ export const useAuthStore = defineStore('auth', {
   actions: {
     async auth(credentials: AuthCredentials) {
       this.isLoading = true
+      const { showError } = useErrorStore()
+      
       try {
         const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/auth`, {
           method: 'POST',
@@ -40,6 +43,7 @@ export const useAuthStore = defineStore('auth', {
         return { userId: data.user_id, username: credentials.username }
       } catch (error) {
         console.error('Auth error:', error)
+        showError(error instanceof Error ? error.message : 'Authentication failed')
         throw error
       } finally {
         this.isLoading = false

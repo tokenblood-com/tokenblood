@@ -4,6 +4,7 @@ import { useRoute } from 'vue-router'
 import { getTask, type TaskConfiguration } from '@/types/task'
 import { evaluatePrompt } from '@/api/task'
 import { validatePrompt } from '@/utils/promptValidation'
+import { useErrorStore } from '@/stores/errorStore'
 
 const route = useRoute()
 const task = ref<TaskConfiguration | null>(null)
@@ -31,11 +32,17 @@ onMounted(async () => {
 })
 
 const handleSubmit = async () => {
-  if (!task.value) return
+  const { showError } = useErrorStore()
+  
+  if (!task.value) {
+    showError('No task selected')
+    return
+  }
   
   const validation = validatePrompt(prompt.value)
   if (!validation.isValid) {
-    error.value = validation.error || ''
+    const errorMessage = validation.error || 'Invalid prompt'
+    error.value = errorMessage
     return
   }
   
@@ -45,6 +52,9 @@ const handleSubmit = async () => {
   try {
     const result = await evaluatePrompt(prompt.value, task.value.backend_name)
     score.value = Number(result.score)
+  } catch (err) {
+    // evaluatePrompt already shows the error notification
+    error.value = err instanceof Error ? err.message : 'Failed to evaluate prompt'
   } finally {
     isSubmitting.value = false
   }

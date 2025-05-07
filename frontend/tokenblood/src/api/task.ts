@@ -1,7 +1,8 @@
 import { useAuthStore } from '@/stores/auth'
+import { useErrorStore } from '@/stores/errorStore'
 
-interface EvaluationResult {
-  score: number;
+export interface EvaluationResult {
+  score: number
 }
 
 export const evaluatePrompt = async (prompt: string, taskName: string): Promise<EvaluationResult> => {
@@ -10,7 +11,8 @@ export const evaluatePrompt = async (prompt: string, taskName: string): Promise<
   console.log(username)
   
   if (!username) {
-    throw new Error('User not authenticated')
+    const error = new Error('User not authenticated')
+    throw error
   }
 
   console.log(`${import.meta.env.VITE_BACKEND_URL}/models/evaluate`)
@@ -31,7 +33,8 @@ export const evaluatePrompt = async (prompt: string, taskName: string): Promise<
     if (response.status === 404) {
       console.error('Not found:', error.detail)
     }
-    throw new Error(error.detail || 'Failed to evaluate prompt')
+    const errorMessage = error.detail || 'Failed to evaluate prompt'
+    throw new Error(errorMessage)
   }
   const result = await response.json()
   return {
