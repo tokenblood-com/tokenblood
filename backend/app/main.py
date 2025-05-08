@@ -16,7 +16,7 @@ app = FastAPI(
 
 # Allow requests from the frontend origin
 origins = [
-    "http://localhost:5174",  # Vite frontend
+    "http://localhost:5173",  # Vite frontend
     "https://tokenblood.com",  # Production frontend
 ]
 
