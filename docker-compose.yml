@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    networks:
+      - tokenblood-network
+
+  frontend:
+    build:
+      context: ./frontend/tokenblood
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - tokenblood-network
+
+networks:
+  tokenblood-network:
+    driver: bridge 
