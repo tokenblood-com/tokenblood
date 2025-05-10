@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue'
 import type { LeaderboardEntry } from '@/types/leaderboard'
 import { fetchLeaderboard, type LeaderboardResponse } from '@/api/leaderboard'
-import { PropType } from 'vue'
+import type { PropType } from 'vue'
 import { useAuthStore } from '@/stores/auth'
 
 const leaderboard = ref<LeaderboardEntry[]>([])
