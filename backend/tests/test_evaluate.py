@@ -11,7 +11,7 @@ def test_evaluate_api(client):
     """
 
     response = client.post(
-        "/models/evaluate",
+        "/api/models/evaluate",
         json={"task": debug_task, "prompt": debug_prompt},
         timeout=10,
     )
