@@ -32,7 +32,7 @@ def load_data_for_personal_info_extraction(num_rows: int = 50) -> pd.DataFrame:
         pd.DataFrame: DataFrame with columns 'inputs' (source text) and 'labels' (list of extracted names)
     """
     current_dir = Path(__file__).parent.parent
-    dataset_path = current_dir / "data" / "ai4privacy-many-persons-validation.csv"
+    dataset_path = current_dir / "data" / "ai4privacy-v1" / "cleaned.csv"
     logger.info(f"Loaded dataset from {dataset_path}")
 
     if not dataset_path.is_file():
