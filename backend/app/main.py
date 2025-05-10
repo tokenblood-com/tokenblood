@@ -1,11 +1,11 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
 from app.api.model import model_router
 from app.core.database import engine
 from app.models.user import User
 from app.auth_view import router as auth_router
-from fastapi.middleware.cors import CORSMiddleware
 
 User.metadata.create_all(bind=engine)
 
@@ -29,8 +29,6 @@ app.add_middleware(
 )
 
 app.include_router(auth_router, prefix="/api", tags=["auth"])
-
-
 app.include_router(model_router)
 
 

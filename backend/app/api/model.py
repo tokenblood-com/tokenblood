@@ -12,7 +12,7 @@ class EvaluateRequest(BaseModel):
     prompt: str
 
 
-model_router = APIRouter(tags=["models"], prefix="/models")
+model_router = APIRouter(tags=["models"], prefix="/api/models")
 
 
 @model_router.post("/evaluate", response_model=EvaluationResult)
