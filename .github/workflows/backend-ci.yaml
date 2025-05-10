@@ -1,0 +1,67 @@
+name: Backend CI Pipeline
+
+on: pull_request
+
+defaults:
+  run:
+    working-directory: backend/
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+      - name: Setup Poetry
+        run: |
+          pip install poetry
+          poetry config virtualenvs.create true
+          poetry config virtualenvs.in-project true
+      - name: Install dependencies from cache
+        id: poetry-cache
+        uses: actions/cache@v4
+        with:
+          path: backend/.venv
+          key: poetry-ci-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-interaction --no-root
+        if: steps.poetry-cache.outputs.cache-hit != 'true'
+
+      - name: Formatting
+        run: |
+          make format
+  
+  tests:
+    needs: format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+      - name: Setup Poetry
+        run: | 
+          pip install poetry
+          poetry config virtualenvs.create true
+          poetry config virtualenvs.in-project true
+      - name: Install dependencies from cache
+        id: poetry-cache
+        uses: actions/cache@v4
+        with:
+          path: backend/.venv
+          key: poetry-tests-dependencies-${{ hashFiles('backend/**/poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-interaction --no-root
+        if: steps.poetry-cache.outputs.cache-hit != 'true'
+      - name: Setup project
+        run: poetry install
+      - name: Run tests
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL_NAME: ${{ secrets.OPENAI_MODEL_NAME }}
+        run: |
+          make test
