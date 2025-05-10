@@ -16,8 +16,10 @@ app = FastAPI(
 
 # Allow requests from the frontend origin
 origins = [
-    "http://localhost:5173",  # Vite frontend
-    "https://tokenblood.com",  # Production frontend
+    "http://localhost:5173",  # Vite dev server
+    "http://localhost",       # Docker Compose frontend
+    "http://localhost:80",    # Docker Compose frontend (explicit port)
+    "https://tokenblood.com", # Production frontend
 ]
 
 app.add_middleware(
