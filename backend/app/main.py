@@ -6,7 +6,6 @@ from app.api.model import model_router
 from app.core.database import engine
 from app.models.user import User
 from app.auth_view import router as auth_router
-from fastapi.middleware.cors import CORSMiddleware
 
 User.metadata.create_all(bind=engine)
 
