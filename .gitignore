@@ -2,7 +2,8 @@
 db.sqlite
 .cursor/
 data/
-
+.DS_Store
+.vite
 # other
 .vscode/
 
