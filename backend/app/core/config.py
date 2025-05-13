@@ -2,13 +2,13 @@
 
 import secrets
 
-from dotenv import load_dotenv
 from pydantic_settings import BaseSettings, SettingsConfigDict
+import os
 
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        env_file="./.env",
+        env_file="../.env",
         env_ignore_empty=True,
         extra="ignore",
     )
@@ -25,4 +25,7 @@ class Settings(BaseSettings):
 
 settings = Settings()  # type: ignore
 
-assert load_dotenv(verbose=True, dotenv_path="./.env")  # required for ai/ package
+
+# required for ai/ package
+os.environ["OPENAI_API_KEY"] = settings.OPENAI_API_KEY
+os.environ["OPENAI_MODEL_NAME"] = settings.OPENAI_MODEL_NAME
