@@ -23,8 +23,8 @@ data/
             ├── eval.csv
             └── raw.md
 ```
-
-To upload dataset for local development, use following command: `rsync -avz machine:/data data`.
+- To upload dataset to google cloud vm, use following command: `rsync -avz data machine:/data`.
+- To upload dataset for local development, use following command: `rsync -avz machine:/data data`.
 
 ## Useful commands
 
