@@ -46,8 +46,8 @@ def load_data_for_personal_info_extraction(num_rows: int = 50) -> pd.DataFrame:
     """
     if IS_GITHUB_ACTIONS:
         logger.info("Running in GitHub Actions, using debug dataset")
-        backend_dir = find_root().parent / "backend"
-        dataset_path = backend_dir / "tests" / "test_data" / "personal_info_extraction_debug.csv"
+        ai_dir = find_root().parent / "ai"
+        dataset_path = ai_dir / "tests" / "test_data" / "personal_info_extraction_debug.csv"
     else:
         dataset_path = DATASET_DIR / "personal_info_extraction" / "ai4privacy" / "v1" / "eval.csv"
 
