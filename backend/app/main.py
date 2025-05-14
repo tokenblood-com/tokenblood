@@ -2,7 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
-from app.api.model import model_router
+from app.api.submit import user_router
+from app.api.leaderboard import leaderboard_router
 from app.core.database import engine
 from app.models.user import User
 from app.auth_view import router as auth_router
@@ -29,7 +30,8 @@ app.add_middleware(
 )
 
 app.include_router(auth_router, prefix="/api", tags=["auth"])
-app.include_router(model_router)
+app.include_router(leaderboard_router, prefix="/api/leaderboard", tags=["leaderboard"])
+app.include_router(user_router, prefix="/api/user", tags=["user"])
 
 
 @app.get("/health")

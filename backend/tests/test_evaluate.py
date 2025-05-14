@@ -11,9 +11,8 @@ def test_evaluate_api(client):
     """
 
     response = client.post(
-        "/api/models/evaluate",
+        "/api/user/submit",
         json={"task": debug_task, "prompt": debug_prompt},
-        timeout=10,
     )
 
     assert response.status_code == 200
