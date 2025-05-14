@@ -1,9 +1,22 @@
+import os
 from pathlib import Path
 from typing import Any
 import pandas as pd
 
 import functools
 from loguru import logger
+import socket
+
+from pyrootutils import find_root
+
+
+if "tokenblood-vm" in socket.gethostname():
+    DATASET_DIR = Path("/data")  # dataset location on google cloud vm
+else:
+    DATASET_DIR = find_root().parent / "data"  # dataset location for local development
+
+
+IS_GITHUB_ACTIONS = "GITHUB_ACTIONS" in os.environ
 
 
 @functools.lru_cache()
@@ -31,8 +44,13 @@ def load_data_for_personal_info_extraction(num_rows: int = 50) -> pd.DataFrame:
     Returns:
         pd.DataFrame: DataFrame with columns 'inputs' (source text) and 'labels' (list of extracted names)
     """
-    current_dir = Path(__file__).parent.parent
-    dataset_path = current_dir / "data" / "ai4privacy-many-persons-validation.csv"
+    if IS_GITHUB_ACTIONS:
+        logger.info("Running in GitHub Actions, using debug dataset")
+        backend_dir = find_root().parent / "backend"
+        dataset_path = backend_dir / "tests" / "test_data" / "personal_info_extraction_debug.csv"
+    else:
+        dataset_path = DATASET_DIR / "personal_info_extraction" / "ai4privacy" / "v1" / "eval.csv"
+
     logger.info(f"Loaded dataset from {dataset_path}")
 
     if not dataset_path.is_file():
