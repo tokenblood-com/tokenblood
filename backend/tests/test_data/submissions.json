@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "user_id": "1",
+        "prompt": "test prompt 1",
+        "task_name": "personal_info_extraction_debug",
+        "accuracy": 0.5,
+        "created_at": "2021-01-01 00:00:00",
+        "status": "completed",
+        "updated_at": "2021-01-01 00:00:00"
+    },
+    {
+        "id": "2",
+        "user_id": "1",
+        "prompt": "test prompt 1",
+        "task_name": "personal_info_extraction_debug",
+        "accuracy": 0.6,
+        "created_at": "2021-01-01 00:00:00",
+        "status": "completed",
+        "updated_at": "2021-01-01 00:00:00"
+    },
+    {
+        "id": "3",
+        "user_id": "2",
+        "prompt": "test prompt 1",
+        "task_name": "personal_info_extraction_debug",
+        "created_at": "2021-01-01 00:00:00",
+        "status": "failed",
+        "updated_at": "2021-01-01 00:00:00"
+    },
+    {
+        "id": "4",
+        "user_id": "3",
+        "prompt": "test prompt 1",
+        "task_name": "personal_info_extraction_debug",
+        "accuracy": 0.7,
+        "created_at": "2021-01-01 00:00:00",
+        "status": "completed",
+        "updated_at": "2021-01-01 00:00:00"
+    }
+]

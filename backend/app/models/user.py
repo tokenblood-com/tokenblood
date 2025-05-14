@@ -1,6 +1,4 @@
-from sqlalchemy import Column, String
-from sqlalchemy.dialects.postgresql import UUID
-import uuid
+from sqlalchemy import Column, String, Integer
 from app.core.database import Base
 from sqlalchemy.orm import Session
 from app.models.crud_mixin import CRUDMixin
@@ -9,7 +7,7 @@ from app.models.crud_mixin import CRUDMixin
 class User(Base, CRUDMixin):
     __tablename__ = "users"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     username = Column(String, unique=True, index=True)
     email = Column(String, unique=True, index=True)
 
