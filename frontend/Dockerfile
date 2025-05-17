@@ -1,9 +1,9 @@
 # build frontend
 FROM node:20-slim AS build
 WORKDIR /app
-COPY package*.json ./
+COPY tokenblood/package*.json ./
 RUN npm ci # install dependencies
-COPY . .
+COPY tokenblood/. .
 RUN npm run build
 
 # Build nginx to deliver static files
