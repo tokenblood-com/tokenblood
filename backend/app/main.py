@@ -21,6 +21,8 @@ origins: list[str] = [
     "http://localhost:80",    # Docker Compose frontend (explicit port)
     "https://tokenblood.com", # Production frontend
     "https://35.208.210.30",  # Production frontend (via IP)
+    "http://35.208.210.30",   # HTTP Production frontend (via IP)
+    "http://tokenblood.com",  # HTTP Production frontend
 ]
 
 app.add_middleware(
