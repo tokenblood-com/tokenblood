@@ -11,6 +11,7 @@ RUN pip install --no-cache-dir poetry
 COPY backend/pyproject.toml backend/poetry.lock backend/README.md /tokenblood/backend/
 
 COPY ai/src /tokenblood/ai/src
+COPY ai/data /tokenblood/data
 COPY ai/pyproject.toml ai/poetry.lock ai/README.md /tokenblood/ai/
 
 RUN poetry install --without dev --no-root
