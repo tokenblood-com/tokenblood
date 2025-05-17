@@ -1,6 +1,12 @@
 # project-specific
 db.sqlite
 .cursor/
+data/
+.DS_Store
+.vite
+# other
+.vscode/
+test.db
 
 # other
 .vscode/
