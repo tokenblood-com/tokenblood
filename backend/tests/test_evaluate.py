@@ -1,6 +1,3 @@
-from src.metrics import EvaluationResult
-
-
 def test_evaluate_api(client):
     debug_task = "personal_info_extraction_debug"
     debug_prompt = """Your task is to extract names from a document. Document can contain one or more names. Output names in the following order: SURNAME (if exists), GIVENNAME (if exists). If document contains multiple names, output all of them with the comma. If document contains no names, output an empty string.
@@ -11,12 +8,11 @@ def test_evaluate_api(client):
     """
 
     response = client.post(
-        "/api/models/evaluate",
-        json={"task": debug_task, "prompt": debug_prompt},
-        timeout=10,
+        "/api/user/submit",
+        json={"task": debug_task, "prompt": debug_prompt, "user_id": 1},
     )
 
     assert response.status_code == 200
 
-    response_model = EvaluationResult(**response.json())
-    assert response_model.accuracy_score > 0.1
+    accuracy_score = response.json()["accuracy_score"]
+    assert accuracy_score > 0.1
