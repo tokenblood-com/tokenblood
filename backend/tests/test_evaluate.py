@@ -1,4 +1,3 @@
-from src.metrics import EvaluationResult
 
 
 def test_evaluate_api(client):
@@ -12,10 +11,10 @@ def test_evaluate_api(client):
 
     response = client.post(
         "/api/user/submit",
-        json={"task": debug_task, "prompt": debug_prompt},
+        json={"task": debug_task, "prompt": debug_prompt, "user_id": 1},
     )
 
     assert response.status_code == 200
 
-    response_model = EvaluationResult(**response.json())
-    assert response_model.accuracy_score > 0.1
+    accuracy_score = response.json()
+    assert accuracy_score > 0.1

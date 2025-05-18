@@ -17,6 +17,7 @@ class AuthRequest(BaseModel):
 
 @router.post("/auth")
 def authenticate_user(auth_data: AuthRequest, db: Session = Depends(get_db)):
+    logger.info(f"Authenticating user {auth_data.username} with email {auth_data.email}")
     existing_user = User.get_by_credentials(db=db, username=auth_data.username, email=auth_data.email)
     if existing_user:
         return {"user_id": str(existing_user.id)}

@@ -7,7 +7,7 @@ from app.mock_data.constants import TEST_TASK_NAME
 def test_leaderboard_db(test_db: Session):
     leaderboard = Submission.get_leaderboard_for_task(
         test_db,
-        task_name=TEST_TASK_NAME,
+        task=TEST_TASK_NAME,
     )
 
     # from user "1" we have 2 submissions with accuracy 0.5 and 0.6, should be only one in leaderboard
@@ -20,14 +20,14 @@ def test_leaderboard_db(test_db: Session):
     assert leaderboard[1].user_id == 1
     assert leaderboard[1].accuracy == 0.6
 
-    user_attempts = Submission.get_user_submissions_for_task(test_db, user_id=1, task_name=TEST_TASK_NAME)
+    user_attempts = Submission.get_user_submissions_for_task(test_db, user_id=1, task=TEST_TASK_NAME)
     assert len(user_attempts) == 2
     assert user_attempts[0].accuracy == 0.6
     assert user_attempts[1].accuracy == 0.5
 
 
 def test_leaderboard_api(client: TestClient):
-    response = client.get("/api/leaderboard", params={"task_name": TEST_TASK_NAME})
+    response = client.get("/api/leaderboard", params={"task": TEST_TASK_NAME})
 
     assert response.status_code == 200, response.json()
     response_data = response.json()
@@ -42,7 +42,7 @@ def test_leaderboard_api(client: TestClient):
 
 
 def test_user_submissions_api(client: TestClient):
-    response = client.get("/api/user/submissions", params={"user_id": 1, "task_name": TEST_TASK_NAME})
+    response = client.get("/api/user/submissions", params={"user_id": 1, "task": TEST_TASK_NAME})
     assert response.status_code == 200, response.json()
 
     response_data = response.json()

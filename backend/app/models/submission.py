@@ -21,14 +21,15 @@ class Submission(Base, CRUDMixin):
     id = Column(Integer, primary_key=True, autoincrement=True)
     user_id = Column(Integer, ForeignKey("users.id"))
     prompt = Column(String)
-    task_name = Column(String)
+    task = Column(String)
     accuracy = Column(Float, nullable=True)
     created_at = Column(DateTime, default=datetime.now())
     status = Column(SQLAlchemyEnum(SubmissionStatus))
     updated_at = Column(DateTime, default=datetime.now())
+    error_message = Column(String, nullable=True)
 
     @classmethod
-    def get_leaderboard_for_task(cls, db: Session, task_name: str):
+    def get_leaderboard_for_task(cls, db: Session, task: str):
         """Generate a leaderboard for all users sorted by their accuracy for a specific task.
 
         If user has multiple submissions, only the highest accuracy submission is returned.
@@ -55,7 +56,7 @@ class Submission(Base, CRUDMixin):
         # Order the final result by accuracy in descending order to form the leaderboard.
         leaderboard = (
             db.query(cls)
-            .filter(cls.task_name == task_name)
+            .filter(cls.task == task)
             .filter(cls.status == SubmissionStatus.completed)
             .join(
                 ranked_submissions_sq,
@@ -73,11 +74,6 @@ class Submission(Base, CRUDMixin):
         return leaderboard
 
     @classmethod
-    def get_user_submissions_for_task(cls, db: Session, user_id: int, task_name: str):
+    def get_user_submissions_for_task(cls, db: Session, user_id: int, task: str):
         """Get all submissions for a user for a specific task."""
-        return (
-            db.query(cls)
-            .filter(cls.user_id == user_id, cls.task_name == task_name)
-            .order_by(cls.created_at.desc())
-            .all()
-        )
+        return db.query(cls).filter(cls.user_id == user_id, cls.task == task).order_by(cls.created_at.desc()).all()
