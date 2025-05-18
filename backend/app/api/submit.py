@@ -45,7 +45,12 @@ def submit(request: EvaluateRequest, db: Session = Depends(get_db)):
             updated_at=datetime.now(),
         )
         submission.save(db)
-        return eval_result.accuracy_score
+        return {
+            "submission_id": submission.id,
+            "accuracy_score": eval_result.accuracy_score,
+            "status": SubmissionStatus.completed,
+            "error_message": None,
+        }
 
     except Exception as e:
         logger.error(f"Error evaluating prompt: {e}")
@@ -60,7 +65,12 @@ def submit(request: EvaluateRequest, db: Session = Depends(get_db)):
         )
         submission.save(db)
 
-        return None
+        return {
+            "submission_id": submission.id,
+            "accuracy_score": None,
+            "status": SubmissionStatus.failed,
+            "error_message": str(e),
+        }
 
 
 @user_router.get("/submissions")
